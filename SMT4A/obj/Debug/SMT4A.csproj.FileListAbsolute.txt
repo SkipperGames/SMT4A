@@ -1,0 +1,11 @@
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\SMT4A\SMT4A\bin\Debug\SMT4A.exe.config
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\SMT4A\SMT4A\bin\Debug\SMT4A.exe
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\SMT4A\SMT4A\bin\Debug\SMT4A.pdb
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\SMT4A\SMT4A\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\SMT4A\SMT4A\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\SMT4A\SMT4A\obj\Debug\SMT4A.Form1.resources
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\SMT4A\SMT4A\obj\Debug\SMT4A.Properties.Resources.resources
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\SMT4A\SMT4A\obj\Debug\SMT4A.csproj.GenerateResource.Cache
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\SMT4A\SMT4A\obj\Debug\SMT4A.exe
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\SMT4A\SMT4A\obj\Debug\SMT4A.pdb
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\SMT4A\SMT4A\obj\Debug\SMT4A.csprojResolveAssemblyReference.cache
