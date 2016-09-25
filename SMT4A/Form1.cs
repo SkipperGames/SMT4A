@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Data;
 using System.Linq;
+using System.Text;
 using System.Windows.Forms;
 
 
@@ -9,6 +10,16 @@ namespace SMT4A
 {
     public partial class Form1 : Form
     {
+        private Random rand = new Random(
+            BitConverter.ToInt32(Guid.NewGuid().ToByteArray(), 0) -
+            DateTime.Now.DayOfYear +
+            DateTime.Now.Day +
+            DateTime.Now.Hour +
+            DateTime.Now.Minute +
+            DateTime.Now.Second +
+            DateTime.Now.Millisecond);
+
+
         public Form1()
         {
             InitializeComponent();
@@ -125,7 +136,7 @@ namespace SMT4A
             string eff = s.Effect;
             if (eff.Length > 50)
             {
-                for (int i = 40; i < 10; i++)
+                for (int i = 40; i < 51; i++)
                 {
                     if (char.IsWhiteSpace(eff[i]))
                     {
@@ -135,8 +146,13 @@ namespace SMT4A
                 }
             }
 
+            eff = string.IsNullOrEmpty(eff) ? "-" : eff;
+
+            byte[] id_bytes = BitConverter.GetBytes(s.Id);
+            string id = BitConverter.ToString(id_bytes).Replace('-', ' ');
+
             lb_selectedSkill.Text =
-                "Id:           " + s.Id.ToString("X") + "\n" +
+                "Id:           " + id + "\n" +
                 "Name:         " + s.Name + "\n" +
                 "# of attacks: " + s.AttacksLow + (s.AttacksHigh > 0 ? "-" + s.AttacksHigh : "") + "\n" +
                 "Power:        " + s.Power + "\n" +
@@ -235,15 +251,6 @@ namespace SMT4A
 
         private void b_random_Click(object sender, EventArgs e)
         {
-            Random rand = new Random(
-                BitConverter.ToInt32(Guid.NewGuid().ToByteArray(), 0) -
-                DateTime.Now.DayOfYear +
-                DateTime.Now.Day +
-                DateTime.Now.Hour +
-                DateTime.Now.Minute +
-                DateTime.Now.Second +
-                DateTime.Now.Millisecond);
-
             int id = rand.Next(0, 500) + 1;
 
             Skill[] arr = new Skill[1] { SkillCollection.Skills[id] };
