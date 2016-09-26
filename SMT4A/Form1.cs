@@ -148,7 +148,7 @@ namespace SMT4A
 
             eff = string.IsNullOrEmpty(eff) ? "-" : eff;
 
-            byte[] id_bytes = BitConverter.GetBytes(s.Id);
+            byte[] id_bytes = BitConverter.GetBytes(s.Id).Reverse().ToArray();
             string id = BitConverter.ToString(id_bytes).Replace('-', ' ');
 
             lb_selectedSkill.Text =
