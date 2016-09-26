@@ -33,8 +33,8 @@ D3000000 30CF9344
 1000000A 0000XXXX
 1000000C 0000XXXX
 1000000E 0000XXXX
-00000010 09090909
-00000014 09090909
+00000010 0A0A0A0A
+00000014 0A0A0A0A
 D0000000 00000000
 ```
 Where each XXXX is a skill slot you want to modify. In the app, under Skill Properties, you take the skill's _Id_ and replace XXXX with it. Note in order to modify all 8 skills (rather than the initial limit of 4) you must have unlocked the extra slots in the game > System > App.
