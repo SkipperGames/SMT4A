@@ -28,4 +28,4 @@ B. Part of this process involves understanding how (specific) skills work and ar
 
 Q. __My new skill does not work in game or is grayed out...__
 
-A. It may be an enemy-exclusive/original skill, or a dummy, or it's simply uncoded in the game. One example is the skill "Hexagon", (can 1-hit). This often happens to me when I tried using an OP skill, only to find it doesn't work.
+A. It may be an enemy-exclusive/original skill, or a dummy, or it's simply uncoded in the game. One example is the skill "Hexagram", (can 1-hit). This often happens to me when I tried using an OP skill, only to find it doesn't work.
