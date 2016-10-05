@@ -37,7 +37,7 @@ namespace SMT4A
                             {
                                 Demons.Add(new Demon()
                                 {
-                                    Id = (short)parser.LineNumber,
+                                    Id = (short)(parser.LineNumber - 1),
                                     Race = line[1],
                                     Name = line[2],
                                     HasSprite = true,

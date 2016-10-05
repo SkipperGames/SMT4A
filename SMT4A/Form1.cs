@@ -23,6 +23,8 @@ namespace SMT4A
             
             SkillCollection.InitializeFromJson();
             DemonCollection.InitializeFromCSV();
+            DemonCollection.SaveToJsonFile();
+            DemonCollection.SaveToTextFile();
 
             lbx_skills.DataSource = SkillCollection.Skills;
 
