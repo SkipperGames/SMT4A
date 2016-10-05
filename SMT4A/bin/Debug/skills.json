@@ -1077,7 +1077,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Removes Poison/Sick",
-    "Name": "Posmudi"
+    "Name": "Posumudi"
   },
   {
     "Id": 91,
@@ -1485,7 +1485,7 @@
     "AttacksHigh": 0,
     "MP": 20,
     "Effect": "Summons an ally demon",
-    "Name": "Sabbatama"
+    "Name": "Sabbatma"
   },
   {
     "Id": 125,
@@ -2157,7 +2157,7 @@
     "AttacksHigh": 0,
     "MP": 6,
     "Effect": "",
-    "Name": "Iron Judgement"
+    "Name": "Iron Judgment"
   },
   {
     "Id": 181,
@@ -2265,7 +2265,7 @@
     "AttacksHigh": 0,
     "MP": 7,
     "Effect": "Inflicts Poison",
-    "Name": "Toxic String"
+    "Name": "Toxic Sting"
   },
   {
     "Id": 190,
@@ -2829,7 +2829,7 @@
     "AttacksHigh": 0,
     "MP": 8,
     "Effect": "Drains weakness until your next turn. Smirking: Stats up",
-    "Name": "Enlightment"
+    "Name": "Enlightenment"
   },
   {
     "Id": 237,
@@ -3008,7 +3008,7 @@
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 1,
-    "Effect": "",
+    "Effect": "Inflicts Bind",
     "Name": "Vengeful Curse"
   },
   {
@@ -4041,7 +4041,7 @@
     "AttacksHigh": 5,
     "MP": 55,
     "Effect": "",
-    "Name": "Fire of Sinai "
+    "Name": "Fire of Sinai"
   },
   {
     "Id": 338,

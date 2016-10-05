@@ -1,11 +1,8 @@
 ﻿using System;
 using System.Data;
 using System.Linq;
-using System.Text;
 using System.Windows.Forms;
 
-
-// Id, Name, AttacksLow, AttacksHigh, Power, Element, Class, Target, Effect, MP
 namespace SMT4A
 {
     public partial class Form1 : Form
@@ -25,6 +22,7 @@ namespace SMT4A
             InitializeComponent();
             
             SkillCollection.InitializeFromJson();
+            DemonCollection.InitializeFromCSV();
 
             lbx_skills.DataSource = SkillCollection.Skills;
 
