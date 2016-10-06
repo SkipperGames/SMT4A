@@ -27,8 +27,7 @@ namespace SMT4A
                             ","
                         };
 
-                        parser.ReadLine();                       
-
+                        parser.ReadLine();
                         while (!parser.EndOfData)
                         {
                             string[] line = parser.ReadFields();
@@ -43,6 +42,7 @@ namespace SMT4A
                                     HasSprite = true,
                                 });
                             }
+                            else continue;
 
                             if (parser.LineNumber >= short.MaxValue)
                             {

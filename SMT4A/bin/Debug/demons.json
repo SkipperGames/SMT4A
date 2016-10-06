@@ -1,170 +1,182 @@
 [
   {
-    "Id": 2,
-    "Race": "Herald",
-    "Name": "Metatron",
-    "HasSprite": true
-  },
-  {
-    "Id": 6,
-    "Race": "Herald",
-    "Name": "Merkabah",
-    "HasSprite": true
-  },
-  {
-    "Id": 8,
-    "Race": "Herald",
-    "Name": "Seraph",
-    "HasSprite": true
-  },
-  {
-    "Id": 9,
-    "Race": "Herald",
-    "Name": "Mastema",
-    "HasSprite": true
-  },
-  {
-    "Id": 11,
-    "Race": "Herald",
-    "Name": "Aniel",
-    "HasSprite": true
-  },
-  {
-    "Id": 14,
-    "Race": "Herald",
-    "Name": "Kazfiel",
-    "HasSprite": true
-  },
-  {
-    "Id": 16,
+    "Id": 10,
     "Race": "Primal",
     "Name": "Satan",
     "HasSprite": true
   },
   {
+    "Id": 11,
+    "Race": "Herald",
+    "Name": "Merkabah",
+    "HasSprite": true
+  },
+  {
+    "Id": 12,
+    "Race": "Herald",
+    "Name": "Seraph",
+    "HasSprite": true
+  },
+  {
+    "Id": 14,
+    "Race": "Herald",
+    "Name": "Metatron",
+    "HasSprite": true
+  },
+  {
+    "Id": 16,
+    "Race": "Herald",
+    "Name": "Mastema",
+    "HasSprite": true
+  },
+  {
     "Id": 17,
     "Race": "Herald",
-    "Name": "Sraosha",
+    "Name": "Aniel",
     "HasSprite": true
   },
   {
     "Id": 18,
     "Race": "Herald",
+    "Name": "Sraosha",
+    "HasSprite": true
+  },
+  {
+    "Id": 20,
+    "Race": "Herald",
+    "Name": "Azreal",
+    "HasSprite": true
+  },
+  {
+    "Id": 21,
+    "Race": "Herald",
+    "Name": "Kazfiel",
+    "HasSprite": true
+  },
+  {
+    "Id": 23,
+    "Race": "Herald",
     "Name": "Israfel",
     "HasSprite": true
   },
   {
-    "Id": 19,
-    "Race": "Herald",
-    "Name": "Azrael",
-    "HasSprite": true
-  },
-  {
     "Id": 24,
-    "Race": "Megami",
-    "Name": "Parvati",
-    "HasSprite": true
-  },
-  {
-    "Id": 25,
-    "Race": "Megami",
-    "Name": "Lakshmi",
-    "HasSprite": true
-  },
-  {
-    "Id": 27,
-    "Race": "Megami",
-    "Name": "Anat",
-    "HasSprite": true
-  },
-  {
-    "Id": 28,
-    "Race": "Megami",
-    "Name": "Lailah",
-    "HasSprite": true
-  },
-  {
-    "Id": 30,
-    "Race": "Megami",
-    "Name": "Pallas Athena",
-    "HasSprite": true
-  },
-  {
-    "Id": 31,
     "Race": "Herald",
     "Name": "Victor",
     "HasSprite": true
   },
   {
+    "Id": 25,
+    "Race": "Herald",
+    "Name": "Lailah",
+    "HasSprite": true
+  },
+  {
+    "Id": 31,
+    "Race": "Herald",
+    "Name": "Lakshmi",
+    "HasSprite": true
+  },
+  {
     "Id": 32,
-    "Race": "Megami",
-    "Name": "Ishtar",
-    "HasSprite": true
-  },
-  {
-    "Id": 33,
-    "Race": "Megami",
-    "Name": "Fortuna",
-    "HasSprite": true
-  },
-  {
-    "Id": 35,
-    "Race": "Megami",
-    "Name": "Hathor",
-    "HasSprite": true
-  },
-  {
-    "Id": 37,
     "Race": "Megami",
     "Name": "Norn",
     "HasSprite": true
   },
   {
-    "Id": 40,
+    "Id": 33,
+    "Race": "Megami",
+    "Name": "Anat",
+    "HasSprite": true
+  },
+  {
+    "Id": 34,
     "Race": "Megami",
     "Name": "Tlazolteotl",
     "HasSprite": true
   },
   {
+    "Id": 35,
+    "Race": "Megami",
+    "Name": "Pallas Athena",
+    "HasSprite": true
+  },
+  {
+    "Id": 36,
+    "Race": "Megami",
+    "Name": "Ishtar",
+    "HasSprite": true
+  },
+  {
+    "Id": 37,
+    "Race": "Megami",
+    "Name": "Scathach",
+    "HasSprite": true
+  },
+  {
+    "Id": 39,
+    "Race": "Megami",
+    "Name": "Parvati",
+    "HasSprite": true
+  },
+  {
+    "Id": 40,
+    "Race": "Megami",
+    "Name": "Fortuna",
+    "HasSprite": true
+  },
+  {
     "Id": 41,
+    "Race": "Megami",
+    "Name": "Hathor",
+    "HasSprite": true
+  },
+  {
+    "Id": 42,
     "Race": "Megami",
     "Name": "Brigid",
     "HasSprite": true
   },
   {
-    "Id": 42,
-    "Race": "Avian",
-    "Name": "Garuda",
-    "HasSprite": true
-  },
-  {
-    "Id": 44,
+    "Id": 43,
     "Race": "Megami",
     "Name": "Izanami",
     "HasSprite": true
   },
   {
     "Id": 47,
-    "Race": "Megami",
-    "Name": "Scathach",
+    "Race": "Avian",
+    "Name": "Garuda",
     "HasSprite": true
   },
   {
     "Id": 48,
-    "Race": "Tree",
-    "Name": "Mayahuel",
+    "Race": "Avian",
+    "Name": "Yatagarasu",
+    "HasSprite": true
+  },
+  {
+    "Id": 49,
+    "Race": "Avian",
+    "Name": "Feng Huang",
     "HasSprite": true
   },
   {
     "Id": 50,
-    "Race": "Tree",
-    "Name": "Kukunochi",
+    "Race": "Avian",
+    "Name": "Thunderbird",
+    "HasSprite": true
+  },
+  {
+    "Id": 51,
+    "Race": "Avian",
+    "Name": "Vidofnir",
     "HasSprite": true
   },
   {
     "Id": 52,
     "Race": "Avian",
-    "Name": "Feng Huang",
+    "Name": "Phoenix",
     "HasSprite": true
   },
   {
@@ -174,75 +186,81 @@
     "HasSprite": true
   },
   {
-    "Id": 55,
-    "Race": "Avian",
-    "Name": "Yatagarasu",
-    "HasSprite": true
-  },
-  {
-    "Id": 56,
-    "Race": "Tree",
-    "Name": "Yggdrasil",
-    "HasSprite": true
-  },
-  {
-    "Id": 57,
-    "Race": "Tree",
-    "Name": "Narcissus",
-    "HasSprite": true
-  },
-  {
-    "Id": 59,
-    "Race": "Tree",
-    "Name": "Daphne",
-    "HasSprite": true
-  },
-  {
-    "Id": 60,
+    "Id": 54,
     "Race": "Avian",
     "Name": "Hamsa",
     "HasSprite": true
   },
   {
-    "Id": 63,
-    "Race": "Avian",
-    "Name": "Phoenix",
+    "Id": 60,
+    "Race": "Tree",
+    "Name": "Yggdrasil",
     "HasSprite": true
   },
   {
-    "Id": 66,
-    "Race": "Divine",
-    "Name": "Cherub",
-    "HasSprite": true
-  },
-  {
-    "Id": 69,
-    "Race": "Avian",
-    "Name": "Thunderbird",
-    "HasSprite": true
-  },
-  {
-    "Id": 70,
-    "Race": "Avian",
-    "Name": "Vidofnir",
-    "HasSprite": true
-  },
-  {
-    "Id": 71,
+    "Id": 61,
     "Race": "Tree",
     "Name": "Haoma",
     "HasSprite": true
   },
   {
+    "Id": 62,
+    "Race": "Tree",
+    "Name": "Kukunochi",
+    "HasSprite": true
+  },
+  {
+    "Id": 63,
+    "Race": "Tree",
+    "Name": "Mayahuel",
+    "HasSprite": true
+  },
+  {
+    "Id": 64,
+    "Race": "Tree",
+    "Name": "Narcissus",
+    "HasSprite": true
+  },
+  {
+    "Id": 65,
+    "Race": "Tree",
+    "Name": "Daphne",
+    "HasSprite": true
+  },
+  {
+    "Id": 71,
+    "Race": "Divine",
+    "Name": "Cherub",
+    "HasSprite": true
+  },
+  {
+    "Id": 72,
+    "Race": "Divine",
+    "Name": "Throne",
+    "HasSprite": true
+  },
+  {
+    "Id": 73,
+    "Race": "Divine",
+    "Name": "Dominion",
+    "HasSprite": true
+  },
+  {
     "Id": 74,
-    "Race": "Flight",
-    "Name": "Rukh",
+    "Race": "Divine",
+    "Name": "Virtue",
+    "HasSprite": true
+  },
+  {
+    "Id": 75,
+    "Race": "Divine",
+    "Name": "Power",
     "HasSprite": true
   },
   {
     "Id": 76,
     "Race": "Divine",
-    "Name": "Dominion",
+    "Name": "Principality",
     "HasSprite": true
   },
   {
@@ -252,43 +270,37 @@
     "HasSprite": true
   },
   {
-    "Id": 79,
-    "Race": "Divine",
-    "Name": "Throne",
-    "HasSprite": true
-  },
-  {
-    "Id": 83,
-    "Race": "Flight",
-    "Name": "Tuofei",
-    "HasSprite": true
-  },
-  {
-    "Id": 84,
+    "Id": 78,
     "Race": "Divine",
     "Name": "Angel (blue)",
     "HasSprite": true
   },
   {
-    "Id": 85,
+    "Id": 80,
     "Race": "Divine",
-    "Name": "Angel (dark)",
+    "Name": "Angel (black)",
+    "HasSprite": true
+  },
+  {
+    "Id": 85,
+    "Race": "Flight",
+    "Name": "Da Peng",
     "HasSprite": true
   },
   {
     "Id": 86,
     "Race": "Flight",
-    "Name": "Tangata Manu",
-    "HasSprite": true
-  },
-  {
-    "Id": 87,
-    "Race": "Divine",
-    "Name": "Principality",
+    "Name": "Rukh",
     "HasSprite": true
   },
   {
     "Id": 89,
+    "Race": "Flight",
+    "Name": "Tuofei",
+    "HasSprite": true
+  },
+  {
+    "Id": 90,
     "Race": "Flight",
     "Name": "Caladrius",
     "HasSprite": true
@@ -296,43 +308,31 @@
   {
     "Id": 91,
     "Race": "Flight",
-    "Name": "Harpy",
+    "Name": "Gu Huo Niao",
     "HasSprite": true
   },
   {
     "Id": 92,
     "Race": "Flight",
-    "Name": "Gu Huo Niao",
+    "Name": "Harpy",
     "HasSprite": true
   },
   {
     "Id": 93,
-    "Race": "Divine",
-    "Name": "Virtue",
-    "HasSprite": true
-  },
-  {
-    "Id": 94,
-    "Race": "Divine",
-    "Name": "Power",
-    "HasSprite": true
-  },
-  {
-    "Id": 95,
     "Race": "Flight",
-    "Name": "Da Peng",
-    "HasSprite": true
-  },
-  {
-    "Id": 97,
-    "Race": "Yoma",
-    "Name": "Shiwanna",
+    "Name": "Tangata Manu",
     "HasSprite": true
   },
   {
     "Id": 99,
     "Race": "Yoma",
-    "Name": "Karasu Tengu",
+    "Name": "Ganesha",
+    "HasSprite": true
+  },
+  {
+    "Id": 100,
+    "Race": "Yoma",
+    "Name": "Master Therion",
     "HasSprite": true
   },
   {
@@ -344,91 +344,85 @@
   {
     "Id": 102,
     "Race": "Yoma",
-    "Name": "Agathion",
+    "Name": "Valkyrie",
+    "HasSprite": true
+  },
+  {
+    "Id": 103,
+    "Race": "Yoma",
+    "Name": "Shiwanna",
     "HasSprite": true
   },
   {
     "Id": 104,
     "Race": "Yoma",
-    "Name": "Vodyanik",
-    "HasSprite": true
-  },
-  {
-    "Id": 106,
-    "Race": "Nymph",
-    "Name": "Apsaras",
-    "HasSprite": true
-  },
-  {
-    "Id": 108,
-    "Race": "Yoma",
-    "Name": "Valkyrie",
-    "HasSprite": true
-  },
-  {
-    "Id": 109,
-    "Race": "Yoma",
     "Name": "Dis",
     "HasSprite": true
   },
   {
-    "Id": 110,
-    "Race": "Nymph",
-    "Name": "Senri",
-    "HasSprite": true
-  },
-  {
-    "Id": 111,
+    "Id": 105,
     "Race": "Yoma",
-    "Name": "Master Therion",
+    "Name": "Karasu Tengu",
     "HasSprite": true
   },
   {
-    "Id": 112,
+    "Id": 106,
     "Race": "Yoma",
     "Name": "Koppa Tengu",
     "HasSprite": true
   },
   {
-    "Id": 113,
-    "Race": "Nymph",
-    "Name": "Peri",
-    "HasSprite": true
-  },
-  {
-    "Id": 114,
-    "Race": "Nymph",
-    "Name": "Kikuri-Hime",
-    "HasSprite": true
-  },
-  {
-    "Id": 116,
-    "Race": "Nymph",
-    "Name": "Sarasvati",
-    "HasSprite": true
-  },
-  {
-    "Id": 118,
+    "Id": 107,
     "Race": "Yoma",
-    "Name": "Ganesha",
+    "Name": "Agathion",
     "HasSprite": true
   },
   {
-    "Id": 119,
+    "Id": 108,
+    "Race": "Yoma",
+    "Name": "Vodyanik",
+    "HasSprite": true
+  },
+  {
+    "Id": 109,
     "Race": "Yoma",
     "Name": "Centaur",
     "HasSprite": true
   },
   {
-    "Id": 121,
-    "Race": "Vile",
-    "Name": "Alciel",
+    "Id": 114,
+    "Race": "Nymph",
+    "Name": "Peri",
     "HasSprite": true
   },
   {
-    "Id": 123,
+    "Id": 115,
+    "Race": "Nymph",
+    "Name": "Sarasvati",
+    "HasSprite": true
+  },
+  {
+    "Id": 117,
+    "Race": "Nymph",
+    "Name": "Senri",
+    "HasSprite": true
+  },
+  {
+    "Id": 118,
+    "Race": "Nymph",
+    "Name": "Apsaras",
+    "HasSprite": true
+  },
+  {
+    "Id": 119,
+    "Race": "Nymph",
+    "Name": "Kikuri-hime",
+    "HasSprite": true
+  },
+  {
+    "Id": 124,
     "Race": "Vile",
-    "Name": "Pachacamac",
+    "Name": "Demiurge",
     "HasSprite": true
   },
   {
@@ -440,247 +434,265 @@
   {
     "Id": 126,
     "Race": "Vile",
-    "Name": "Mishaguji",
+    "Name": "Pales",
+    "HasSprite": true
+  },
+  {
+    "Id": 127,
+    "Race": "Vile",
+    "Name": "Alciel",
     "HasSprite": true
   },
   {
     "Id": 128,
     "Race": "Vile",
-    "Name": "Baphomet",
+    "Name": "Taotie",
     "HasSprite": true
   },
   {
-    "Id": 130,
-    "Race": "Raptor",
-    "Name": "Zhen",
+    "Id": 129,
+    "Race": "Vile",
+    "Name": "Pachacamac",
+    "HasSprite": true
+  },
+  {
+    "Id": 131,
+    "Race": "Vile",
+    "Name": "Mishaguji",
     "HasSprite": true
   },
   {
     "Id": 132,
     "Race": "Vile",
-    "Name": "Pales",
-    "HasSprite": true
-  },
-  {
-    "Id": 133,
-    "Race": "Vile",
-    "Name": "Taotie",
-    "HasSprite": true
-  },
-  {
-    "Id": 134,
-    "Race": "Raptor",
-    "Name": "Gurr",
-    "HasSprite": true
-  },
-  {
-    "Id": 135,
-    "Race": "Vile",
-    "Name": "Demiurge",
-    "HasSprite": true
-  },
-  {
-    "Id": 137,
-    "Race": "Raptor",
-    "Name": "Hresvelgr",
+    "Name": "Baphomet",
     "HasSprite": true
   },
   {
     "Id": 138,
     "Race": "Raptor",
-    "Name": "Itsumade",
+    "Name": "Hresvelgr",
     "HasSprite": true
   },
   {
     "Id": 139,
     "Race": "Raptor",
-    "Name": "Anzu",
+    "Name": "Huoniao",
     "HasSprite": true
   },
   {
     "Id": 140,
     "Race": "Raptor",
-    "Name": "Huoniao",
+    "Name": "Anzu",
     "HasSprite": true
   },
   {
-    "Id": 147,
-    "Race": "Wood",
-    "Name": "Alraune",
-    "HasSprite": true
-  },
-  {
-    "Id": 148,
+    "Id": 141,
     "Race": "Raptor",
-    "Name": "Camazotz",
+    "Name": "Gurr",
     "HasSprite": true
   },
   {
-    "Id": 150,
-    "Race": "Wood",
-    "Name": "Skogsra",
+    "Id": 142,
+    "Race": "Raptor",
+    "Name": "Zhen",
     "HasSprite": true
   },
   {
-    "Id": 151,
+    "Id": 143,
+    "Race": "Raptor",
+    "Name": "Itsumade",
+    "HasSprite": true
+  },
+  {
+    "Id": 144,
     "Race": "Raptor",
     "Name": "Moh Shuvuu",
     "HasSprite": true
   },
   {
-    "Id": 152,
-    "Race": "Wood",
-    "Name": "Mandrake",
+    "Id": 145,
+    "Race": "Raptor",
+    "Name": "Camazotz",
     "HasSprite": true
   },
   {
-    "Id": 154,
-    "Race": "Deity",
-    "Name": "Apsu",
-    "HasSprite": true
-  },
-  {
-    "Id": 157,
-    "Race": "Wood",
-    "Name": "Erlkonig",
-    "HasSprite": true
-  },
-  {
-    "Id": 158,
-    "Race": "Deity",
-    "Name": "Hachiman",
-    "HasSprite": true
-  },
-  {
-    "Id": 160,
-    "Race": "Wood",
-    "Name": "Zaccoum",
-    "HasSprite": true
-  },
-  {
-    "Id": 162,
-    "Race": "Deity",
-    "Name": "Baal",
-    "HasSprite": true
-  },
-  {
-    "Id": 165,
+    "Id": 146,
     "Race": "Raptor",
     "Name": "Fuxi",
     "HasSprite": true
   },
   {
-    "Id": 167,
+    "Id": 152,
+    "Race": "Wood",
+    "Name": "Erlkonig",
+    "HasSprite": true
+  },
+  {
+    "Id": 153,
+    "Race": "Wood",
+    "Name": "Alraune",
+    "HasSprite": true
+  },
+  {
+    "Id": 154,
+    "Race": "Wood",
+    "Name": "Zaccoum",
+    "HasSprite": true
+  },
+  {
+    "Id": 155,
+    "Race": "Wood",
+    "Name": "Skogsra",
+    "HasSprite": true
+  },
+  {
+    "Id": 156,
+    "Race": "Wood",
+    "Name": "Mandrake",
+    "HasSprite": true
+  },
+  {
+    "Id": 157,
     "Race": "Wood",
     "Name": "Shan Xiao",
     "HasSprite": true
   },
   {
-    "Id": 169,
-    "Race": "Deity",
-    "Name": "Mahamayuri",
+    "Id": 165,
+    "Race": "Diety",
+    "Name": "Hachiman",
     "HasSprite": true
   },
   {
-    "Id": 171,
-    "Race": "Deity",
-    "Name": "Maitreya",
+    "Id": 166,
+    "Race": "Diety",
+    "Name": "Apsu",
     "HasSprite": true
   },
   {
-    "Id": 172,
-    "Race": "Deity",
-    "Name": "Ometeotl",
+    "Id": 167,
+    "Race": "Diety",
+    "Name": "Baal",
     "HasSprite": true
   },
   {
-    "Id": 173,
-    "Race": "Deity",
-    "Name": "Thoth",
-    "HasSprite": true
-  },
-  {
-    "Id": 175,
-    "Race": "Deity",
+    "Id": 168,
+    "Race": "Diety",
     "Name": "Odin",
     "HasSprite": true
   },
   {
+    "Id": 169,
+    "Race": "Diety",
+    "Name": "Ometeotl",
+    "HasSprite": true
+  },
+  {
+    "Id": 170,
+    "Race": "Diety",
+    "Name": "Lord Nandou",
+    "HasSprite": true
+  },
+  {
+    "Id": 171,
+    "Race": "Diety",
+    "Name": "Prometheus",
+    "HasSprite": true
+  },
+  {
+    "Id": 172,
+    "Race": "Diety",
+    "Name": "Inti",
+    "HasSprite": true
+  },
+  {
+    "Id": 173,
+    "Race": "Diety",
+    "Name": "Thoth",
+    "HasSprite": true
+  },
+  {
+    "Id": 174,
+    "Race": "Diety",
+    "Name": "Krishna",
+    "HasSprite": true
+  },
+  {
+    "Id": 175,
+    "Race": "Diety",
+    "Name": "Mahamayuri",
+    "HasSprite": true
+  },
+  {
     "Id": 176,
+    "Race": "Diety",
+    "Name": "Osiris",
+    "HasSprite": true
+  },
+  {
+    "Id": 177,
+    "Race": "Diety",
+    "Name": "Maitreya",
+    "HasSprite": true
+  },
+  {
+    "Id": 180,
     "Race": "Amatsu",
     "Name": "Amaterasu",
     "HasSprite": true
   },
   {
-    "Id": 177,
-    "Race": "Amatsu",
-    "Name": "Ame no Uzume",
-    "HasSprite": true
-  },
-  {
-    "Id": 178,
-    "Race": "Avatar",
-    "Name": "Barong",
-    "HasSprite": true
-  },
-  {
-    "Id": 180,
-    "Race": "Deity",
-    "Name": "Krishna",
-    "HasSprite": true
-  },
-  {
     "Id": 181,
-    "Race": "Deity",
-    "Name": "Osiris",
-    "HasSprite": true
-  },
-  {
-    "Id": 183,
-    "Race": "Deity",
-    "Name": "Inti",
-    "HasSprite": true
-  },
-  {
-    "Id": 186,
-    "Race": "Avatar",
-    "Name": "Anubis",
-    "HasSprite": true
-  },
-  {
-    "Id": 189,
-    "Race": "Deity",
-    "Name": "Lord Nandou",
-    "HasSprite": true
-  },
-  {
-    "Id": 190,
-    "Race": "Deity",
-    "Name": "Prometheus",
-    "HasSprite": true
-  },
-  {
-    "Id": 191,
     "Race": "Amatsu",
     "Name": "Take-Mikazuchi",
     "HasSprite": true
   },
   {
+    "Id": 184,
+    "Race": "Amatsu",
+    "Name": "Ame no Uzume",
+    "HasSprite": true
+  },
+  {
+    "Id": 190,
+    "Race": "Avatar",
+    "Name": "Barong",
+    "HasSprite": true
+  },
+  {
+    "Id": 191,
+    "Race": "Avatar",
+    "Name": "Anubis",
+    "HasSprite": true
+  },
+  {
     "Id": 192,
-    "Race": "Holy",
-    "Name": "Chironuppu",
+    "Race": "Avatar",
+    "Name": "Ukano Mitama",
+    "HasSprite": true
+  },
+  {
+    "Id": 193,
+    "Race": "Avatar",
+    "Name": "Chimera",
     "HasSprite": true
   },
   {
     "Id": 194,
-    "Race": "Holy",
-    "Name": "Airavata",
+    "Race": "Avatar",
+    "Name": "Kaiming Shou",
+    "HasSprite": true
+  },
+  {
+    "Id": 195,
+    "Race": "Avatar",
+    "Name": "Makami",
     "HasSprite": true
   },
   {
     "Id": 196,
     "Race": "Avatar",
-    "Name": "Chimera",
+    "Name": "Kamapua'a",
     "HasSprite": true
   },
   {
@@ -690,87 +702,81 @@
     "HasSprite": true
   },
   {
-    "Id": 198,
+    "Id": 203,
     "Race": "Holy",
     "Name": "Sphinx",
     "HasSprite": true
   },
   {
-    "Id": 199,
-    "Race": "Avatar",
-    "Name": "Ukano Mitama",
-    "HasSprite": true
-  },
-  {
-    "Id": 200,
+    "Id": 204,
     "Race": "Holy",
     "Name": "Sleipnir",
     "HasSprite": true
   },
   {
-    "Id": 201,
-    "Race": "Holy",
-    "Name": "Qing Niugai",
-    "HasSprite": true
-  },
-  {
-    "Id": 203,
-    "Race": "Holy",
-    "Name": "Pabilsag",
-    "HasSprite": true
-  },
-  {
-    "Id": 207,
-    "Race": "Avatar",
-    "Name": "Kamapua'a",
-    "HasSprite": true
-  },
-  {
-    "Id": 209,
-    "Race": "Holy",
-    "Name": "Apis",
-    "HasSprite": true
-  },
-  {
-    "Id": 212,
-    "Race": "Holy",
-    "Name": "Heqet",
-    "HasSprite": true
-  },
-  {
-    "Id": 213,
-    "Race": "Avatar",
-    "Name": "Kaiming Shou",
-    "HasSprite": true
-  },
-  {
-    "Id": 214,
-    "Race": "Avatar",
-    "Name": "Makami",
-    "HasSprite": true
-  },
-  {
-    "Id": 215,
+    "Id": 205,
     "Race": "Holy",
     "Name": "Baihu",
     "HasSprite": true
   },
   {
+    "Id": 206,
+    "Race": "Holy",
+    "Name": "Airavata",
+    "HasSprite": true
+  },
+  {
+    "Id": 207,
+    "Race": "Holy",
+    "Name": "Chironnupu",
+    "HasSprite": true
+  },
+  {
+    "Id": 208,
+    "Race": "Holy",
+    "Name": "Qing Niuguai",
+    "HasSprite": true
+  },
+  {
+    "Id": 209,
+    "Race": "Holy",
+    "Name": "Pabilsag",
+    "HasSprite": true
+  },
+  {
+    "Id": 210,
+    "Race": "Holy",
+    "Name": "Apis",
+    "HasSprite": true
+  },
+  {
+    "Id": 211,
+    "Race": "Holy",
+    "Name": "Heqet",
+    "HasSprite": true
+  },
+  {
     "Id": 217,
     "Race": "Genma",
-    "Name": "Tlaloc",
+    "Name": "Heimdall",
+    "HasSprite": true
+  },
+  {
+    "Id": 218,
+    "Race": "Genma",
+    "Name": "Hanuman",
     "HasSprite": true
   },
   {
     "Id": 219,
     "Race": "Genma",
-    "Name": "Nata Taishi",
+    "Name": "Jarilo",
     "HasSprite": true
   },
   {
     "Id": 220,
     "Race": "Genma",
-    "Name": "Heimdall",
+    "Name": "Kresnik",
     "HasSprite": true
   },
   {
@@ -782,115 +788,115 @@
   {
     "Id": 222,
     "Race": "Genma",
-    "Name": "Ictinike",
+    "Name": "Kurama Tengu",
+    "HasSprite": true
+  },
+  {
+    "Id": 223,
+    "Race": "Genma",
+    "Name": "Tlaloc",
     "HasSprite": true
   },
   {
     "Id": 224,
     "Race": "Genma",
-    "Name": "Baldur",
-    "HasSprite": true
-  },
-  {
-    "Id": 226,
-    "Race": "Fairy",
-    "Name": "Nadja",
-    "HasSprite": true
-  },
-  {
-    "Id": 227,
-    "Race": "Fairy",
-    "Name": "Demonee-ho",
-    "HasSprite": true
-  },
-  {
-    "Id": 228,
-    "Race": "Genma",
-    "Name": "Kurama Tengu",
-    "HasSprite": true
-  },
-  {
-    "Id": 229,
-    "Race": "Genma",
     "Name": "Frost Ace",
     "HasSprite": true
   },
   {
-    "Id": 230,
-    "Race": "Fairy",
-    "Name": "Spriggan",
-    "HasSprite": true
-  },
-  {
-    "Id": 231,
+    "Id": 225,
     "Race": "Genma",
-    "Name": "Kresnik",
+    "Name": "Nata Taishi",
     "HasSprite": true
   },
   {
-    "Id": 232,
+    "Id": 226,
     "Race": "Genma",
     "Name": "Tam Lin",
     "HasSprite": true
   },
   {
+    "Id": 227,
+    "Race": "Genma",
+    "Name": "Ictinike",
+    "HasSprite": true
+  },
+  {
+    "Id": 228,
+    "Race": "Genma",
+    "Name": "Baldur",
+    "HasSprite": true
+  },
+  {
     "Id": 233,
     "Race": "Fairy",
-    "Name": "Titania",
+    "Name": "Demonee-ho",
     "HasSprite": true
   },
   {
     "Id": 234,
     "Race": "Fairy",
-    "Name": "Lorelei",
+    "Name": "Titania",
     "HasSprite": true
   },
   {
     "Id": 235,
     "Race": "Fairy",
-    "Name": "Vivian",
+    "Name": "Oberon",
     "HasSprite": true
   },
   {
     "Id": 236,
     "Race": "Fairy",
-    "Name": "Oberon",
+    "Name": "Vivian",
     "HasSprite": true
   },
   {
     "Id": 237,
-    "Race": "Genma",
-    "Name": "Hanuman",
+    "Race": "Fairy",
+    "Name": "Spriggan",
     "HasSprite": true
   },
   {
     "Id": 238,
-    "Race": "Genma",
-    "Name": "Jarilo",
+    "Race": "Fairy",
+    "Name": "Nadja",
+    "HasSprite": true
+  },
+  {
+    "Id": 239,
+    "Race": "Fairy",
+    "Name": "Lorelei",
     "HasSprite": true
   },
   {
     "Id": 240,
-    "Race": "Beast",
-    "Name": "Ammut",
+    "Race": "Fairy",
+    "Name": "Kelpie",
+    "HasSprite": true
+  },
+  {
+    "Id": 241,
+    "Race": "Fairy",
+    "Name": "Silky",
     "HasSprite": true
   },
   {
     "Id": 242,
-    "Race": "Beast",
-    "Name": "Cerberus",
+    "Race": "Fairy",
+    "Name": "High Pixie",
     "HasSprite": true
   },
   {
     "Id": 243,
     "Race": "Fairy",
-    "Name": "Napaea",
+    "Name": "Setanta",
     "HasSprite": true
   },
   {
     "Id": 244,
     "Race": "Fairy",
-    "Name": "Silky",
+    "Name": "Pyro Jack",
     "HasSprite": true
   },
   {
@@ -900,183 +906,189 @@
     "HasSprite": true
   },
   {
-    "Id": 247,
-    "Race": "Fairy",
-    "Name": "Kelpie",
-    "HasSprite": true
-  },
-  {
-    "Id": 249,
-    "Race": "Beast",
-    "Name": "Orthrus",
-    "HasSprite": true
-  },
-  {
-    "Id": 250,
-    "Race": "Beast",
-    "Name": "Kabuso",
-    "HasSprite": true
-  },
-  {
-    "Id": 251,
-    "Race": "Beast",
-    "Name": "Dormarth",
-    "HasSprite": true
-  },
-  {
-    "Id": 252,
+    "Id": 246,
     "Race": "Fairy",
     "Name": "Goblin",
     "HasSprite": true
   },
   {
-    "Id": 253,
+    "Id": 248,
     "Race": "Fairy",
     "Name": "Pixie",
     "HasSprite": true
   },
   {
+    "Id": 249,
+    "Race": "Fairy",
+    "Name": "Napaea",
+    "HasSprite": true
+  },
+  {
     "Id": 254,
     "Race": "Beast",
-    "Name": "Inugami",
+    "Name": "Cerberus",
     "HasSprite": true
   },
   {
     "Id": 255,
-    "Race": "Fairy",
-    "Name": "Pyro Jack",
+    "Race": "Beast",
+    "Name": "Ammut",
+    "HasSprite": true
+  },
+  {
+    "Id": 256,
+    "Race": "Beast",
+    "Name": "Orthrus",
     "HasSprite": true
   },
   {
     "Id": 257,
     "Race": "Beast",
-    "Name": "Hsing-Hsing",
+    "Name": "Dormarth",
     "HasSprite": true
   },
   {
     "Id": 258,
     "Race": "Beast",
-    "Name": "Kaso",
+    "Name": "Hsing-Hsing",
     "HasSprite": true
   },
   {
-    "Id": 260,
+    "Id": 259,
     "Race": "Beast",
     "Name": "Nekomata",
     "HasSprite": true
   },
   {
     "Id": 261,
-    "Race": "Fairy",
-    "Name": "High Pixie",
+    "Race": "Beast",
+    "Name": "Inugami",
     "HasSprite": true
   },
   {
     "Id": 262,
-    "Race": "Fairy",
-    "Name": "Setanta",
+    "Race": "Beast",
+    "Name": "Kabuso",
+    "HasSprite": true
+  },
+  {
+    "Id": 263,
+    "Race": "Beast",
+    "Name": "Kaso",
     "HasSprite": true
   },
   {
     "Id": 264,
-    "Race": "Jirae",
-    "Name": "Dwarf",
-    "HasSprite": true
-  },
-  {
-    "Id": 265,
-    "Race": "Jirae",
-    "Name": "Gogmagog",
-    "HasSprite": true
-  },
-  {
-    "Id": 266,
-    "Race": "Jirae",
-    "Name": "Knocker",
-    "HasSprite": true
-  },
-  {
-    "Id": 267,
-    "Race": "Jirae",
-    "Name": "Titan",
-    "HasSprite": true
-  },
-  {
-    "Id": 268,
-    "Race": "Beast",
-    "Name": "Gryphon",
-    "HasSprite": true
-  },
-  {
-    "Id": 270,
-    "Race": "Jirae",
-    "Name": "Kwancha",
-    "HasSprite": true
-  },
-  {
-    "Id": 271,
     "Race": "Beast",
     "Name": "Stonka",
     "HasSprite": true
   },
   {
-    "Id": 272,
-    "Race": "Jirae",
-    "Name": "Sudama",
+    "Id": 265,
+    "Race": "Beast",
+    "Name": "Gryphon",
     "HasSprite": true
   },
   {
-    "Id": 274,
-    "Race": "Snake",
-    "Name": "Pendragon",
-    "HasSprite": true
-  },
-  {
-    "Id": 277,
-    "Race": "Jirae",
-    "Name": "Tlaltecuhtli",
-    "HasSprite": true
-  },
-  {
-    "Id": 280,
-    "Race": "Jirae",
-    "Name": "Tsuchigumo",
-    "HasSprite": true
-  },
-  {
-    "Id": 282,
-    "Race": "Snake",
-    "Name": "Orochi",
-    "HasSprite": true
-  },
-  {
-    "Id": 285,
+    "Id": 266,
     "Race": "Beast",
     "Name": "Hairy Jack",
     "HasSprite": true
   },
   {
-    "Id": 287,
+    "Id": 271,
+    "Race": "Jirae",
+    "Name": "Gogmagog",
+    "HasSprite": true
+  },
+  {
+    "Id": 272,
+    "Race": "Jirae",
+    "Name": "Tlaltecuhtli",
+    "HasSprite": true
+  },
+  {
+    "Id": 273,
+    "Race": "Jirae",
+    "Name": "Titan",
+    "HasSprite": true
+  },
+  {
+    "Id": 274,
+    "Race": "Jirae",
+    "Name": "Tsuchigumo",
+    "HasSprite": true
+  },
+  {
+    "Id": 275,
+    "Race": "Jirae",
+    "Name": "Kwancha",
+    "HasSprite": true
+  },
+  {
+    "Id": 276,
+    "Race": "Jirae",
+    "Name": "Sudama",
+    "HasSprite": true
+  },
+  {
+    "Id": 277,
     "Race": "Jirae",
     "Name": "Hua Po",
     "HasSprite": true
   },
   {
+    "Id": 278,
+    "Race": "Jirae",
+    "Name": "Knocker",
+    "HasSprite": true
+  },
+  {
+    "Id": 279,
+    "Race": "Jirae",
+    "Name": "Dwarf",
+    "HasSprite": true
+  },
+  {
+    "Id": 286,
+    "Race": "Snake",
+    "Name": "Pendragon",
+    "HasSprite": true
+  },
+  {
+    "Id": 287,
+    "Race": "Snake",
+    "Name": "Orochi",
+    "HasSprite": true
+  },
+  {
     "Id": 288,
-    "Race": "Reaper",
-    "Name": "Orcus",
+    "Race": "Snake",
+    "Name": "Ouroboros",
+    "HasSprite": true
+  },
+  {
+    "Id": 289,
+    "Race": "Snake",
+    "Name": "Gui Xian",
     "HasSprite": true
   },
   {
     "Id": 290,
-    "Race": "Reaper",
-    "Name": "Persephone",
+    "Race": "Snake",
+    "Name": "Yurlungur",
+    "HasSprite": true
+  },
+  {
+    "Id": 291,
+    "Race": "Snake",
+    "Name": "Vouivre",
     "HasSprite": true
   },
   {
     "Id": 292,
     "Race": "Snake",
-    "Name": "Gui Xian",
+    "Name": "Nozuchi",
     "HasSprite": true
   },
   {
@@ -1086,99 +1098,93 @@
     "HasSprite": true
   },
   {
-    "Id": 294,
+    "Id": 299,
     "Race": "Reaper",
     "Name": "Mot",
     "HasSprite": true
   },
   {
-    "Id": 295,
-    "Race": "Snake",
-    "Name": "Ouroboros",
-    "HasSprite": true
-  },
-  {
-    "Id": 296,
+    "Id": 300,
     "Race": "Reaper",
     "Name": "Nergal",
     "HasSprite": true
   },
   {
-    "Id": 297,
-    "Race": "Reaper",
-    "Name": "Hel",
-    "HasSprite": true
-  },
-  {
-    "Id": 298,
-    "Race": "Wilder",
-    "Name": "Fenrir",
-    "HasSprite": true
-  },
-  {
-    "Id": 299,
-    "Race": "Reaper",
-    "Name": "Ixtab",
-    "HasSprite": true
-  },
-  {
-    "Id": 303,
-    "Race": "Snake",
-    "Name": "Nozuchi",
-    "HasSprite": true
-  },
-  {
-    "Id": 305,
-    "Race": "Reaper",
-    "Name": "Cernunnos",
-    "HasSprite": true
-  },
-  {
-    "Id": 306,
-    "Race": "Wilder",
-    "Name": "Taowu",
-    "HasSprite": true
-  },
-  {
-    "Id": 309,
-    "Race": "Snake",
-    "Name": "Yurlungur",
-    "HasSprite": true
-  },
-  {
-    "Id": 310,
-    "Race": "Snake",
-    "Name": "Vouivre",
-    "HasSprite": true
-  },
-  {
-    "Id": 311,
+    "Id": 301,
     "Race": "Reaper",
     "Name": "Guedhe",
     "HasSprite": true
   },
   {
+    "Id": 302,
+    "Race": "Reaper",
+    "Name": "Persephone",
+    "HasSprite": true
+  },
+  {
+    "Id": 303,
+    "Race": "Reaper",
+    "Name": "Orcus",
+    "HasSprite": true
+  },
+  {
+    "Id": 304,
+    "Race": "Reaper",
+    "Name": "Hel",
+    "HasSprite": true
+  },
+  {
+    "Id": 305,
+    "Race": "Reaper",
+    "Name": "Ixtab",
+    "HasSprite": true
+  },
+  {
+    "Id": 306,
+    "Race": "Reaper",
+    "Name": "Cernunnos",
+    "HasSprite": true
+  },
+  {
+    "Id": 310,
+    "Race": "Wilder",
+    "Name": "Fenrir",
+    "HasSprite": true
+  },
+  {
+    "Id": 311,
+    "Race": "Wilder",
+    "Name": "Taowu",
+    "HasSprite": true
+  },
+  {
     "Id": 312,
-    "Race": "Jaki",
-    "Name": "Girimehkala",
+    "Race": "Wilder",
+    "Name": "Cabracan",
     "HasSprite": true
   },
   {
     "Id": 313,
     "Race": "Wilder",
-    "Name": "Jueyuan",
+    "Name": "Catoblepas",
     "HasSprite": true
   },
   {
     "Id": 314,
-    "Race": "Jaki",
-    "Name": "Hekatoncheires",
+    "Race": "Wilder",
+    "Name": "Manticore",
+    "HasSprite": true
+  },
+  {
+    "Id": 315,
+    "Race": "Wilder",
+    "Name": "Porewit",
     "HasSprite": true
   },
   {
     "Id": 316,
     "Race": "Wilder",
-    "Name": "Catoblepas",
+    "Name": "Peallaidh",
     "HasSprite": true
   },
   {
@@ -1188,31 +1194,19 @@
     "HasSprite": true
   },
   {
-    "Id": 319,
-    "Race": "Wilder",
-    "Name": "Cabracan",
-    "HasSprite": true
-  },
-  {
-    "Id": 321,
-    "Race": "Jaki",
-    "Name": "Grendel",
-    "HasSprite": true
-  },
-  {
-    "Id": 322,
-    "Race": "Jaki",
-    "Name": "Gremlin",
-    "HasSprite": true
-  },
-  {
-    "Id": 324,
+    "Id": 318,
     "Race": "Wilder",
     "Name": "Raiju",
     "HasSprite": true
   },
   {
-    "Id": 325,
+    "Id": 319,
+    "Race": "Wilder",
+    "Name": "Jueyuan",
+    "HasSprite": true
+  },
+  {
+    "Id": 320,
     "Race": "Wilder",
     "Name": "Chagrin",
     "HasSprite": true
@@ -1220,67 +1214,61 @@
   {
     "Id": 326,
     "Race": "Jaki",
-    "Name": "Ippon-Datara",
+    "Name": "Hekatoncheires",
     "HasSprite": true
   },
   {
     "Id": 327,
-    "Race": "Wilder",
-    "Name": "Peallaidh",
+    "Race": "Jaki",
+    "Name": "Girimehkala",
     "HasSprite": true
   },
   {
-    "Id": 329,
+    "Id": 328,
     "Race": "Jaki",
-    "Name": "Rakshasa",
+    "Name": "Grendel",
     "HasSprite": true
   },
   {
     "Id": 330,
     "Race": "Jaki",
-    "Name": "Lham Dearg",
+    "Name": "Rakshasa",
     "HasSprite": true
   },
   {
     "Id": 331,
     "Race": "Jaki",
-    "Name": "Wendigo",
+    "Name": "Black Frost",
     "HasSprite": true
   },
   {
     "Id": 332,
     "Race": "Jaki",
-    "Name": "Black Frost",
+    "Name": "Wendigo",
     "HasSprite": true
   },
   {
     "Id": 333,
-    "Race": "Wilder",
-    "Name": "Manticore",
+    "Race": "Jaki",
+    "Name": "Ippon-Datara",
     "HasSprite": true
   },
   {
     "Id": 334,
-    "Race": "Wilder",
-    "Name": "Porewit",
+    "Race": "Jaki",
+    "Name": "Gremlin",
+    "HasSprite": true
+  },
+  {
+    "Id": 335,
+    "Race": "Jaki",
+    "Name": "Lham Dearg",
     "HasSprite": true
   },
   {
     "Id": 336,
-    "Race": "Fury",
-    "Name": "Shiva",
-    "HasSprite": true
-  },
-  {
-    "Id": 337,
-    "Race": "Vermin",
-    "Name": "Ubu",
-    "HasSprite": true
-  },
-  {
-    "Id": 339,
-    "Race": "Vermin",
-    "Name": "Myrmecolion",
+    "Race": "Jaki",
+    "Name": "Ogre",
     "HasSprite": true
   },
   {
@@ -1290,93 +1278,87 @@
     "HasSprite": true
   },
   {
-    "Id": 343,
-    "Race": "Jaki",
-    "Name": "Ogre",
-    "HasSprite": true
-  },
-  {
-    "Id": 345,
-    "Race": "Fury",
-    "Name": "Susano-o",
-    "HasSprite": true
-  },
-  {
-    "Id": 346,
-    "Race": "Fury",
-    "Name": "Tonatiuh",
-    "HasSprite": true
-  },
-  {
-    "Id": 347,
-    "Race": "Fury",
-    "Name": "Kartikeya",
-    "HasSprite": true
-  },
-  {
-    "Id": 348,
+    "Id": 342,
     "Race": "Vermin",
     "Name": "Okiku-Mushi",
     "HasSprite": true
   },
   {
-    "Id": 349,
+    "Id": 343,
+    "Race": "Vermin",
+    "Name": "Ubu",
+    "HasSprite": true
+  },
+  {
+    "Id": 344,
     "Race": "Vermin",
     "Name": "Mothman",
     "HasSprite": true
   },
   {
-    "Id": 350,
+    "Id": 345,
+    "Race": "Vermin",
+    "Name": "Myrmecolion",
+    "HasSprite": true
+  },
+  {
+    "Id": 351,
     "Race": "Fury",
-    "Name": "Asura",
+    "Name": "Shiva",
+    "HasSprite": true
+  },
+  {
+    "Id": 352,
+    "Race": "Fury",
+    "Name": "Susano-o",
     "HasSprite": true
   },
   {
     "Id": 353,
     "Race": "Fury",
-    "Name": "Beiji-Weng",
+    "Name": "Kartikeya",
     "HasSprite": true
   },
   {
     "Id": 354,
     "Race": "Fury",
-    "Name": "Ares",
+    "Name": "Beiji-Weng",
     "HasSprite": true
   },
   {
     "Id": 355,
     "Race": "Fury",
-    "Name": "Chernobog",
+    "Name": "Wu Kong",
     "HasSprite": true
   },
   {
     "Id": 356,
     "Race": "Fury",
-    "Name": "Wu Kong",
+    "Name": "Chernobog",
+    "HasSprite": true
+  },
+  {
+    "Id": 357,
+    "Race": "Fury",
+    "Name": "Asura",
+    "HasSprite": true
+  },
+  {
+    "Id": 358,
+    "Race": "Fury",
+    "Name": "Tonatiuh",
+    "HasSprite": true
+  },
+  {
+    "Id": 359,
+    "Race": "Fury",
+    "Name": "Ares",
     "HasSprite": true
   },
   {
     "Id": 360,
-    "Race": "Lady",
-    "Name": "Isis",
-    "HasSprite": true
-  },
-  {
-    "Id": 361,
-    "Race": "Lady",
-    "Name": "Black Maria",
-    "HasSprite": true
-  },
-  {
-    "Id": 362,
-    "Race": "Lady",
-    "Name": "Pele",
-    "HasSprite": true
-  },
-  {
-    "Id": 363,
-    "Race": "Lady",
-    "Name": "Asherah",
+    "Race": "Fury",
+    "Name": "Mitra-Buddha",
     "HasSprite": true
   },
   {
@@ -1388,283 +1370,313 @@
   {
     "Id": 366,
     "Race": "Lady",
-    "Name": "Hariti",
+    "Name": "Skadi",
     "HasSprite": true
   },
   {
     "Id": 367,
-    "Race": "Fury",
-    "Name": "Mitra-Buddha",
+    "Race": "Lady",
+    "Name": "Black Maria",
     "HasSprite": true
   },
   {
     "Id": 368,
     "Race": "Lady",
-    "Name": "Sedna",
-    "HasSprite": true
-  },
-  {
-    "Id": 370,
-    "Race": "Dragon",
-    "Name": "Zhu Yin",
-    "HasSprite": true
-  },
-  {
-    "Id": 372,
-    "Race": "Lady",
-    "Name": "Skadi",
-    "HasSprite": true
-  },
-  {
-    "Id": 373,
-    "Race": "Lady",
     "Name": "Inanna",
     "HasSprite": true
   },
   {
-    "Id": 374,
-    "Race": "Dragon",
-    "Name": "Quetzalcoatl",
+    "Id": 369,
+    "Race": "Lady",
+    "Name": "Asherah",
     "HasSprite": true
   },
   {
-    "Id": 376,
+    "Id": 370,
     "Race": "Lady",
     "Name": "Diana",
     "HasSprite": true
   },
   {
-    "Id": 378,
-    "Race": "Dragon",
-    "Name": "Illuyanka",
+    "Id": 371,
+    "Race": "Lady",
+    "Name": "Hariti",
     "HasSprite": true
   },
   {
-    "Id": 379,
-    "Race": "Dragon",
-    "Name": "Huang Long",
+    "Id": 372,
+    "Race": "Lady",
+    "Name": "Sedna",
     "HasSprite": true
   },
   {
-    "Id": 383,
+    "Id": 373,
     "Race": "Lady",
     "Name": "Dzelarhons",
     "HasSprite": true
   },
   {
-    "Id": 384,
-    "Race": "Kishin",
-    "Name": "Zouchouten",
+    "Id": 374,
+    "Race": "Lady",
+    "Name": "Pele",
     "HasSprite": true
   },
   {
-    "Id": 386,
-    "Race": "Kishin",
-    "Name": "Koumokuten",
+    "Id": 375,
+    "Race": "Lady",
+    "Name": "Isis",
     "HasSprite": true
   },
   {
-    "Id": 387,
-    "Race": "Kishin",
-    "Name": "Thor",
-    "HasSprite": true
-  },
-  {
-    "Id": 388,
+    "Id": 380,
     "Race": "Dragon",
-    "Name": "Gucumatz",
+    "Name": "Huang Long",
     "HasSprite": true
   },
   {
-    "Id": 390,
-    "Race": "Kishin",
-    "Name": "Bishamonten",
+    "Id": 381,
+    "Race": "Dragon",
+    "Name": "Quetzalcoatl",
     "HasSprite": true
   },
   {
-    "Id": 391,
+    "Id": 382,
+    "Race": "Dragon",
+    "Name": "Zhu Yin",
+    "HasSprite": true
+  },
+  {
+    "Id": 383,
+    "Race": "Dragon",
+    "Name": "Illuyanka",
+    "HasSprite": true
+  },
+  {
+    "Id": 384,
     "Race": "Dragon",
     "Name": "Long",
     "HasSprite": true
   },
   {
-    "Id": 392,
-    "Race": "Kishin",
-    "Name": "Jikokuten",
+    "Id": 385,
+    "Race": "Dragon",
+    "Name": "Gucumatz",
     "HasSprite": true
   },
   {
-    "Id": 394,
-    "Race": "Kunitsu",
-    "Name": "Kushinada-hime",
-    "HasSprite": true
-  },
-  {
-    "Id": 398,
-    "Race": "Kunitsu",
-    "Name": "Arahabaki",
-    "HasSprite": true
-  },
-  {
-    "Id": 400,
-    "Race": "Kishin",
-    "Name": "Marishiten",
-    "HasSprite": true
-  },
-  {
-    "Id": 402,
-    "Race": "Kunitsu",
-    "Name": "Okuninushi",
-    "HasSprite": true
-  },
-  {
-    "Id": 405,
+    "Id": 386,
     "Race": "Dragon",
     "Name": "Patrimpas",
     "HasSprite": true
   },
   {
-    "Id": 406,
+    "Id": 387,
     "Race": "Dragon",
     "Name": "Makara",
     "HasSprite": true
   },
   {
-    "Id": 407,
+    "Id": 393,
+    "Race": "Kishin",
+    "Name": "Thor",
+    "HasSprite": true
+  },
+  {
+    "Id": 394,
+    "Race": "Kishin",
+    "Name": "Marishiten",
+    "HasSprite": true
+  },
+  {
+    "Id": 395,
+    "Race": "Kishin",
+    "Name": "Bishamonten",
+    "HasSprite": true
+  },
+  {
+    "Id": 396,
+    "Race": "Kishin",
+    "Name": "Jikokuten",
+    "HasSprite": true
+  },
+  {
+    "Id": 397,
     "Race": "Kishin",
     "Name": "Zhong Kui",
     "HasSprite": true
   },
   {
-    "Id": 408,
-    "Race": "Fallen",
-    "Name": "Orias",
+    "Id": 398,
+    "Race": "Kishin",
+    "Name": "Koumokuten",
     "HasSprite": true
   },
   {
-    "Id": 409,
-    "Race": "Fallen",
-    "Name": "Murmur",
+    "Id": 399,
+    "Race": "Kishin",
+    "Name": "Zouchouten",
     "HasSprite": true
   },
   {
-    "Id": 410,
-    "Race": "Fallen",
-    "Name": "Dantalian",
-    "HasSprite": true
-  },
-  {
-    "Id": 411,
-    "Race": "Fallen",
-    "Name": "Adramelech",
-    "HasSprite": true
-  },
-  {
-    "Id": 412,
+    "Id": 405,
     "Race": "Kunitsu",
-    "Name": "Oumitsunu",
+    "Name": "Arahabaki",
     "HasSprite": true
   },
   {
-    "Id": 414,
-    "Race": "Fallen",
-    "Name": "Decarabia",
+    "Id": 406,
+    "Race": "Kunitsu",
+    "Name": "Kushinada-hime",
     "HasSprite": true
   },
   {
-    "Id": 415,
+    "Id": 407,
+    "Race": "Kunitsu",
+    "Name": "Okuninushi",
+    "HasSprite": true
+  },
+  {
+    "Id": 408,
     "Race": "Kunitsu",
     "Name": "Take-Minakata",
     "HasSprite": true
   },
   {
-    "Id": 416,
-    "Race": "Fallen",
-    "Name": "Nebiros",
+    "Id": 409,
+    "Race": "Kunitsu",
+    "Name": "Oumitsunu",
     "HasSprite": true
   },
   {
-    "Id": 417,
-    "Race": "Fallen",
-    "Name": "Halphas",
+    "Id": 410,
+    "Race": "Kunitsu",
+    "Name": "Hitokotonuchi",
     "HasSprite": true
   },
   {
-    "Id": 418,
-    "Race": "Fallen",
-    "Name": "Botis",
+    "Id": 411,
+    "Race": "Kunitsu",
+    "Name": "Sukuna-Hikona",
     "HasSprite": true
   },
   {
-    "Id": 419,
-    "Race": "Fallen",
-    "Name": "Bifrons",
-    "HasSprite": true
-  },
-  {
-    "Id": 420,
+    "Id": 414,
     "Race": "Fallen",
     "Name": "Samael",
     "HasSprite": true
   },
   {
-    "Id": 421,
+    "Id": 415,
+    "Race": "Fallen",
+    "Name": "Murmur",
+    "HasSprite": true
+  },
+  {
+    "Id": 416,
     "Race": "Fallen",
     "Name": "Gemori",
     "HasSprite": true
   },
   {
+    "Id": 417,
+    "Race": "Fallen",
+    "Name": "Adramelech",
+    "HasSprite": true
+  },
+  {
+    "Id": 419,
+    "Race": "Fallen",
+    "Name": "Decarabia",
+    "HasSprite": true
+  },
+  {
+    "Id": 420,
+    "Race": "Fallen",
+    "Name": "Nebiros",
+    "HasSprite": true
+  },
+  {
+    "Id": 421,
+    "Race": "Fallen",
+    "Name": "Ose",
+    "HasSprite": true
+  },
+  {
     "Id": 422,
     "Race": "Fallen",
-    "Name": "Barbatos",
+    "Name": "Dantalian",
+    "HasSprite": true
+  },
+  {
+    "Id": 423,
+    "Race": "Fallen",
+    "Name": "Orias",
+    "HasSprite": true
+  },
+  {
+    "Id": 424,
+    "Race": "Fallen",
+    "Name": "Halphas",
     "HasSprite": true
   },
   {
     "Id": 425,
     "Race": "Fallen",
+    "Name": "Bifrons",
+    "HasSprite": true
+  },
+  {
+    "Id": 426,
+    "Race": "Fallen",
     "Name": "Melchom",
     "HasSprite": true
   },
   {
-    "Id": 427,
+    "Id": 428,
     "Race": "Fallen",
     "Name": "Shax",
     "HasSprite": true
   },
   {
     "Id": 429,
-    "Race": "Kunitsu",
-    "Name": "Hitokotonushi",
+    "Race": "Fallen",
+    "Name": "Barbatos",
     "HasSprite": true
   },
   {
     "Id": 430,
-    "Race": "Kunitsu",
-    "Name": "Sukuna-Hikona",
+    "Race": "Fallen",
+    "Name": "Botis",
     "HasSprite": true
   },
   {
-    "Id": 431,
-    "Race": "Fallen",
-    "Name": "Ose",
+    "Id": 432,
+    "Race": "Brute",
+    "Name": "Ongyo-Ki",
     "HasSprite": true
   },
   {
     "Id": 433,
     "Race": "Brute",
-    "Name": "Momunofu",
+    "Name": "Berserker",
+    "HasSprite": true
+  },
+  {
+    "Id": 434,
+    "Race": "Brute",
+    "Name": "Sui-Ki",
     "HasSprite": true
   },
   {
     "Id": 435,
     "Race": "Brute",
-    "Name": "Oni",
+    "Name": "Fuu-Ki",
     "HasSprite": true
   },
   {
     "Id": 436,
     "Race": "Brute",
-    "Name": "Berserker",
+    "Name": "Kin-Ki",
     "HasSprite": true
   },
   {
@@ -1676,217 +1688,211 @@
   {
     "Id": 438,
     "Race": "Brute",
-    "Name": "Yaksha",
+    "Name": "Yamawaro",
     "HasSprite": true
   },
   {
     "Id": 439,
     "Race": "Brute",
-    "Name": "Ongyo-Ki",
+    "Name": "Momunofu",
     "HasSprite": true
   },
   {
     "Id": 440,
     "Race": "Brute",
-    "Name": "Bilwis",
+    "Name": "Azumi",
     "HasSprite": true
   },
   {
     "Id": 441,
-    "Race": "Femme",
-    "Name": "Rangda",
-    "HasSprite": true
-  },
-  {
-    "Id": 442,
-    "Race": "Femme",
-    "Name": "Shikome",
+    "Race": "Brute",
+    "Name": "Oni",
     "HasSprite": true
   },
   {
     "Id": 443,
-    "Race": "Femme",
-    "Name": "Dakini",
+    "Race": "Brute",
+    "Name": "Yaksha",
     "HasSprite": true
   },
   {
     "Id": 444,
     "Race": "Brute",
-    "Name": "Yamawaro",
+    "Name": "Bilwis",
     "HasSprite": true
   },
   {
-    "Id": 445,
-    "Race": "Brute",
-    "Name": "Azumi",
-    "HasSprite": true
-  },
-  {
-    "Id": 446,
+    "Id": 448,
     "Race": "Femme",
-    "Name": "Yuki Jyorou",
-    "HasSprite": true
-  },
-  {
-    "Id": 447,
-    "Race": "Brute",
-    "Name": "Kin-Ki",
+    "Name": "Rangda",
     "HasSprite": true
   },
   {
     "Id": 449,
     "Race": "Femme",
-    "Name": "Atropos",
+    "Name": "Dakini",
     "HasSprite": true
   },
   {
     "Id": 450,
     "Race": "Femme",
-    "Name": "Strix",
+    "Name": "Atropos",
     "HasSprite": true
   },
   {
     "Id": 451,
     "Race": "Femme",
-    "Name": "Clotho",
+    "Name": "Lachesis",
     "HasSprite": true
   },
   {
     "Id": 452,
     "Race": "Femme",
-    "Name": "Lachesis",
+    "Name": "Clotho",
     "HasSprite": true
   },
   {
     "Id": 453,
-    "Race": "Brute",
-    "Name": "Sui-Ki",
+    "Race": "Femme",
+    "Name": "Yuki Jyorou",
     "HasSprite": true
   },
   {
     "Id": 454,
-    "Race": "Brute",
-    "Name": "Fuu-Ki",
+    "Race": "Femme",
+    "Name": "Shikome",
+    "HasSprite": true
+  },
+  {
+    "Id": 455,
+    "Race": "Femme",
+    "Name": "Strix",
     "HasSprite": true
   },
   {
     "Id": 456,
-    "Race": "Night",
-    "Name": "Lilim",
-    "HasSprite": true
-  },
-  {
-    "Id": 458,
-    "Race": "Night",
-    "Name": "Kikimora",
-    "HasSprite": true
-  },
-  {
-    "Id": 459,
-    "Race": "Night",
-    "Name": "Queen Mab",
-    "HasSprite": true
-  },
-  {
-    "Id": 460,
-    "Race": "Femme",
-    "Name": "Mermaid",
-    "HasSprite": true
-  },
-  {
-    "Id": 462,
-    "Race": "Night",
-    "Name": "Succubus",
-    "HasSprite": true
-  },
-  {
-    "Id": 463,
     "Race": "Femme",
     "Name": "Leanan Sidhe",
     "HasSprite": true
   },
   {
-    "Id": 464,
-    "Race": "Night",
-    "Name": "Kaiwan",
-    "HasSprite": true
-  },
-  {
-    "Id": 465,
-    "Race": "Night",
-    "Name": "Sandman",
-    "HasSprite": true
-  },
-  {
-    "Id": 467,
-    "Race": "Night",
-    "Name": "Formorian",
-    "HasSprite": true
-  },
-  {
-    "Id": 468,
-    "Race": "Night",
-    "Name": "Maya",
-    "HasSprite": true
-  },
-  {
-    "Id": 471,
+    "Id": 457,
     "Race": "Femme",
-    "Name": "Medusa",
+    "Name": "Mermaid",
     "HasSprite": true
   },
   {
-    "Id": 472,
-    "Race": "Night",
-    "Name": "Wild Hunt",
-    "HasSprite": true
-  },
-  {
-    "Id": 473,
-    "Race": "Night",
-    "Name": "Mokoi",
-    "HasSprite": true
-  },
-  {
-    "Id": 477,
+    "Id": 458,
     "Race": "Femme",
     "Name": "Taraka",
     "HasSprite": true
   },
   {
-    "Id": 478,
+    "Id": 459,
     "Race": "Femme",
     "Name": "Kali",
     "HasSprite": true
   },
   {
-    "Id": 479,
+    "Id": 460,
+    "Race": "Femme",
+    "Name": "Medusa",
+    "HasSprite": true
+  },
+  {
+    "Id": 462,
+    "Race": "Night",
+    "Name": "Maya",
+    "HasSprite": true
+  },
+  {
+    "Id": 465,
+    "Race": "Night",
+    "Name": "Queen Mab",
+    "HasSprite": true
+  },
+  {
+    "Id": 466,
+    "Race": "Night",
+    "Name": "Wild Hunt",
+    "HasSprite": true
+  },
+  {
+    "Id": 467,
+    "Race": "Night",
+    "Name": "Succubus",
+    "HasSprite": true
+  },
+  {
+    "Id": 468,
+    "Race": "Night",
+    "Name": "Kaiwan",
+    "HasSprite": true
+  },
+  {
+    "Id": 469,
     "Race": "Night",
     "Name": "Incubus",
     "HasSprite": true
   },
   {
+    "Id": 470,
+    "Race": "Night",
+    "Name": "Kikimora",
+    "HasSprite": true
+  },
+  {
+    "Id": 471,
+    "Race": "Night",
+    "Name": "Lilim",
+    "HasSprite": true
+  },
+  {
+    "Id": 472,
+    "Race": "Night",
+    "Name": "Sandman",
+    "HasSprite": true
+  },
+  {
+    "Id": 473,
+    "Race": "Night",
+    "Name": "Fomorian",
+    "HasSprite": true
+  },
+  {
+    "Id": 474,
+    "Race": "Night",
+    "Name": "Mokoi",
+    "HasSprite": true
+  },
+  {
     "Id": 480,
     "Race": "Tyrant",
-    "Name": "Morax",
+    "Name": "Lucifer",
     "HasSprite": true
   },
   {
     "Id": 481,
     "Race": "Tyrant",
-    "Name": "Loki",
+    "Name": "Mara",
     "HasSprite": true
   },
   {
     "Id": 482,
     "Race": "Tyrant",
-    "Name": "Mithras",
+    "Name": "Chi You",
+    "HasSprite": true
+  },
+  {
+    "Id": 483,
+    "Race": "Tyrant",
+    "Name": "Surt",
     "HasSprite": true
   },
   {
     "Id": 484,
     "Race": "Tyrant",
-    "Name": "Mara",
+    "Name": "Tzitzimitl",
     "HasSprite": true
   },
   {
@@ -1898,115 +1904,115 @@
   {
     "Id": 486,
     "Race": "Tyrant",
-    "Name": "King Frost",
+    "Name": "Abaddon",
     "HasSprite": true
   },
   {
     "Id": 487,
     "Race": "Tyrant",
-    "Name": "Lucifer",
+    "Name": "Loki",
     "HasSprite": true
   },
   {
     "Id": 488,
     "Race": "Tyrant",
-    "Name": "Samyaza",
-    "HasSprite": true
-  },
-  {
-    "Id": 489,
-    "Race": "Tyrant",
-    "Name": "Azazel",
-    "HasSprite": true
-  },
-  {
-    "Id": 490,
-    "Race": "Drake",
-    "Name": "Ym",
-    "HasSprite": true
-  },
-  {
-    "Id": 492,
-    "Race": "Tyrant",
-    "Name": "Abaddon",
-    "HasSprite": true
-  },
-  {
-    "Id": 493,
-    "Race": "Tyrant",
     "Name": "Belial",
     "HasSprite": true
   },
   {
-    "Id": 494,
-    "Race": "Drake",
-    "Name": "Fafnir",
-    "HasSprite": true
-  },
-  {
-    "Id": 495,
-    "Race": "Tyrant",
-    "Name": "Tzitzimitl",
-    "HasSprite": true
-  },
-  {
-    "Id": 496,
+    "Id": 490,
     "Race": "Tyrant",
     "Name": "Balor",
     "HasSprite": true
   },
   {
-    "Id": 497,
+    "Id": 491,
     "Race": "Tyrant",
-    "Name": "Lucifuge",
+    "Name": "King Frost",
     "HasSprite": true
   },
   {
-    "Id": 498,
-    "Race": "Drake",
-    "Name": "Nidhoggr",
-    "HasSprite": true
-  },
-  {
-    "Id": 501,
+    "Id": 492,
     "Race": "Tyrant",
-    "Name": "Chi You",
+    "Name": "Samyaza",
     "HasSprite": true
   },
   {
-    "Id": 502,
-    "Race": "Tyrant",
-    "Name": "Surt",
-    "HasSprite": true
-  },
-  {
-    "Id": 503,
+    "Id": 493,
     "Race": "Tyrant",
     "Name": "Horkos",
     "HasSprite": true
   },
   {
+    "Id": 494,
+    "Race": "Tyrant",
+    "Name": "Mithras",
+    "HasSprite": true
+  },
+  {
+    "Id": 495,
+    "Race": "Tyrant",
+    "Name": "Morax",
+    "HasSprite": true
+  },
+  {
+    "Id": 496,
+    "Race": "Tyrant",
+    "Name": "Azazel",
+    "HasSprite": true
+  },
+  {
+    "Id": 498,
+    "Race": "Tyrant",
+    "Name": "Lucifuge",
+    "HasSprite": true
+  },
+  {
+    "Id": 501,
+    "Race": "Drake",
+    "Name": "Fafnir",
+    "HasSprite": true
+  },
+  {
+    "Id": 502,
+    "Race": "Drake",
+    "Name": "Ym",
+    "HasSprite": true
+  },
+  {
+    "Id": 503,
+    "Race": "Drake",
+    "Name": "Nidhoggr",
+    "HasSprite": true
+  },
+  {
     "Id": 504,
-    "Race": "Spirit",
-    "Name": "Macabre",
+    "Race": "Drake",
+    "Name": "Tiamat",
     "HasSprite": true
   },
   {
     "Id": 505,
     "Race": "Drake",
-    "Name": "Vasuki",
+    "Name": "Mushussu",
     "HasSprite": true
   },
   {
     "Id": 506,
-    "Race": "Spirit",
-    "Name": "Inferno",
+    "Race": "Drake",
+    "Name": "Kingu",
+    "HasSprite": true
+  },
+  {
+    "Id": 507,
+    "Race": "Drake",
+    "Name": "Basilisk",
     "HasSprite": true
   },
   {
     "Id": 508,
     "Race": "Drake",
-    "Name": "Mushussu",
+    "Name": "Bai Suzhen",
     "HasSprite": true
   },
   {
@@ -2016,49 +2022,61 @@
     "HasSprite": true
   },
   {
-    "Id": 511,
-    "Race": "Drake",
-    "Name": "Tiamat",
-    "HasSprite": true
-  },
-  {
-    "Id": 512,
-    "Race": "Spirit",
-    "Name": "Legion",
-    "HasSprite": true
-  },
-  {
-    "Id": 513,
-    "Race": "Spirit",
-    "Name": "Quicksilver",
-    "HasSprite": true
-  },
-  {
-    "Id": 515,
-    "Race": "Spirit",
-    "Name": "Poltergeist",
-    "HasSprite": true
-  },
-  {
-    "Id": 516,
+    "Id": 510,
     "Race": "Drake",
     "Name": "Zhu Tun She",
     "HasSprite": true
   },
   {
-    "Id": 517,
+    "Id": 511,
+    "Race": "Drake",
+    "Name": "Vasuki",
+    "HasSprite": true
+  },
+  {
+    "Id": 512,
     "Race": "Drake",
     "Name": "Python",
     "HasSprite": true
   },
   {
+    "Id": 516,
+    "Race": "Spirit",
+    "Name": "Legion",
+    "HasSprite": true
+  },
+  {
+    "Id": 517,
+    "Race": "Spirit",
+    "Name": "Pisaca",
+    "HasSprite": true
+  },
+  {
+    "Id": 518,
+    "Race": "Spirit",
+    "Name": "Inferno",
+    "HasSprite": true
+  },
+  {
     "Id": 519,
-    "Race": "Drake",
-    "Name": "Bai Suzhen",
+    "Race": "Spirit",
+    "Name": "Macabre",
+    "HasSprite": true
+  },
+  {
+    "Id": 520,
+    "Race": "Spirit",
+    "Name": "Quicksilver",
     "HasSprite": true
   },
   {
     "Id": 521,
+    "Race": "Spirit",
+    "Name": "Poltergeist",
+    "HasSprite": true
+  },
+  {
+    "Id": 522,
     "Race": "Spirit",
     "Name": "Wicker Man",
     "HasSprite": true
@@ -2066,55 +2084,19 @@
   {
     "Id": 523,
     "Race": "Spirit",
-    "Name": "Garrote",
+    "Name": "Dybbuk",
     "HasSprite": true
   },
   {
     "Id": 524,
     "Race": "Spirit",
-    "Name": "Dybbuk",
-    "HasSprite": true
-  },
-  {
-    "Id": 525,
-    "Race": "Drake",
-    "Name": "Kingu",
-    "HasSprite": true
-  },
-  {
-    "Id": 526,
-    "Race": "Drake",
-    "Name": "Basilisk",
-    "HasSprite": true
-  },
-  {
-    "Id": 527,
-    "Race": "Spirit",
-    "Name": "Pisaca",
-    "HasSprite": true
-  },
-  {
-    "Id": 528,
-    "Race": "Ghost",
-    "Name": "Kudlak",
-    "HasSprite": true
-  },
-  {
-    "Id": 529,
-    "Race": "Foul",
-    "Name": "Jack the Ripper",
-    "HasSprite": true
-  },
-  {
-    "Id": 530,
-    "Race": "Ghost",
-    "Name": "Vetala",
+    "Name": "Garrote",
     "HasSprite": true
   },
   {
     "Id": 531,
     "Race": "Foul",
-    "Name": "Tattooed Man",
+    "Name": "Mad Gasser",
     "HasSprite": true
   },
   {
@@ -2124,43 +2106,55 @@
     "HasSprite": true
   },
   {
-    "Id": 537,
-    "Race": "Foul",
-    "Name": "Ghoul",
-    "HasSprite": true
-  },
-  {
-    "Id": 538,
-    "Race": "Ghost",
-    "Name": "Strigoii",
-    "HasSprite": true
-  },
-  {
-    "Id": 539,
-    "Race": "Ghost",
-    "Name": "Enku",
-    "HasSprite": true
-  },
-  {
-    "Id": 540,
+    "Id": 534,
     "Race": "Foul",
     "Name": "Hooligan",
     "HasSprite": true
   },
   {
-    "Id": 541,
+    "Id": 535,
+    "Race": "Foul",
+    "Name": "Jack the Ripper",
+    "HasSprite": true
+  },
+  {
+    "Id": 536,
     "Race": "Foul",
     "Name": "Slime",
     "HasSprite": true
   },
   {
+    "Id": 537,
+    "Race": "Foul",
+    "Name": "Tattooed Man",
+    "HasSprite": true
+  },
+  {
     "Id": 542,
     "Race": "Ghost",
-    "Name": "Preta",
+    "Name": "Vetala",
+    "HasSprite": true
+  },
+  {
+    "Id": 543,
+    "Race": "Ghost",
+    "Name": "Kudlak",
+    "HasSprite": true
+  },
+  {
+    "Id": 544,
+    "Race": "Ghost",
+    "Name": "Ghoul",
     "HasSprite": true
   },
   {
     "Id": 545,
+    "Race": "Ghost",
+    "Name": "Enku",
+    "HasSprite": true
+  },
+  {
+    "Id": 546,
     "Race": "Ghost",
     "Name": "Churel",
     "HasSprite": true
@@ -2168,37 +2162,31 @@
   {
     "Id": 547,
     "Race": "Ghost",
-    "Name": "Obariyon",
+    "Name": "Mou-Ryo",
     "HasSprite": true
   },
   {
     "Id": 548,
     "Race": "Ghost",
-    "Name": "Mou-Ryo",
+    "Name": "Obariyon",
+    "HasSprite": true
+  },
+  {
+    "Id": 549,
+    "Race": "Ghost",
+    "Name": "Preta",
     "HasSprite": true
   },
   {
     "Id": 550,
-    "Race": "Foul",
-    "Name": "Mad Gasser",
+    "Race": "Ghost",
+    "Name": "Strigoii",
     "HasSprite": true
   },
   {
-    "Id": 552,
-    "Race": "Element",
-    "Name": "Sylph",
-    "HasSprite": true
-  },
-  {
-    "Id": 553,
+    "Id": 556,
     "Race": "Mitama",
-    "Name": "Ara Mitama",
-    "HasSprite": true
-  },
-  {
-    "Id": 554,
-    "Race": "Element",
-    "Name": "Undine",
+    "Name": "Saki Mitama",
     "HasSprite": true
   },
   {
@@ -2208,31 +2196,49 @@
     "HasSprite": true
   },
   {
-    "Id": 561,
-    "Race": "Element",
-    "Name": "Gnome",
-    "HasSprite": true
-  },
-  {
-    "Id": 563,
-    "Race": "Element",
-    "Name": "Flaemis",
-    "HasSprite": true
-  },
-  {
-    "Id": 564,
+    "Id": 558,
     "Race": "Mitama",
     "Name": "Nigi Mitama",
     "HasSprite": true
   },
   {
-    "Id": 567,
+    "Id": 559,
     "Race": "Mitama",
-    "Name": "Saki Mitama",
+    "Name": "Ara Mitama",
+    "HasSprite": true
+  },
+  {
+    "Id": 565,
+    "Race": "Element",
+    "Name": "Salamander",
+    "HasSprite": true
+  },
+  {
+    "Id": 566,
+    "Race": "Element",
+    "Name": "Undine",
+    "HasSprite": true
+  },
+  {
+    "Id": 567,
+    "Race": "Element",
+    "Name": "Sylph",
+    "HasSprite": true
+  },
+  {
+    "Id": 568,
+    "Race": "Element",
+    "Name": "Gnome",
     "HasSprite": true
   },
   {
     "Id": 569,
+    "Race": "Element",
+    "Name": "Flaemis",
+    "HasSprite": true
+  },
+  {
+    "Id": 570,
     "Race": "Element",
     "Name": "Aquans",
     "HasSprite": true
@@ -2240,31 +2246,31 @@
   {
     "Id": 571,
     "Race": "Element",
-    "Name": "Erthys",
+    "Name": "Aeros",
     "HasSprite": true
   },
   {
     "Id": 572,
     "Race": "Element",
-    "Name": "Aeros",
+    "Name": "Erthys",
     "HasSprite": true
   },
   {
-    "Id": 575,
-    "Race": "Element",
-    "Name": "Salamander",
-    "HasSprite": true
-  },
-  {
-    "Id": 577,
+    "Id": 578,
     "Race": "Fiend",
-    "Name": "White Rider",
+    "Name": "Mother Harlot",
     "HasSprite": true
   },
   {
     "Id": 579,
     "Race": "Fiend",
-    "Name": "Matador",
+    "Name": "Trumpeter",
+    "HasSprite": true
+  },
+  {
+    "Id": 580,
+    "Race": "Fiend",
+    "Name": "Pale Rider",
     "HasSprite": true
   },
   {
@@ -2274,37 +2280,43 @@
     "HasSprite": true
   },
   {
-    "Id": 585,
-    "Race": "Enigma",
-    "Name": "Kangiten",
-    "HasSprite": true
-  },
-  {
-    "Id": 587,
-    "Race": "Enigma",
-    "Name": "Kama",
-    "HasSprite": true
-  },
-  {
-    "Id": 588,
+    "Id": 582,
     "Race": "Fiend",
     "Name": "Red Rider",
     "HasSprite": true
   },
   {
-    "Id": 591,
+    "Id": 583,
     "Race": "Fiend",
-    "Name": "Pale Rider",
+    "Name": "White Rider",
     "HasSprite": true
   },
   {
-    "Id": 592,
+    "Id": 585,
+    "Race": "Fiend",
+    "Name": "Matador",
+    "HasSprite": true
+  },
+  {
+    "Id": 586,
     "Race": "Fiend",
     "Name": "David",
     "HasSprite": true
   },
   {
+    "Id": 592,
+    "Race": "Enigma",
+    "Name": "Kangiten",
+    "HasSprite": true
+  },
+  {
     "Id": 593,
+    "Race": "Enigma",
+    "Name": "Kama",
+    "HasSprite": true
+  },
+  {
+    "Id": 594,
     "Race": "Enigma",
     "Name": "Kinmamon",
     "HasSprite": true
@@ -2312,43 +2324,31 @@
   {
     "Id": 595,
     "Race": "Enigma",
-    "Name": "Kanbari",
+    "Name": "Futotama",
     "HasSprite": true
   },
   {
     "Id": 596,
     "Race": "Enigma",
-    "Name": "Futotama",
-    "HasSprite": true
-  },
-  {
-    "Id": 597,
-    "Race": "Fiend",
-    "Name": "Mother Harlot",
-    "HasSprite": true
-  },
-  {
-    "Id": 598,
-    "Race": "Fiend",
-    "Name": "Trumpeter",
-    "HasSprite": true
-  },
-  {
-    "Id": 600,
-    "Race": "Zealot",
-    "Name": "Attis",
-    "HasSprite": true
-  },
-  {
-    "Id": 601,
-    "Race": "Food",
-    "Name": "Onmoraki",
+    "Name": "Kanbari",
     "HasSprite": true
   },
   {
     "Id": 602,
-    "Race": "Zealot",
-    "Name": "Tezcatlipoca",
+    "Race": "Food",
+    "Name": "Hare of Inaba",
+    "HasSprite": true
+  },
+  {
+    "Id": 603,
+    "Race": "Food",
+    "Name": "Kuda",
+    "HasSprite": true
+  },
+  {
+    "Id": 604,
+    "Race": "Food",
+    "Name": "Chupacabra",
     "HasSprite": true
   },
   {
@@ -2358,135 +2358,123 @@
     "HasSprite": true
   },
   {
-    "Id": 609,
-    "Race": "Zealot",
-    "Name": "Aramisaki",
-    "HasSprite": true
-  },
-  {
-    "Id": 611,
-    "Race": "Zealot",
-    "Name": "Dionysus",
-    "HasSprite": true
-  },
-  {
-    "Id": 612,
+    "Id": 606,
     "Race": "Food",
     "Name": "Katakirauwa",
     "HasSprite": true
   },
   {
-    "Id": 615,
+    "Id": 607,
     "Race": "Food",
-    "Name": "Chupacabra",
+    "Name": "Onmoraki",
+    "HasSprite": true
+  },
+  {
+    "Id": 614,
+    "Race": "Zealot",
+    "Name": "Tezcatlipoca",
+    "HasSprite": true
+  },
+  {
+    "Id": 615,
+    "Race": "Zealot",
+    "Name": "Attis",
+    "HasSprite": true
+  },
+  {
+    "Id": 616,
+    "Race": "Zealot",
+    "Name": "Aramisaki",
     "HasSprite": true
   },
   {
     "Id": 617,
     "Race": "Zealot",
+    "Name": "Dionysus",
+    "HasSprite": true
+  },
+  {
+    "Id": 618,
+    "Race": "Zealot",
     "Name": "Ogun",
     "HasSprite": true
   },
   {
-    "Id": 621,
-    "Race": "Food",
-    "Name": "Hare of Inaba",
-    "HasSprite": true
-  },
-  {
-    "Id": 622,
-    "Race": "Food",
-    "Name": "Kuda",
-    "HasSprite": true
-  },
-  {
     "Id": 624,
-    "Race": "Famed",
-    "Name": "Tenkai",
-    "HasSprite": true
-  },
-  {
-    "Id": 625,
-    "Race": "Famed",
-    "Name": "Tokisada",
-    "HasSprite": true
-  },
-  {
-    "Id": 626,
-    "Race": "Famed",
-    "Name": "Yoshitsune",
-    "HasSprite": true
-  },
-  {
-    "Id": 627,
-    "Race": "Famed",
-    "Name": "Kanseiteikun",
-    "HasSprite": true
-  },
-  {
-    "Id": 630,
-    "Race": "Famed",
-    "Name": "Hagen",
-    "HasSprite": true
-  },
-  {
-    "Id": 631,
     "Race": "Entity",
     "Name": "Alilat",
     "HasSprite": true
   },
   {
-    "Id": 632,
-    "Race": "Famed",
-    "Name": "Jeanne d'Arc",
-    "HasSprite": true
-  },
-  {
-    "Id": 636,
+    "Id": 630,
     "Race": "Famed",
     "Name": "Huang Di",
     "HasSprite": true
   },
   {
-    "Id": 637,
+    "Id": 631,
+    "Race": "Famed",
+    "Name": "Tokisada",
+    "HasSprite": true
+  },
+  {
+    "Id": 632,
     "Race": "Famed",
     "Name": "Rama",
     "HasSprite": true
   },
   {
-    "Id": 638,
-    "Race": "Human",
-    "Name": "Ashura-kai Woman",
+    "Id": 633,
+    "Race": "Famed",
+    "Name": "Kanseiteikun",
     "HasSprite": true
   },
   {
-    "Id": 640,
+    "Id": 634,
     "Race": "Famed",
     "Name": "Siegfried",
     "HasSprite": true
   },
   {
-    "Id": 643,
-    "Race": "Human",
-    "Name": "Ashura-kai Man",
+    "Id": 635,
+    "Race": "Famed",
+    "Name": "Hagen",
     "HasSprite": true
   },
   {
-    "Id": 647,
+    "Id": 636,
+    "Race": "Famed",
+    "Name": "Jeanne d'Arc",
+    "HasSprite": true
+  },
+  {
+    "Id": 637,
     "Race": "Famed",
     "Name": "Lanling Wang",
     "HasSprite": true
   },
   {
-    "Id": 650,
-    "Race": "Undead",
-    "Name": "Zombie Cop",
+    "Id": 638,
+    "Race": "Famed",
+    "Name": "Yoshitsune",
     "HasSprite": true
   },
   {
-    "Id": 651,
-    "Race": "Undead",
-    "Name": "Samurai Zombie ♂",
+    "Id": 639,
+    "Race": "Famed",
+    "Name": "Tenkai",
+    "HasSprite": true
+  },
+  {
+    "Id": 644,
+    "Race": "Human",
+    "Name": "Ashura-kai Man",
+    "HasSprite": true
+  },
+  {
+    "Id": 645,
+    "Race": "Human",
+    "Name": "Ashura-kai Woman",
     "HasSprite": true
   },
   {
@@ -2497,246 +2485,264 @@
   },
   {
     "Id": 654,
-    "Race": "Undead",
-    "Name": "Zombie",
-    "HasSprite": true
-  },
-  {
-    "Id": 656,
-    "Race": "Undead",
-    "Name": "Alice",
-    "HasSprite": true
-  },
-  {
-    "Id": 658,
-    "Race": "Human",
-    "Name": "Flynn",
-    "HasSprite": true
-  },
-  {
-    "Id": 659,
-    "Race": "Undead",
-    "Name": "Patriot",
-    "HasSprite": true
-  },
-  {
-    "Id": 660,
     "Race": "Human",
     "Name": "Gaea Woman",
     "HasSprite": true
   },
   {
-    "Id": 662,
-    "Race": "Human",
-    "Name": "Flynn",
+    "Id": 657,
+    "Race": "Undead",
+    "Name": "Samurai Zombie (male)",
     "HasSprite": true
   },
   {
-    "Id": 664,
+    "Id": 658,
     "Race": "Undead",
-    "Name": "Samurai Zombie ♀",
+    "Name": "Samurai Zombie (female)",
+    "HasSprite": true
+  },
+  {
+    "Id": 659,
+    "Race": "Undead",
+    "Name": "Zombie",
+    "HasSprite": true
+  },
+  {
+    "Id": 660,
+    "Race": "Undead",
+    "Name": "Alice",
+    "HasSprite": true
+  },
+  {
+    "Id": 662,
+    "Race": "Undead",
+    "Name": "Zombie Cop",
     "HasSprite": true
   },
   {
     "Id": 665,
     "Race": "Undead",
-    "Name": "Corpse",
+    "Name": "Patriot",
     "HasSprite": true
   },
   {
     "Id": 666,
+    "Race": "Undead",
+    "Name": "Corpse",
+    "HasSprite": true
+  },
+  {
+    "Id": 669,
+    "Race": "Human",
+    "Name": "Flynn",
+    "HasSprite": true
+  },
+  {
+    "Id": 670,
+    "Race": "Human",
+    "Name": "Flynn",
+    "HasSprite": true
+  },
+  {
+    "Id": 671,
     "Race": "Human",
     "Name": "Walter",
     "HasSprite": true
   },
   {
     "Id": 672,
-    "Race": "Horde",
-    "Name": "Demon Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 674,
-    "Race": "Horde",
-    "Name": "Wildfire Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 675,
-    "Race": "Horde",
-    "Name": "Giant Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 676,
-    "Race": "Human",
-    "Name": "Isabeau",
-    "HasSprite": true
-  },
-  {
-    "Id": 678,
-    "Race": "Horde",
-    "Name": "Oni Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 679,
     "Race": "Human",
     "Name": "Jonathan",
     "HasSprite": true
   },
   {
-    "Id": 680,
-    "Race": "Horde",
-    "Name": "Dragon Horde",
+    "Id": 673,
+    "Race": "Human",
+    "Name": "Isabeau",
     "HasSprite": true
   },
   {
-    "Id": 681,
-    "Race": "Horde",
-    "Name": "Azteca Force",
-    "HasSprite": true
-  },
-  {
-    "Id": 682,
-    "Race": "Horde",
-    "Name": "Gale Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 683,
-    "Race": "Horde",
-    "Name": "Jaki Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 686,
-    "Race": "Horde",
-    "Name": "Freezing Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 688,
-    "Race": "Horde",
-    "Name": "Innocent Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 689,
-    "Race": "Horde",
-    "Name": "Greek Force",
-    "HasSprite": true
-  },
-  {
-    "Id": 690,
-    "Race": "Horde",
-    "Name": "Fallen Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 691,
-    "Race": "Horde",
-    "Name": "Defiant Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 692,
-    "Race": "Horde",
-    "Name": "Angel Army",
-    "HasSprite": true
-  },
-  {
-    "Id": 693,
+    "Id": 674,
     "Race": "Primal",
     "Name": "Satan",
     "HasSprite": true
   },
   {
-    "Id": 695,
+    "Id": 681,
+    "Race": "Horde",
+    "Name": "Giant Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 682,
+    "Race": "Horde",
+    "Name": "Innocent Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 683,
+    "Race": "Horde",
+    "Name": "Oni Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 684,
+    "Race": "Horde",
+    "Name": "Dragon Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 685,
     "Race": "Horde",
     "Name": "Dead Horde",
     "HasSprite": true
   },
   {
-    "Id": 696,
+    "Id": 686,
     "Race": "Horde",
-    "Name": "A. Demon Army",
+    "Name": "Wildfire Horde",
     "HasSprite": true
   },
   {
-    "Id": 697,
+    "Id": 687,
     "Race": "Horde",
-    "Name": "Inferno Horde",
+    "Name": "Demon Horde",
     "HasSprite": true
   },
   {
-    "Id": 698,
+    "Id": 688,
     "Race": "Horde",
-    "Name": "Pirate Horde",
+    "Name": "Azteca Force",
     "HasSprite": true
   },
   {
-    "Id": 699,
+    "Id": 689,
     "Race": "Horde",
-    "Name": "Tengu Horde",
+    "Name": "Jaki Horde",
     "HasSprite": true
   },
   {
-    "Id": 702,
+    "Id": 690,
     "Race": "Horde",
-    "Name": "Frosts",
+    "Name": "Greek Force",
     "HasSprite": true
   },
   {
-    "Id": 703,
-    "Race": "Horde",
-    "Name": "Demon Army",
-    "HasSprite": true
-  },
-  {
-    "Id": 704,
-    "Race": "Horde",
-    "Name": "Norse Force",
-    "HasSprite": true
-  },
-  {
-    "Id": 705,
-    "Race": "Horde",
-    "Name": "A. Angel Army",
-    "HasSprite": true
-  },
-  {
-    "Id": 707,
-    "Race": "Horde",
-    "Name": "A. Angel Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 709,
-    "Race": "Horde",
-    "Name": "Blizzard Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 710,
+    "Id": 691,
     "Race": "Horde",
     "Name": "Angel Army",
     "HasSprite": true
   },
   {
-    "Id": 711,
+    "Id": 692,
+    "Race": "Horde",
+    "Name": "Defiant Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 693,
+    "Race": "Horde",
+    "Name": "Freezing Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 694,
+    "Race": "Horde",
+    "Name": "Gale Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 695,
+    "Race": "Horde",
+    "Name": "Fallen Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 696,
+    "Race": "Horde",
+    "Name": "Demon Army",
+    "HasSprite": true
+  },
+  {
+    "Id": 698,
+    "Race": "Horde",
+    "Name": "Thunder Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 699,
+    "Race": "Horde",
+    "Name": "Blazing Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 700,
     "Race": "Horde",
     "Name": "Indian Force",
     "HasSprite": true
   },
   {
-    "Id": 712,
+    "Id": 703,
+    "Race": "Horde",
+    "Name": "Inferno Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 704,
+    "Race": "Horde",
+    "Name": "Blizzard Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 705,
+    "Race": "Horde",
+    "Name": "Tengu Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 706,
     "Race": "Horde",
     "Name": "Jack Union",
     "HasSprite": true
   },
   {
+    "Id": 707,
+    "Race": "Horde",
+    "Name": "Frosts",
+    "HasSprite": true
+  },
+  {
+    "Id": 708,
+    "Race": "Horde",
+    "Name": "Norse Force",
+    "HasSprite": true
+  },
+  {
+    "Id": 710,
+    "Race": "Horde",
+    "Name": "Pirate Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 711,
+    "Race": "Horde",
+    "Name": "A. Demon Army",
+    "HasSprite": true
+  },
+  {
+    "Id": 712,
+    "Race": "Horde",
+    "Name": "A. Angel Army",
+    "HasSprite": true
+  },
+  {
     "Id": 713,
+    "Race": "Horde",
+    "Name": "A. Angel Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 714,
     "Race": "Horde",
     "Name": "Herald Army",
     "HasSprite": true
@@ -2744,37 +2750,25 @@
   {
     "Id": 715,
     "Race": "Horde",
-    "Name": "Metatron Army",
+    "Name": "Seraph Army",
     "HasSprite": true
   },
   {
     "Id": 716,
     "Race": "Horde",
-    "Name": "Seraph Army",
+    "Name": "Metatron Army",
     "HasSprite": true
   },
   {
     "Id": 717,
     "Race": "Horde",
-    "Name": "Thunder Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 718,
-    "Race": "Horde",
-    "Name": "Blazing Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 721,
-    "Race": "Horde",
-    "Name": "Obsessed Horde",
+    "Name": "Angel Army",
     "HasSprite": true
   },
   {
     "Id": 723,
     "Race": "Horde",
-    "Name": "Maruo Faction",
+    "Name": "Itsumade Horde",
     "HasSprite": true
   },
   {
@@ -2786,103 +2780,121 @@
   {
     "Id": 726,
     "Race": "Horde",
-    "Name": "Corpse Army",
+    "Name": "Demonstrators",
+    "HasSprite": true
+  },
+  {
+    "Id": 727,
+    "Race": "Horde",
+    "Name": "Obsessed Horde",
     "HasSprite": true
   },
   {
     "Id": 728,
     "Race": "Horde",
-    "Name": "Yomi Army",
-    "HasSprite": true
-  },
-  {
-    "Id": 729,
-    "Race": "Jaki",
-    "Name": "Black Frost",
-    "HasSprite": true
-  },
-  {
-    "Id": 730,
-    "Race": "Jaki",
-    "Name": "Girimehkala",
-    "HasSprite": true
-  },
-  {
-    "Id": 731,
-    "Race": "Jirae",
-    "Name": "Tlaltecuhtli",
-    "HasSprite": true
-  },
-  {
-    "Id": 732,
-    "Race": "Horde",
-    "Name": "Demonstrators",
-    "HasSprite": true
-  },
-  {
-    "Id": 733,
-    "Race": "Horde",
     "Name": "Greedy Horde",
     "HasSprite": true
   },
   {
-    "Id": 734,
-    "Race": "Famed",
-    "Name": "Lanling Wang",
+    "Id": 729,
+    "Race": "Horde",
+    "Name": "Maruo Faction",
     "HasSprite": true
   },
   {
-    "Id": 736,
+    "Id": 730,
     "Race": "Horde",
     "Name": "Zaccoum Horde",
     "HasSprite": true
   },
   {
+    "Id": 731,
+    "Race": "Horde",
+    "Name": "Corpse Army",
+    "HasSprite": true
+  },
+  {
+    "Id": 732,
+    "Race": "Horde",
+    "Name": "Yomi Army",
+    "HasSprite": true
+  },
+  {
+    "Id": 736,
+    "Race": "Jaki",
+    "Name": "Black Frost",
+    "HasSprite": true
+  },
+  {
     "Id": 737,
+    "Race": "Jirae",
+    "Name": "Tlaltecuhtli",
+    "HasSprite": true
+  },
+  {
+    "Id": 738,
     "Race": "Deity",
     "Name": "Prometheus",
     "HasSprite": true
   },
   {
-    "Id": 738,
-    "Race": "Zealot",
-    "Name": "Aramisaki",
-    "HasSprite": true
-  },
-  {
     "Id": 739,
-    "Race": "Tyrant",
-    "Name": "Loki",
-    "HasSprite": true
-  },
-  {
-    "Id": 740,
     "Race": "Beast",
     "Name": "Dormarth",
     "HasSprite": true
   },
   {
+    "Id": 740,
+    "Race": "Tyrant",
+    "Name": "Loki",
+    "HasSprite": true
+  },
+  {
+    "Id": 741,
+    "Race": "Famed",
+    "Name": "Lanling Wang",
+    "HasSprite": true
+  },
+  {
     "Id": 742,
-    "Race": "Horde",
-    "Name": "Itsumade Horde",
+    "Race": "Jaki",
+    "Name": "Girimehkala",
+    "HasSprite": true
+  },
+  {
+    "Id": 743,
+    "Race": "Zealot",
+    "Name": "Aramisaki",
+    "HasSprite": true
+  },
+  {
+    "Id": 744,
+    "Race": "Human",
+    "Name": "Ashura-kai Man",
     "HasSprite": true
   },
   {
     "Id": 745,
-    "Race": "Megami",
-    "Name": "Izanami",
+    "Race": "Fallen",
+    "Name": "Shax",
+    "HasSprite": true
+  },
+  {
+    "Id": 746,
+    "Race": "Enigma",
+    "Name": "Futotama",
     "HasSprite": true
   },
   {
     "Id": 747,
-    "Race": "Raptor",
-    "Name": "Zhen",
+    "Race": "Kunitsu",
+    "Name": "Arahabaki",
     "HasSprite": true
   },
   {
     "Id": 748,
-    "Race": "Fallen",
-    "Name": "Shax",
+    "Race": "Tyrant",
+    "Name": "Mara",
     "HasSprite": true
   },
   {
@@ -2892,285 +2904,249 @@
     "HasSprite": true
   },
   {
-    "Id": 751,
-    "Race": "Human",
-    "Name": "Ashura-kai Man",
-    "HasSprite": true
-  },
-  {
-    "Id": 756,
+    "Id": 750,
     "Race": "Brute",
-    "Name": "Ongyo-ki",
+    "Name": "Ongyo-Ki",
     "HasSprite": true
   },
   {
-    "Id": 757,
+    "Id": 751,
+    "Race": "Megami",
+    "Name": "Izanami",
+    "HasSprite": true
+  },
+  {
+    "Id": 752,
     "Race": "Human",
     "Name": "Maruo",
     "HasSprite": true
   },
   {
-    "Id": 759,
-    "Race": "Tyrant",
-    "Name": "Mara",
+    "Id": 753,
+    "Race": "Raptor",
+    "Name": "Zhen",
     "HasSprite": true
   },
   {
-    "Id": 760,
+    "Id": 754,
     "Race": "Ghost",
     "Name": "Tamagami",
     "HasSprite": true
   },
   {
-    "Id": 765,
-    "Race": "Enigma",
-    "Name": "Futotama",
-    "HasSprite": true
-  },
-  {
-    "Id": 766,
-    "Race": "Kunitsu",
-    "Name": "Arahabaki",
-    "HasSprite": true
-  },
-  {
-    "Id": 778,
-    "Race": "Human",
-    "Name": "Toki (no mask)",
-    "HasSprite": true
-  },
-  {
-    "Id": 782,
-    "Race": "Human",
-    "Name": "Gaston (with Gungnir)",
-    "HasSprite": true
-  },
-  {
-    "Id": 786,
-    "Race": "Human",
-    "Name": "Isabeau",
-    "HasSprite": true
-  },
-  {
-    "Id": 787,
+    "Id": 788,
     "Race": "Human",
     "Name": "Gaston (normal spear)",
     "HasSprite": true
   },
   {
     "Id": 789,
-    "Race": "Samurai",
-    "Name": "Flynn",
+    "Race": "Human",
+    "Name": "Gaston (Gungnir spear)",
     "HasSprite": true
   },
   {
     "Id": 790,
-    "Race": "Kunitsu",
-    "Name": "Sukuna-Hikona",
+    "Race": "Human",
+    "Name": "Toki (no mask)",
     "HasSprite": true
   },
   {
     "Id": 791,
-    "Race": "Food",
-    "Name": "Katakirauwa",
+    "Race": "Human",
+    "Name": "Isabeau",
     "HasSprite": true
   },
   {
     "Id": 792,
-    "Race": "Ghost",
-    "Name": "Navarre",
-    "HasSprite": true
-  },
-  {
-    "Id": 793,
-    "Race": "Hybrid",
-    "Name": "Hallelujah",
-    "HasSprite": true
-  },
-  {
-    "Id": 794,
-    "Race": "Divine",
-    "Name": "Angel (blue)",
-    "HasSprite": true
-  },
-  {
-    "Id": 795,
     "Race": "Human",
     "Name": "Asahi",
     "HasSprite": true
   },
   {
-    "Id": 796,
-    "Race": "Herald",
-    "Name": "Aniel",
+    "Id": 793,
+    "Race": "Ghost",
+    "Name": "Navarre",
     "HasSprite": true
   },
   {
-    "Id": 798,
-    "Race": "Kishin",
-    "Name": "Zhong Kui",
-    "HasSprite": true
-  },
-  {
-    "Id": 800,
-    "Race": "Human",
-    "Name": "Toki (with mask)",
-    "HasSprite": true
-  },
-  {
-    "Id": 801,
-    "Race": "Horde",
-    "Name": "Lucifer's Minions",
-    "HasSprite": true
-  },
-  {
-    "Id": 802,
-    "Race": "Human",
-    "Name": "Gaea Woman",
-    "HasSprite": true
-  },
-  {
-    "Id": 803,
-    "Race": "Human",
-    "Name": "Hallelujah",
-    "HasSprite": true
-  },
-  {
-    "Id": 804,
-    "Race": "Horde",
-    "Name": "Lucifer's Minions",
-    "HasSprite": true
-  },
-  {
-    "Id": 805,
-    "Race": "Jirae",
-    "Name": "Titan",
-    "HasSprite": true
-  },
-  {
-    "Id": 806,
-    "Race": "Human",
-    "Name": "Toki (with mask)",
-    "HasSprite": true
-  },
-  {
-    "Id": 808,
-    "Race": "Femme",
-    "Name": "Medusa",
-    "HasSprite": true
-  },
-  {
-    "Id": 809,
+    "Id": 794,
     "Race": "Human",
     "Name": "Nozomi",
     "HasSprite": true
   },
   {
-    "Id": 810,
+    "Id": 795,
     "Race": "Human",
-    "Name": "Gaston (with Michael's spear)",
+    "Name": "Gaston (Michael's spear)",
     "HasSprite": true
   },
   {
-    "Id": 811,
+    "Id": 796,
+    "Race": "Human",
+    "Name": "Hallelujah",
+    "HasSprite": true
+  },
+  {
+    "Id": 797,
+    "Race": "Hybrid",
+    "Name": "Hallelujah",
+    "HasSprite": true
+  },
+  {
+    "Id": 798,
+    "Race": "Human",
+    "Name": "Toki (masked)",
+    "HasSprite": true
+  },
+  {
+    "Id": 799,
+    "Race": "Samurai",
+    "Name": "Flynn",
+    "HasSprite": true
+  },
+  {
+    "Id": 800,
+    "Race": "Horde",
+    "Name": "Lucifer's Minions",
+    "HasSprite": true
+  },
+  {
+    "Id": 801,
+    "Race": "Food",
+    "Name": "Katakirauwa",
+    "HasSprite": true
+  },
+  {
+    "Id": 802,
+    "Race": "Horde",
+    "Name": "Lucifer's Minions",
+    "HasSprite": true
+  },
+  {
+    "Id": 803,
+    "Race": "Divine",
+    "Name": "Angel (blue)",
+    "HasSprite": true
+  },
+  {
+    "Id": 804,
+    "Race": "Herald",
+    "Name": "Aniel",
+    "HasSprite": true
+  },
+  {
+    "Id": 805,
     "Race": "Tyrant",
     "Name": "King Frost",
     "HasSprite": true
   },
   {
+    "Id": 806,
+    "Race": "Kunitsu",
+    "Name": "Sukuna-Hikona",
+    "HasSprite": true
+  },
+  {
+    "Id": 810,
+    "Race": "Jirae",
+    "Name": "Titan",
+    "HasSprite": true
+  },
+  {
+    "Id": 811,
+    "Race": "Femme",
+    "Name": "Medusa",
+    "HasSprite": true
+  },
+  {
+    "Id": 812,
+    "Race": "Snake",
+    "Name": "Shesha (stage 1)",
+    "HasSprite": true
+  },
+  {
     "Id": 813,
-    "Race": "Kishin",
-    "Name": "Bishamonten",
-    "HasSprite": true
-  },
-  {
-    "Id": 815,
-    "Race": "Lady",
-    "Name": "Inanna Remnant",
-    "HasSprite": true
-  },
-  {
-    "Id": 817,
-    "Race": "Kishin",
-    "Name": "Koumokuten",
-    "HasSprite": true
-  },
-  {
-    "Id": 819,
-    "Race": "Deity",
-    "Name": "Odin",
-    "HasSprite": true
-  },
-  {
-    "Id": 820,
-    "Race": "Deity",
-    "Name": "Krishna",
-    "HasSprite": true
-  },
-  {
-    "Id": 822,
-    "Race": "Tyrant",
-    "Name": "Belial",
-    "HasSprite": true
-  },
-  {
-    "Id": 823,
-    "Race": "Human",
-    "Name": "Gaea Man",
-    "HasSprite": true
-  },
-  {
-    "Id": 824,
-    "Race": "Kishin",
-    "Name": "Zouchouten",
-    "HasSprite": true
-  },
-  {
-    "Id": 825,
-    "Race": "Kishin",
-    "Name": "Marishiten",
-    "HasSprite": true
-  },
-  {
-    "Id": 826,
-    "Race": "Herald",
-    "Name": "Azrael",
-    "HasSprite": true
-  },
-  {
-    "Id": 827,
-    "Race": "Kishin",
-    "Name": "Jikokuten",
-    "HasSprite": true
-  },
-  {
-    "Id": 828,
-    "Race": "Deity",
-    "Name": "Maitreya",
-    "HasSprite": true
-  },
-  {
-    "Id": 829,
     "Race": "Human",
     "Name": "Gaea Woman",
     "HasSprite": true
   },
   {
-    "Id": 830,
-    "Race": "Tyrant",
-    "Name": "Lucifuge",
+    "Id": 814,
+    "Race": "Kishin",
+    "Name": "Zhong Kui",
     "HasSprite": true
   },
   {
-    "Id": 831,
-    "Race": "Horde",
-    "Name": "Angel Army",
+    "Id": 815,
+    "Race": "Human",
+    "Name": "Toki (masked)",
     "HasSprite": true
   },
   {
-    "Id": 832,
-    "Race": "Fallen",
-    "Name": "Adramelech",
+    "Id": 816,
+    "Race": "Deity",
+    "Name": "Odin",
+    "HasSprite": true
+  },
+  {
+    "Id": 818,
+    "Race": "Human",
+    "Name": "Gaea Man",
+    "HasSprite": true
+  },
+  {
+    "Id": 819,
+    "Race": "Dragon",
+    "Name": "Quetzalcoatl",
+    "HasSprite": true
+  },
+  {
+    "Id": 820,
+    "Race": "Kishin",
+    "Name": "Jikokuten",
+    "HasSprite": true
+  },
+  {
+    "Id": 821,
+    "Race": "Kishin",
+    "Name": "Koumokuten",
+    "HasSprite": true
+  },
+  {
+    "Id": 822,
+    "Race": "Kishin",
+    "Name": "Zouchouten",
+    "HasSprite": true
+  },
+  {
+    "Id": 823,
+    "Race": "Kishin",
+    "Name": "Bishamonten",
+    "HasSprite": true
+  },
+  {
+    "Id": 824,
+    "Race": "Kishin",
+    "Name": "Marishiten",
+    "HasSprite": true
+  },
+  {
+    "Id": 825,
+    "Race": "Lady",
+    "Name": "Inanna Remnant",
+    "HasSprite": true
+  },
+  {
+    "Id": 826,
+    "Race": "Deity",
+    "Name": "Maitreya",
+    "HasSprite": true
+  },
+  {
+    "Id": 828,
+    "Race": "Deity",
+    "Name": "Krishna",
     "HasSprite": true
   },
   {
@@ -3181,182 +3157,188 @@
   },
   {
     "Id": 834,
-    "Race": "Dragon",
-    "Name": "Quetzalcoatl",
+    "Race": "Human",
+    "Name": "Gaea Woman",
+    "HasSprite": true
+  },
+  {
+    "Id": 835,
+    "Race": "Fallen",
+    "Name": "Adramelech",
     "HasSprite": true
   },
   {
     "Id": 836,
     "Race": "Horde",
-    "Name": "Metatron Army",
+    "Name": "Angel Army",
     "HasSprite": true
   },
   {
     "Id": 837,
-    "Race": "Deity",
-    "Name": "Baal",
+    "Race": "Herald",
+    "Name": "Azrael",
     "HasSprite": true
   },
   {
     "Id": 838,
-    "Race": "Herald",
-    "Name": "Metatron",
+    "Race": "Tyrant",
+    "Name": "Belial",
     "HasSprite": true
   },
   {
     "Id": 839,
-    "Race": "Vile",
-    "Name": "Seth",
+    "Race": "Tyrant",
+    "Name": "Lucifuge",
     "HasSprite": true
   },
   {
     "Id": 840,
+    "Race": "Tyrant",
+    "Name": "Samyaza",
+    "HasSprite": true
+  },
+  {
+    "Id": 841,
     "Race": "Tyrant",
     "Name": "Lucifer",
     "HasSprite": true
   },
   {
     "Id": 842,
-    "Race": "Fury",
-    "Name": "Mitra-Buddha",
-    "HasSprite": true
-  },
-  {
-    "Id": 843,
-    "Race": "Tyrant",
-    "Name": "Samyaza",
-    "HasSprite": true
-  },
-  {
-    "Id": 844,
-    "Race": "Deity",
-    "Name": "Dagda",
-    "HasSprite": true
-  },
-  {
-    "Id": 846,
-    "Race": "Horde",
-    "Name": "Angel Army",
-    "HasSprite": true
-  },
-  {
-    "Id": 848,
-    "Race": "Deity",
-    "Name": "Odin",
-    "HasSprite": true
-  },
-  {
-    "Id": 849,
-    "Race": "Deity",
-    "Name": "Apsu",
-    "HasSprite": true
-  },
-  {
-    "Id": 850,
-    "Race": "Deity",
-    "Name": "Vishnu-Flynn (stage 2)",
-    "HasSprite": true
-  },
-  {
-    "Id": 852,
-    "Race": "Lady",
-    "Name": "Inanna",
-    "HasSprite": true
-  },
-  {
-    "Id": 853,
-    "Race": "Primal",
-    "Name": "Satan",
-    "HasSprite": true
-  },
-  {
-    "Id": 854,
-    "Race": "Flight",
-    "Name": "Rukh",
-    "HasSprite": true
-  },
-  {
-    "Id": 857,
     "Race": "Herald",
     "Name": "Merkabah",
     "HasSprite": true
   },
   {
-    "Id": 859,
+    "Id": 846,
+    "Race": "Deity",
+    "Name": "Odin",
+    "HasSprite": true
+  },
+  {
+    "Id": 847,
+    "Race": "Deity",
+    "Name": "Baal",
+    "HasSprite": true
+  },
+  {
+    "Id": 848,
+    "Race": "Deity",
+    "Name": "Apsu",
+    "HasSprite": true
+  },
+  {
+    "Id": 849,
+    "Race": "Deity",
+    "Name": "Seth",
+    "HasSprite": true
+  },
+  {
+    "Id": 850,
+    "Race": "Lady",
+    "Name": "Inanna",
+    "HasSprite": true
+  },
+  {
+    "Id": 851,
+    "Race": "Fury",
+    "Name": "Mitra-Buddha",
+    "HasSprite": true
+  },
+  {
+    "Id": 852,
+    "Race": "Deity",
+    "Name": "Dagda",
+    "HasSprite": true
+  },
+  {
+    "Id": 853,
     "Race": "Deity",
     "Name": "Vishnu-Flynn (stage 1)",
     "HasSprite": true
   },
   {
-    "Id": 860,
+    "Id": 854,
     "Race": "Herald",
-    "Name": "A. Aniel",
+    "Name": "Metatron",
+    "HasSprite": true
+  },
+  {
+    "Id": 855,
+    "Race": "Horde",
+    "Name": "Metatron Army",
+    "HasSprite": true
+  },
+  {
+    "Id": 858,
+    "Race": "Primal",
+    "Name": "Satan",
     "HasSprite": true
   },
   {
     "Id": 861,
-    "Race": "Horde",
-    "Name": "Human Army",
+    "Race": "Deity",
+    "Name": "Vishnu-Flynn (stage 2)",
     "HasSprite": true
   },
   {
     "Id": 862,
-    "Race": "Herald",
-    "Name": "A. Merkabah",
+    "Race": "Horde",
+    "Name": "Angel Army",
     "HasSprite": true
   },
   {
     "Id": 863,
-    "Race": "Horde",
-    "Name": "Human Army",
+    "Race": "Flight",
+    "Name": "Rukh",
     "HasSprite": true
   },
   {
     "Id": 864,
-    "Race": "Human",
-    "Name": "Nozomi",
-    "HasSprite": true
-  },
-  {
-    "Id": 865,
-    "Race": "Human",
-    "Name": "Isabeau",
-    "HasSprite": true
-  },
-  {
-    "Id": 866,
-    "Race": "Tyrant",
-    "Name": "Lucifer",
-    "HasSprite": true
-  },
-  {
-    "Id": 867,
     "Race": "Ghost",
     "Name": "Navarre",
     "HasSprite": true
   },
   {
+    "Id": 865,
+    "Race": "Human",
+    "Name": "Nozomi",
+    "HasSprite": true
+  },
+  {
+    "Id": 866,
+    "Race": "Hybrid",
+    "Name": "Hallelujah",
+    "HasSprite": true
+  },
+  {
+    "Id": 867,
+    "Race": "Human",
+    "Name": "Gaston (Gungnir spear)",
+    "HasSprite": true
+  },
+  {
     "Id": 868,
-    "Race": "Tyrant",
-    "Name": "A. Beelzebub",
+    "Race": "Human",
+    "Name": "Toki (no mask)",
     "HasSprite": true
   },
   {
     "Id": 869,
-    "Race": "Herald",
-    "Name": "A. Azrael",
+    "Race": "Human",
+    "Name": "Isabeau",
     "HasSprite": true
   },
   {
     "Id": 870,
-    "Race": "Divine",
-    "Name": "Dominion",
+    "Race": "Horde",
+    "Name": "Human Army",
     "HasSprite": true
   },
   {
     "Id": 871,
-    "Race": "Vile",
-    "Name": "Pachacamac",
+    "Race": "Horde",
+    "Name": "Human Army",
     "HasSprite": true
   },
   {
@@ -3373,500 +3355,500 @@
   },
   {
     "Id": 874,
-    "Race": "Yoma",
-    "Name": "Master Therion",
-    "HasSprite": true
-  },
-  {
-    "Id": 875,
-    "Race": "Human",
-    "Name": "Toki (no mask)",
-    "HasSprite": true
-  },
-  {
-    "Id": 876,
     "Race": "Horde",
     "Name": "Human Army",
     "HasSprite": true
   },
   {
+    "Id": 875,
+    "Race": "Tyrant",
+    "Name": "A. Lucifer",
+    "HasSprite": true
+  },
+  {
+    "Id": 876,
+    "Race": "Tyrant",
+    "Name": "A. Beelzebub",
+    "HasSprite": true
+  },
+  {
     "Id": 877,
-    "Race": "Drake",
-    "Name": "Mushussu",
-    "HasSprite": true
-  },
-  {
-    "Id": 878,
-    "Race": "Divine",
-    "Name": "Throne",
-    "HasSprite": true
-  },
-  {
-    "Id": 879,
-    "Race": "Fallen",
-    "Name": "Murmur",
-    "HasSprite": true
-  },
-  {
-    "Id": 880,
-    "Race": "Fallen",
-    "Name": "Gemori",
-    "HasSprite": true
-  },
-  {
-    "Id": 881,
-    "Race": "Hybrid",
-    "Name": "Hallelujah",
-    "HasSprite": true
-  },
-  {
-    "Id": 882,
-    "Race": "Human",
-    "Name": "Gaston (with Gungnir)",
-    "HasSprite": true
-  },
-  {
-    "Id": 883,
     "Race": "Tyrant",
     "Name": "A. Lucifuge",
     "HasSprite": true
   },
   {
+    "Id": 878,
+    "Race": "Herald",
+    "Name": "A. Merkabah",
+    "HasSprite": true
+  },
+  {
+    "Id": 879,
+    "Race": "Herald",
+    "Name": "A. Aniel",
+    "HasSprite": true
+  },
+  {
+    "Id": 880,
+    "Race": "Herald",
+    "Name": "A. Azrael",
+    "HasSprite": true
+  },
+  {
+    "Id": 881,
+    "Race": "Vile",
+    "Name": "Pachacamac",
+    "HasSprite": true
+  },
+  {
+    "Id": 882,
+    "Race": "Drake",
+    "Name": "Mushussu",
+    "HasSprite": true
+  },
+  {
+    "Id": 883,
+    "Race": "Fallen",
+    "Name": "Gemori",
+    "HasSprite": true
+  },
+  {
     "Id": 884,
     "Race": "Fallen",
-    "Name": "A. Murmur",
+    "Name": "Murmur",
+    "HasSprite": true
+  },
+  {
+    "Id": 885,
+    "Race": "Yoma",
+    "Name": "Master Therion",
     "HasSprite": true
   },
   {
     "Id": 886,
-    "Race": "Fallen",
-    "Name": "A. Barbatos",
+    "Race": "Divine",
+    "Name": "Dominion",
+    "HasSprite": true
+  },
+  {
+    "Id": 887,
+    "Race": "Divine",
+    "Name": "Throne",
     "HasSprite": true
   },
   {
     "Id": 888,
-    "Race": "Fallen",
-    "Name": "Barbatos",
-    "HasSprite": true
-  },
-  {
-    "Id": 891,
     "Race": "Tyrant",
     "Name": "Abaddon",
     "HasSprite": true
   },
   {
-    "Id": 892,
+    "Id": 889,
     "Race": "Fallen",
-    "Name": "A. Nebiros",
+    "Name": "Barbatos",
     "HasSprite": true
   },
   {
-    "Id": 893,
-    "Race": "Fallen",
-    "Name": "A. Dantalian",
-    "HasSprite": true
-  },
-  {
-    "Id": 894,
-    "Race": "Divine",
-    "Name": "A. Virtue",
-    "HasSprite": true
-  },
-  {
-    "Id": 895,
-    "Race": "Tyrant",
-    "Name": "A. Belial",
-    "HasSprite": true
-  },
-  {
-    "Id": 898,
-    "Race": "Divine",
-    "Name": "A. Dominion",
-    "HasSprite": true
-  },
-  {
-    "Id": 901,
-    "Race": "Vile",
-    "Name": "A. Alciel",
-    "HasSprite": true
-  },
-  {
-    "Id": 902,
-    "Race": "Divine",
-    "Name": "A. Power",
-    "HasSprite": true
-  },
-  {
-    "Id": 903,
-    "Race": "Divine",
-    "Name": "A. Throne",
-    "HasSprite": true
-  },
-  {
-    "Id": 904,
-    "Race": "Divine",
-    "Name": "A. Cherub",
-    "HasSprite": true
-  },
-  {
-    "Id": 905,
+    "Id": 890,
     "Race": "Drake",
     "Name": "Fafnir",
     "HasSprite": true
   },
   {
-    "Id": 906,
+    "Id": 891,
     "Race": "Vile",
     "Name": "Pales",
     "HasSprite": true
   },
   {
-    "Id": 907,
+    "Id": 900,
+    "Race": "Fallen",
+    "Name": "A. Nebiros",
+    "HasSprite": true
+  },
+  {
+    "Id": 901,
     "Race": "Fallen",
     "Name": "A. Adramelech",
     "HasSprite": true
   },
   {
+    "Id": 902,
+    "Race": "Fallen",
+    "Name": "A. Barbatos",
+    "HasSprite": true
+  },
+  {
+    "Id": 903,
+    "Race": "Fallen",
+    "Name": "A. Murmur",
+    "HasSprite": true
+  },
+  {
+    "Id": 904,
+    "Race": "Fallen",
+    "Name": "A. Dantalion",
+    "HasSprite": true
+  },
+  {
+    "Id": 905,
+    "Race": "Tyrant",
+    "Name": "A. Belial",
+    "HasSprite": true
+  },
+  {
+    "Id": 906,
+    "Race": "Vile",
+    "Name": "A. Alciel",
+    "HasSprite": true
+  },
+  {
+    "Id": 907,
+    "Race": "Divine",
+    "Name": "A. Cherub",
+    "HasSprite": true
+  },
+  {
     "Id": 908,
-    "Race": "Megami",
-    "Name": "Tlazolteotl",
+    "Race": "Divine",
+    "Name": "A. Throne",
     "HasSprite": true
   },
   {
     "Id": 909,
-    "Race": "Zealot",
-    "Name": "Attis",
+    "Race": "Divine",
+    "Name": "A. Dominion",
     "HasSprite": true
   },
   {
     "Id": 910,
-    "Race": "Lady",
-    "Name": "Black Maria",
+    "Race": "Divine",
+    "Name": "A. Virtue",
     "HasSprite": true
   },
   {
     "Id": 911,
-    "Race": "Raptor",
-    "Name": "Itsumade",
+    "Race": "Divine",
+    "Name": "A. Power",
     "HasSprite": true
   },
   {
     "Id": 912,
-    "Race": "Avatar",
-    "Name": "Chimera",
-    "HasSprite": true
-  },
-  {
-    "Id": 913,
-    "Race": "Undead",
-    "Name": "Corpse",
-    "HasSprite": true
-  },
-  {
-    "Id": 914,
-    "Race": "Fury",
-    "Name": "Chernobog",
-    "HasSprite": true
-  },
-  {
-    "Id": 915,
     "Race": "Divine",
     "Name": "A. Angel (blue)",
     "HasSprite": true
   },
   {
-    "Id": 916,
-    "Race": "Avian",
-    "Name": "Yatagarasu",
-    "HasSprite": true
-  },
-  {
-    "Id": 917,
-    "Race": "Enigma",
-    "Name": "Kanbari",
-    "HasSprite": true
-  },
-  {
-    "Id": 918,
-    "Race": "Tree",
-    "Name": "Yggdrasil",
-    "HasSprite": true
-  },
-  {
-    "Id": 919,
-    "Race": "Wilder",
-    "Name": "Peallaidh",
-    "HasSprite": true
-  },
-  {
-    "Id": 920,
-    "Race": "Foul",
-    "Name": "Slime",
-    "HasSprite": true
-  },
-  {
-    "Id": 921,
+    "Id": 913,
     "Race": "Avatar",
-    "Name": "Kaiming Shou",
+    "Name": "Chimera",
     "HasSprite": true
   },
   {
-    "Id": 922,
-    "Race": "Yoma",
-    "Name": "Centaur",
-    "HasSprite": true
-  },
-  {
-    "Id": 923,
-    "Race": "Kunitsu",
-    "Name": "Hitokotonuchi",
-    "HasSprite": true
-  },
-  {
-    "Id": 924,
-    "Race": "Ghost",
-    "Name": "Vetala",
-    "HasSprite": true
-  },
-  {
-    "Id": 925,
-    "Race": "Zealot",
-    "Name": "Ogun",
-    "HasSprite": true
-  },
-  {
-    "Id": 926,
-    "Race": "Lady",
-    "Name": "Skadi",
-    "HasSprite": true
-  },
-  {
-    "Id": 927,
-    "Race": "Avatar",
-    "Name": "Ukano Mitama",
-    "HasSprite": true
-  },
-  {
-    "Id": 928,
-    "Race": "Deity",
-    "Name": "Ometeotl",
-    "HasSprite": true
-  },
-  {
-    "Id": 929,
+    "Id": 914,
     "Race": "Spirit",
     "Name": "Legion",
     "HasSprite": true
   },
   {
-    "Id": 930,
+    "Id": 915,
     "Race": "Spirit",
     "Name": "Inferno",
     "HasSprite": true
   },
   {
-    "Id": 931,
+    "Id": 916,
+    "Race": "Kunitsu",
+    "Name": "Hitokotonuchi",
+    "HasSprite": true
+  },
+  {
+    "Id": 917,
+    "Race": "Undead",
+    "Name": "Corpse",
+    "HasSprite": true
+  },
+  {
+    "Id": 918,
+    "Race": "Foul",
+    "Name": "Slime",
+    "HasSprite": true
+  },
+  {
+    "Id": 919,
+    "Race": "Zealot",
+    "Name": "Attis",
+    "HasSprite": true
+  },
+  {
+    "Id": 920,
+    "Race": "Avatar",
+    "Name": "Kaiming Shou",
+    "HasSprite": true
+  },
+  {
+    "Id": 921,
+    "Race": "Raptor",
+    "Name": "Itsumade",
+    "HasSprite": true
+  },
+  {
+    "Id": 922,
+    "Race": "Ghost",
+    "Name": "Vetala",
+    "HasSprite": true
+  },
+  {
+    "Id": 923,
+    "Race": "Fury",
+    "Name": "Chernobog",
+    "HasSprite": true
+  },
+  {
+    "Id": 924,
+    "Race": "Avian",
+    "Name": "Yatagarasu",
+    "HasSprite": true
+  },
+  {
+    "Id": 925,
     "Race": "Beast",
     "Name": "Orthrus",
     "HasSprite": true
   },
   {
+    "Id": 926,
+    "Race": "Lady",
+    "Name": "Black Maria",
+    "HasSprite": true
+  },
+  {
+    "Id": 927,
+    "Race": "Megami",
+    "Name": "Tlazolteotl",
+    "HasSprite": true
+  },
+  {
+    "Id": 928,
+    "Race": "Enigma",
+    "Name": "Kanbari",
+    "HasSprite": true
+  },
+  {
+    "Id": 929,
+    "Race": "Wilder",
+    "Name": "Peallaidh",
+    "HasSprite": true
+  },
+  {
+    "Id": 930,
+    "Race": "Zealot",
+    "Name": "Ogun",
+    "HasSprite": true
+  },
+  {
+    "Id": 931,
+    "Race": "Deity",
+    "Name": "Ometeotl",
+    "HasSprite": true
+  },
+  {
     "Id": 932,
-    "Race": "Horde",
-    "Name": "Itsumade Horde",
+    "Race": "Avatar",
+    "Name": "Ukano Mitama",
     "HasSprite": true
   },
   {
     "Id": 933,
-    "Race": "Reaper",
-    "Name": "Nergal",
+    "Race": "Yoma",
+    "Name": "Centaur",
     "HasSprite": true
   },
   {
     "Id": 934,
-    "Race": "???",
-    "Name": "??? (Samael)",
+    "Race": "Tree",
+    "Name": "Yggdrasil",
     "HasSprite": true
   },
   {
     "Id": 935,
-    "Race": "???",
-    "Name": "??? (Kangiten)",
+    "Race": "Lady",
+    "Name": "Skadi",
     "HasSprite": true
   },
   {
     "Id": 936,
-    "Race": "Drake",
-    "Name": "Kingu",
-    "HasSprite": true
-  },
-  {
-    "Id": 937,
-    "Race": "Zealot",
-    "Name": "Tezcatlipoca",
-    "HasSprite": true
-  },
-  {
-    "Id": 938,
-    "Race": "???",
-    "Name": "??? (Python)",
-    "HasSprite": true
-  },
-  {
-    "Id": 939,
     "Race": "Vile",
     "Name": "Taotie",
     "HasSprite": true
   },
   {
-    "Id": 940,
-    "Race": "???",
-    "Name": "??? (Mot)",
+    "Id": 937,
+    "Race": "Drake",
+    "Name": "Kingu",
     "HasSprite": true
   },
   {
-    "Id": 941,
-    "Race": "Horde",
-    "Name": "Wildfire Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 942,
-    "Race": "Night",
-    "Name": "Formorian",
-    "HasSprite": true
-  },
-  {
-    "Id": 943,
-    "Race": "Horde",
-    "Name": "Pirate Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 944,
-    "Race": "Jaki",
-    "Name": "Girimehkala",
-    "HasSprite": true
-  },
-  {
-    "Id": 945,
-    "Race": "Fallen",
-    "Name": "Botis",
-    "HasSprite": true
-  },
-  {
-    "Id": 946,
-    "Race": "???",
-    "Name": "??? (Mot)",
-    "HasSprite": true
-  },
-  {
-    "Id": 947,
-    "Race": "Fury",
-    "Name": "Kartikeya",
-    "HasSprite": true
-  },
-  {
-    "Id": 948,
-    "Race": "???",
-    "Name": "??? (Surt)",
-    "HasSprite": true
-  },
-  {
-    "Id": 949,
-    "Race": "Horde",
-    "Name": "Yomi Army",
-    "HasSprite": true
-  },
-  {
-    "Id": 950,
-    "Race": "Beast",
-    "Name": "Dormarth",
-    "HasSprite": true
-  },
-  {
-    "Id": 951,
-    "Race": "Horde",
-    "Name": "Defiant Horde",
-    "HasSprite": true
-  },
-  {
-    "Id": 952,
-    "Race": "Horde",
-    "Name": "Frosts",
-    "HasSprite": true
-  },
-  {
-    "Id": 953,
+    "Id": 938,
     "Race": "Tyrant",
     "Name": "Azazel",
     "HasSprite": true
   },
   {
-    "Id": 954,
+    "Id": 939,
     "Race": "Deity",
     "Name": "Hachiman",
     "HasSprite": true
   },
   {
-    "Id": 955,
+    "Id": 940,
+    "Race": "Fury",
+    "Name": "Kartikeya",
+    "HasSprite": true
+  },
+  {
+    "Id": 941,
+    "Race": "Zealot",
+    "Name": "Tezcatlipoca",
+    "HasSprite": true
+  },
+  {
+    "Id": 942,
+    "Race": "Jaki",
+    "Name": "Girimehkala",
+    "HasSprite": true
+  },
+  {
+    "Id": 943,
+    "Race": "Reaper",
+    "Name": "Nergal",
+    "HasSprite": true
+  },
+  {
+    "Id": 944,
+    "Race": "Fallen",
+    "Name": "Botis",
+    "HasSprite": true
+  },
+  {
+    "Id": 945,
+    "Race": "???",
+    "Name": "??? (Kangiten)",
+    "HasSprite": true
+  },
+  {
+    "Id": 946,
+    "Race": "???",
+    "Name": "??? (Surt)",
+    "HasSprite": true
+  },
+  {
+    "Id": 947,
+    "Race": "???",
+    "Name": "??? (Python)",
+    "HasSprite": true
+  },
+  {
+    "Id": 948,
+    "Race": "???",
+    "Name": "??? (Mot)",
+    "HasSprite": true
+  },
+  {
+    "Id": 949,
     "Race": "???",
     "Name": "??? (Vasuki)",
     "HasSprite": true
   },
   {
+    "Id": 950,
+    "Race": "???",
+    "Name": "??? (Samael)",
+    "HasSprite": true
+  },
+  {
+    "Id": 951,
+    "Race": "Horde",
+    "Name": "Itsumade Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 952,
+    "Race": "Horde",
+    "Name": "Wildfire Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 953,
+    "Race": "Horde",
+    "Name": "Pirate Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 954,
+    "Race": "Horde",
+    "Name": "Yomi Army",
+    "HasSprite": true
+  },
+  {
+    "Id": 955,
+    "Race": "Horde",
+    "Name": "Frosts",
+    "HasSprite": true
+  },
+  {
     "Id": 956,
-    "Race": "Megami",
-    "Name": "Brigid",
+    "Race": "Horde",
+    "Name": "Defiant Horde",
     "HasSprite": true
   },
   {
     "Id": 957,
-    "Race": "Night",
-    "Name": "Queen Mab",
+    "Race": "???",
+    "Name": "??? (Mot)",
     "HasSprite": true
   },
   {
     "Id": 958,
-    "Race": "Megami",
-    "Name": "Scathach",
-    "HasSprite": true
-  },
-  {
-    "Id": 959,
     "Race": "Night",
     "Name": "Formorian",
     "HasSprite": true
   },
   {
+    "Id": 959,
+    "Race": "Beast",
+    "Name": "Dormarth",
+    "HasSprite": true
+  },
+  {
     "Id": 960,
-    "Race": "Spirit",
-    "Name": "Wicker Man",
+    "Race": "Fairy",
+    "Name": "Setanta",
     "HasSprite": true
   },
   {
     "Id": 961,
-    "Race": "Tyrant",
-    "Name": "Balor",
+    "Race": "Spirit",
+    "Name": "Wicker Man",
     "HasSprite": true
   },
   {
     "Id": 962,
-    "Race": "Fairy",
-    "Name": "Setanta",
+    "Race": "Lady",
+    "Name": "Skadi",
     "HasSprite": true
   },
   {
     "Id": 963,
-    "Race": "Fairy",
-    "Name": "Setanta",
+    "Race": "Megami",
+    "Name": "Scathach",
     "HasSprite": true
   },
   {
     "Id": 964,
-    "Race": "Spirit",
-    "Name": "Wicker Man",
+    "Race": "Megami",
+    "Name": "Brigid",
     "HasSprite": true
   },
   {
@@ -3877,386 +3859,458 @@
   },
   {
     "Id": 966,
-    "Race": "Fiend",
-    "Name": "Trumpeter (Twisted Tokyo sprite)",
+    "Race": "Genma",
+    "Name": "Cu Chulainn",
     "HasSprite": true
   },
   {
     "Id": 967,
-    "Race": "Genma",
-    "Name": "Cu Chulainn",
-    "HasSprite": true
-  },
-  {
-    "Id": 968,
-    "Race": "Genma",
-    "Name": "Cu Chulainn",
-    "HasSprite": true
-  },
-  {
-    "Id": 969,
-    "Race": "Reaper",
-    "Name": "Cernunnos",
-    "HasSprite": true
-  },
-  {
-    "Id": 970,
-    "Race": "Megami",
-    "Name": "Brigid",
-    "HasSprite": true
-  },
-  {
-    "Id": 971,
-    "Race": "Fiend",
-    "Name": "Mother Harlot",
-    "HasSprite": true
-  },
-  {
-    "Id": 972,
-    "Race": "Beast",
-    "Name": "Dormarth",
-    "HasSprite": true
-  },
-  {
-    "Id": 973,
     "Race": "Night",
     "Name": "Queen Mab",
     "HasSprite": true
   },
   {
-    "Id": 974,
-    "Race": "Fiend",
-    "Name": "Pale Rider",
-    "HasSprite": true
-  },
-  {
-    "Id": 975,
-    "Race": "Night",
-    "Name": "Formorian",
-    "HasSprite": true
-  },
-  {
-    "Id": 976,
+    "Id": 968,
     "Race": "Reaper",
     "Name": "Cernunnos",
     "HasSprite": true
   },
   {
-    "Id": 977,
+    "Id": 969,
+    "Race": "Night",
+    "Name": "Formorian",
+    "HasSprite": true
+  },
+  {
+    "Id": 970,
+    "Race": "Beast",
+    "Name": "Dormarth",
+    "HasSprite": true
+  },
+  {
+    "Id": 971,
+    "Race": "Fairy",
+    "Name": "Setanta",
+    "HasSprite": true
+  },
+  {
+    "Id": 972,
+    "Race": "Spirit",
+    "Name": "Wicker Man",
+    "HasSprite": true
+  },
+  {
+    "Id": 973,
+    "Race": "Lady",
+    "Name": "Skadi",
+    "HasSprite": true
+  },
+  {
+    "Id": 974,
     "Race": "Megami",
     "Name": "Scathach",
     "HasSprite": true
   },
   {
+    "Id": 975,
+    "Race": "Megami",
+    "Name": "Brigid",
+    "HasSprite": true
+  },
+  {
+    "Id": 976,
+    "Race": "Tyrant",
+    "Name": "Balor",
+    "HasSprite": true
+  },
+  {
+    "Id": 977,
+    "Race": "Genma",
+    "Name": "Cu Chulainn",
+    "HasSprite": true
+  },
+  {
     "Id": 978,
-    "Race": "Lady",
-    "Name": "Skadi",
+    "Race": "Night",
+    "Name": "Queen Mab",
     "HasSprite": true
   },
   {
     "Id": 979,
-    "Race": "Lady",
-    "Name": "Skadi",
+    "Race": "Reaper",
+    "Name": "Cernunnos",
     "HasSprite": true
   },
   {
     "Id": 980,
-    "Race": "Megami",
-    "Name": "Fortuna",
+    "Race": "Night",
+    "Name": "Formorian",
+    "HasSprite": true
+  },
+  {
+    "Id": 981,
+    "Race": "Fiend",
+    "Name": "Mother Harlot",
     "HasSprite": true
   },
   {
     "Id": 982,
-    "Race": "Fallen",
-    "Name": "Ose",
+    "Race": "Fiend",
+    "Name": "Trumpeter (Twisted Tokyo sprite)",
+    "HasSprite": true
+  },
+  {
+    "Id": 983,
+    "Race": "Fiend",
+    "Name": "Pale Rider",
     "HasSprite": true
   },
   {
     "Id": 984,
     "Race": "Fiend",
-    "Name": "Red Rider",
+    "Name": "Black Rider",
     "HasSprite": true
   },
   {
     "Id": 985,
     "Race": "Fiend",
-    "Name": "David",
+    "Name": "Red Rider",
     "HasSprite": true
   },
   {
     "Id": 986,
-    "Race": "Fallen",
-    "Name": "Adramelech",
-    "HasSprite": true
-  },
-  {
-    "Id": 987,
-    "Race": "Fiend",
-    "Name": "Black Rider",
-    "HasSprite": true
-  },
-  {
-    "Id": 988,
-    "Race": "Divine",
-    "Name": "Archangel",
-    "HasSprite": true
-  },
-  {
-    "Id": 994,
-    "Race": "Fiend",
-    "Name": "Matador",
-    "HasSprite": true
-  },
-  {
-    "Id": 995,
-    "Race": "Fairy",
-    "Name": "Demonee-ho",
-    "HasSprite": true
-  },
-  {
-    "Id": 997,
-    "Race": "Tyrant",
-    "Name": "Horkos",
-    "HasSprite": true
-  },
-  {
-    "Id": 999,
-    "Race": "Avatar",
-    "Name": "Anubis",
-    "HasSprite": true
-  },
-  {
-    "Id": 1000,
-    "Race": "Zealot",
-    "Name": "Dionysus",
-    "HasSprite": true
-  },
-  {
-    "Id": 1002,
     "Race": "Fiend",
     "Name": "White Rider",
     "HasSprite": true
   },
   {
-    "Id": 1003,
+    "Id": 988,
+    "Race": "Fiend",
+    "Name": "Matador",
+    "HasSprite": true
+  },
+  {
+    "Id": 989,
+    "Race": "Fiend",
+    "Name": "David",
+    "HasSprite": true
+  },
+  {
+    "Id": 995,
+    "Race": "Fallen",
+    "Name": "Adramelech",
+    "HasSprite": true
+  },
+  {
+    "Id": 996,
+    "Race": "Divine",
+    "Name": "Archangel",
+    "HasSprite": true
+  },
+  {
+    "Id": 997,
     "Race": "Divine",
     "Name": "Principality",
     "HasSprite": true
   },
   {
+    "Id": 998,
+    "Race": "Fallen",
+    "Name": "Ose",
+    "HasSprite": true
+  },
+  {
+    "Id": 999,
+    "Race": "Megami",
+    "Name": "Fortuna",
+    "HasSprite": true
+  },
+  {
+    "Id": 1002,
+    "Race": "Tyrant",
+    "Name": "Horkos",
+    "HasSprite": true
+  },
+  {
+    "Id": 1003,
+    "Race": "Zealot",
+    "Name": "Dionysus",
+    "HasSprite": true
+  },
+  {
     "Id": 1004,
-    "Race": "Nymph",
-    "Name": "Sarasvati",
+    "Race": "Avatar",
+    "Name": "Anubis",
     "HasSprite": true
   },
   {
-    "Id": 1006,
-    "Race": "Drake",
-    "Name": "Mushussu",
+    "Id": 1005,
+    "Race": "Fairy",
+    "Name": "Demonee-ho",
     "HasSprite": true
   },
   {
-    "Id": 1007,
-    "Race": "Ghost",
-    "Name": "Navarre",
-    "HasSprite": true
-  },
-  {
-    "Id": 1009,
+    "Id": 1013,
     "Race": "Horde",
     "Name": "Demonstrators (King Frost sprite)",
     "HasSprite": true
   },
   {
-    "Id": 1011,
-    "Race": "Megami",
-    "Name": "Parvati",
-    "HasSprite": true
-  },
-  {
-    "Id": 1012,
-    "Race": "Beast",
-    "Name": "Stonka",
-    "HasSprite": true
-  },
-  {
-    "Id": 1013,
-    "Race": "Ghost",
-    "Name": "Navarre",
-    "HasSprite": true
-  },
-  {
-    "Id": 1014,
-    "Race": "Drake",
-    "Name": "Ym",
-    "HasSprite": true
-  },
-  {
     "Id": 1016,
-    "Race": "Yoma",
-    "Name": "Master Therion",
-    "HasSprite": true
-  },
-  {
-    "Id": 1017,
     "Race": "Human",
     "Name": "Asahi",
     "HasSprite": true
   },
   {
-    "Id": 1019,
-    "Race": "Dragon",
-    "Name": "Long",
-    "HasSprite": true
-  },
-  {
-    "Id": 1020,
-    "Race": "Human",
-    "Name": "Nozomi",
-    "HasSprite": true
-  },
-  {
-    "Id": 1021,
-    "Race": "Zealot",
-    "Name": "Aramisaki",
-    "HasSprite": true
-  },
-  {
-    "Id": 1022,
-    "Race": "Human",
-    "Name": "Gaston (with Gungnir)",
-    "HasSprite": true
-  },
-  {
-    "Id": 1023,
-    "Race": "Raptor",
-    "Name": "Huoniao",
-    "HasSprite": true
-  },
-  {
-    "Id": 1024,
-    "Race": "Deity",
-    "Name": "Ometeotl",
-    "HasSprite": true
-  },
-  {
-    "Id": 1027,
+    "Id": 1017,
     "Race": "Ghost",
     "Name": "Navarre",
     "HasSprite": true
   },
   {
+    "Id": 1018,
+    "Race": "Human",
+    "Name": "Nozomi",
+    "HasSprite": true
+  },
+  {
+    "Id": 1019,
+    "Race": "Megami",
+    "Name": "Parvati",
+    "HasSprite": true
+  },
+  {
+    "Id": 1020,
+    "Race": "Beast",
+    "Name": "Stonka",
+    "HasSprite": true
+  },
+  {
+    "Id": 1021,
+    "Race": "Ghost",
+    "Name": "Navarre",
+    "HasSprite": true
+  },
+  {
+    "Id": 1022,
+    "Race": "Drake",
+    "Name": "Mushussu",
+    "HasSprite": true
+  },
+  {
+    "Id": 1023,
+    "Race": "Nymph",
+    "Name": "Sarasvati",
+    "HasSprite": true
+  },
+  {
+    "Id": 1024,
+    "Race": "Ghost",
+    "Name": "Navarre",
+    "HasSprite": true
+  },
+  {
+    "Id": 1025,
+    "Race": "Yoma",
+    "Name": "Master Therion",
+    "HasSprite": true
+  },
+  {
+    "Id": 1026,
+    "Race": "Zealot",
+    "Name": "Aramisaki",
+    "HasSprite": true
+  },
+  {
+    "Id": 1027,
+    "Race": "Deity",
+    "Name": "Ometeotl",
+    "HasSprite": true
+  },
+  {
+    "Id": 1028,
+    "Race": "Raptor",
+    "Name": "Huoniao",
+    "HasSprite": true
+  },
+  {
     "Id": 1029,
-    "Race": "Divine",
-    "Name": "Cherub",
+    "Race": "Dragon",
+    "Name": "Long",
+    "HasSprite": true
+  },
+  {
+    "Id": 1030,
+    "Race": "Drake",
+    "Name": "Ym",
+    "HasSprite": true
+  },
+  {
+    "Id": 1031,
+    "Race": "Samurai",
+    "Name": "Gaston (Gungnir spear)",
     "HasSprite": true
   },
   {
     "Id": 1032,
-    "Race": "Deity",
-    "Name": "Hachiman",
-    "HasSprite": true
-  },
-  {
-    "Id": 1033,
-    "Race": "Fallen",
-    "Name": "Botis",
-    "HasSprite": true
-  },
-  {
-    "Id": 1035,
     "Race": "Tyrant",
     "Name": "Surt",
     "HasSprite": true
   },
   {
-    "Id": 1038,
-    "Race": "Archaic",
-    "Name": "Chironuppu",
+    "Id": 1033,
+    "Race": "Deity",
+    "Name": "Hachiman",
     "HasSprite": true
   },
   {
-    "Id": 1039,
-    "Race": "Fairy",
-    "Name": "Oberon",
-    "HasSprite": true
-  },
-  {
-    "Id": 1042,
-    "Race": "Tyrant",
-    "Name": "Mara",
-    "HasSprite": true
-  },
-  {
-    "Id": 1043,
-    "Race": "Cyber",
-    "Name": "Maitreya",
-    "HasSprite": true
-  },
-  {
-    "Id": 1047,
-    "Race": "King",
-    "Name": "Odin",
-    "HasSprite": true
-  },
-  {
-    "Id": 1048,
-    "Race": "Tyrant",
-    "Name": "Krishna",
-    "HasSprite": true
-  },
-  {
-    "Id": 1049,
-    "Race": "Brute",
-    "Name": "Yaksha",
-    "HasSprite": true
-  },
-  {
-    "Id": 1050,
+    "Id": 1034,
     "Race": "Drake",
     "Name": "Vasuki",
     "HasSprite": true
   },
   {
+    "Id": 1035,
+    "Race": "Brute",
+    "Name": "Yaksha",
+    "HasSprite": true
+  },
+  {
+    "Id": 1036,
+    "Race": "Tyrant",
+    "Name": "Mara",
+    "HasSprite": true
+  },
+  {
+    "Id": 1037,
+    "Race": "Fallen",
+    "Name": "Botis",
+    "HasSprite": true
+  },
+  {
+    "Id": 1038,
+    "Race": "Fairy",
+    "Name": "Oberon",
+    "HasSprite": true
+  },
+  {
+    "Id": 1039,
+    "Race": "Divine",
+    "Name": "Cherub",
+    "HasSprite": true
+  },
+  {
+    "Id": 1051,
+    "Race": "Tyrant",
+    "Name": "Krishna",
+    "HasSprite": true
+  },
+  {
     "Id": 1052,
-    "Race": "Tree",
-    "Name": "Danu",
+    "Race": "King",
+    "Name": "Odin",
     "HasSprite": true
   },
   {
     "Id": 1053,
-    "Race": "Tree",
-    "Name": "Dagda",
+    "Race": "Cyber",
+    "Name": "Maitreya",
     "HasSprite": true
   },
   {
     "Id": 1054,
-    "Race": "Tree",
-    "Name": "Crucified Flynn",
+    "Race": "Archaic",
+    "Name": "Chironnupu",
     "HasSprite": true
   },
   {
     "Id": 1055,
-    "Race": "Tree",
-    "Name": "YHVH 1",
+    "Race": "Archaic",
+    "Name": "Shesha 1st Form",
+    "HasSprite": true
+  },
+  {
+    "Id": 1056,
+    "Race": "Archaic",
+    "Name": "Inanna Remnant",
     "HasSprite": true
   },
   {
     "Id": 1057,
+    "Race": "Archaic",
+    "Name": "Shesha 2nd Form",
+    "HasSprite": true
+  },
+  {
+    "Id": 1058,
+    "Race": "Herald",
+    "Name": "Krishna (Gaston Gungnir spear sprite)",
+    "HasSprite": true
+  },
+  {
+    "Id": 1059,
+    "Race": "Tree",
+    "Name": "Merkabah",
+    "HasSprite": true
+  },
+  {
+    "Id": 1060,
+    "Race": "Tree",
+    "Name": "Lucifer",
+    "HasSprite": true
+  },
+  {
+    "Id": 1061,
     "Race": "Tree",
     "Name": "Inanna",
     "HasSprite": true
   },
   {
-    "Id": 1058,
+    "Id": 1062,
+    "Race": "Tree",
+    "Name": "Mitra-Buddha",
+    "HasSprite": true
+  },
+  {
+    "Id": 1063,
+    "Race": "Tree",
+    "Name": "Dagda",
+    "HasSprite": true
+  },
+  {
+    "Id": 1064,
+    "Race": "Tree",
+    "Name": "Vishnu-Flynn 1",
+    "HasSprite": true
+  },
+  {
+    "Id": 1065,
+    "Race": "Tree",
+    "Name": "YHVH 1",
+    "HasSprite": true
+  },
+  {
+    "Id": 1066,
+    "Race": "Tree",
+    "Name": "YHVH 2",
+    "HasSprite": true
+  },
+  {
+    "Id": 1067,
     "Race": "Tree",
     "Name": "Vishnu-Flynn 2",
     "HasSprite": true
   },
   {
-    "Id": 1059,
-    "Race": "Archaic",
-    "Name": "Inanna Remnant",
+    "Id": 1068,
+    "Race": "Tree",
+    "Name": "Nanashi",
+    "HasSprite": true
+  },
+  {
+    "Id": 1071,
+    "Race": "Tree",
+    "Name": "Danu",
     "HasSprite": true
   }
 ]
