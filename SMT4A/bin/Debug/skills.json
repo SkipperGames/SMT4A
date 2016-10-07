@@ -5988,7 +5988,7 @@
     "Name": "Awakened Power (+Phys Pierce +Sneak)"
   },
   {
-    "Id": -2,
+    "Id": 500,
     "Class": 7,
     "Element": 1,
     "Power": 1,
