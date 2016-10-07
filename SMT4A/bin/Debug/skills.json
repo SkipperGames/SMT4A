@@ -321,7 +321,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Pierce",
-    "Name": "27"
+    "Name": "Singularity Hellfire"
   },
   {
     "Id": 28,
@@ -932,7 +932,7 @@
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 10,
-    "Effect": "Increases Magic ",
+    "Effect": "Increases Magic",
     "Name": "Makakaja"
   },
   {
@@ -1089,7 +1089,7 @@
     "AttacksHigh": 4,
     "MP": 1,
     "Effect": "Inflicts Brand",
-    "Name": "91"
+    "Name": "Royal Curse"
   },
   {
     "Id": 92,
@@ -1376,7 +1376,7 @@
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 10,
-    "Effect": "Increase Attack, decreases Defense",
+    "Effect": "Increase Attack/decreases Defense",
     "Name": "Taunt"
   },
   {
@@ -1394,14 +1394,14 @@
   {
     "Id": 117,
     "Class": 2,
-    "Element": 1,
+    "Element": 10,
     "Power": 7,
     "Target": 7,
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Attack power changes based on number of status ailments",
-    "Name": "117"
+    "Name": "Grave Judgement"
   },
   {
     "Id": 118,
@@ -1472,7 +1472,7 @@
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 10,
-    "Effect": "Applies all status buffs, but reduces HP to 1",
+    "Effect": "Applies all status buffs. Reduces HP to 1",
     "Name": "Blood Ritual"
   },
   {
@@ -1508,8 +1508,8 @@
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 1,
-    "Effect": "Smirking: Pierce, Stats down",
-    "Name": "126"
+    "Effect": "Stats down. Smirking: Pierce",
+    "Name": "Judgment Strike"
   },
   {
     "Id": 127,
@@ -1605,7 +1605,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Inflicts Panic. Smirking: Pierce",
-    "Name": "134"
+    "Name": "Heavenly Punishment"
   },
   {
     "Id": 135,
@@ -1617,7 +1617,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Inflicts 66% of target's HP as Almighty damage",
-    "Name": "135"
+    "Name": "Irrational Glimmer"
   },
   {
     "Id": 136,
@@ -1629,7 +1629,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Smirking: Instant kill",
-    "Name": "136"
+    "Name": "Evil-crushing Flash"
   },
   {
     "Id": 137,
@@ -1665,7 +1665,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Induces Smirk. Fully increases Attack and Magic",
-    "Name": "139"
+    "Name": "Revelation"
   },
   {
     "Id": 140,
@@ -1737,7 +1737,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Fully decreases Attack and Magic. Inflicts Mute",
-    "Name": "145"
+    "Name": "Forfeit"
   },
   {
     "Id": 146,
@@ -1749,7 +1749,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Fully decreases Defense. Inflicts Sleep",
-    "Name": "146"
+    "Name": "Nightmare"
   },
   {
     "Id": 147,
@@ -1761,7 +1761,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Fully decreases Hit/Evade rate. Inflicts Brand",
-    "Name": "147"
+    "Name": "Bind"
   },
   {
     "Id": 148,
@@ -2121,7 +2121,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Pierce",
-    "Name": "177"
+    "Name": "Singularity Hail"
   },
   {
     "Id": 178,
@@ -2583,7 +2583,7 @@
     "Id": 216,
     "Class": 2,
     "Element": 1,
-    "Power": 1,
+    "Power": 9,
     "Target": 5,
     "AttacksLow": 1,
     "AttacksHigh": 0,
@@ -2595,7 +2595,7 @@
     "Id": 217,
     "Class": 2,
     "Element": 1,
-    "Power": 1,
+    "Power": 9,
     "Target": 5,
     "AttacksLow": 1,
     "AttacksHigh": 0,
@@ -2607,7 +2607,7 @@
     "Id": 218,
     "Class": 2,
     "Element": 1,
-    "Power": 1,
+    "Power": 9,
     "Target": 5,
     "AttacksLow": 1,
     "AttacksHigh": 0,
@@ -2619,7 +2619,7 @@
     "Id": 219,
     "Class": 2,
     "Element": 1,
-    "Power": 1,
+    "Power": 9,
     "Target": 5,
     "AttacksLow": 1,
     "AttacksHigh": 0,
@@ -2631,7 +2631,7 @@
     "Id": 220,
     "Class": 2,
     "Element": 1,
-    "Power": 1,
+    "Power": 9,
     "Target": 5,
     "AttacksLow": 1,
     "AttacksHigh": 0,
@@ -2756,7 +2756,7 @@
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 34,
-    "Effect": "Pierce, removes status buffs",
+    "Effect": "Pierce. Removes status buffs",
     "Name": "Gungnir Pierce"
   },
   {
@@ -2804,7 +2804,7 @@
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 16,
-    "Effect": "Pierce, Defense down",
+    "Effect": "Pierce. Defense down",
     "Name": "Pierce Armor"
   },
   {
@@ -2864,7 +2864,7 @@
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 65,
-    "Effect": "Inflicts Poison/Sick/Bind/Defense down",
+    "Effect": "Inflicts Sleep/Panic/Charm/Defense down",
     "Name": "Dream Raga"
   },
   {
@@ -2945,7 +2945,7 @@
     "Element": 3,
     "Power": 3,
     "Target": 7,
-    "AttacksLow": 1,
+    "AttacksLow": 3,
     "AttacksHigh": 0,
     "MP": 40,
     "Effect": "Removes Smirk",
@@ -3004,11 +3004,11 @@
     "Class": 1,
     "Element": 1,
     "Power": 1,
-    "Target": 2,
+    "Target": 1,
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 1,
-    "Effect": "Inflicts Bind",
+    "Effect": "",
     "Name": "Vengeful Curse"
   },
   {
@@ -3033,7 +3033,7 @@
     "AttacksHigh": 0,
     "MP": 40,
     "Effect": "Changes your weakness when exploited",
-    "Name": "253"
+    "Name": "Adaptive Tactics"
   },
   {
     "Id": 254,
@@ -3045,7 +3045,7 @@
     "AttacksHigh": 0,
     "MP": 45,
     "Effect": "Fully decreases Defense. Inflicts Charm",
-    "Name": "254"
+    "Name": "Alluring Banter"
   },
   {
     "Id": 255,
@@ -3057,7 +3057,7 @@
     "AttacksHigh": 0,
     "MP": 36,
     "Effect": "Smirking: Instant kill",
-    "Name": "255"
+    "Name": "Dazzle Ray"
   },
   {
     "Id": 256,
@@ -3068,8 +3068,8 @@
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 100,
-    "Effect": "Light resistance affects power eg. Nu=Mega",
-    "Name": "256"
+    "Effect": "Light resistance affects power",
+    "Name": "Growling Hate"
   },
   {
     "Id": 257,
@@ -3081,7 +3081,7 @@
     "AttacksHigh": 0,
     "MP": 36,
     "Effect": "Smirking: Instant kill",
-    "Name": "257"
+    "Name": "Fear Darkness"
   },
   {
     "Id": 258,
@@ -3093,7 +3093,7 @@
     "AttacksHigh": 0,
     "MP": 30,
     "Effect": "Pierce",
-    "Name": "258"
+    "Name": "Zenki's Axe"
   },
   {
     "Id": 259,
@@ -3105,7 +3105,7 @@
     "AttacksHigh": 0,
     "MP": 50,
     "Effect": "Fully increases Defense/Hit/Evade rate",
-    "Name": "259"
+    "Name": "Goki's Water Wall"
   },
   {
     "Id": 260,
@@ -3117,7 +3117,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "When hit next, inflict the same damage. Smirking: Continuous",
-    "Name": "260"
+    "Name": "Peacock Incantation"
   },
   {
     "Id": 261,
@@ -3129,7 +3129,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "When hit next, inflict the same damage. Smirking: Continuous",
-    "Name": "261"
+    "Name": "Peacock Incantation"
   },
   {
     "Id": 262,
@@ -3141,7 +3141,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "",
-    "Name": "262"
+    "Name": "Dark Photon"
   },
   {
     "Id": 263,
@@ -3165,7 +3165,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Inflicts 50% of target's HP as Almighty damage",
-    "Name": "264"
+    "Name": "Black Body Radiation"
   },
   {
     "Id": 265,
@@ -3236,7 +3236,7 @@
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 1,
-    "Effect": "Never misses. May fail on bosses.",
+    "Effect": "Never misses.",
     "Name": "Hexagram"
   },
   {
@@ -3249,7 +3249,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Pierce",
-    "Name": "271"
+    "Name": "Singularity Lightning"
   },
   {
     "Id": 272,
@@ -3261,7 +3261,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Pierce",
-    "Name": "272"
+    "Name": "Singularity Vortex"
   },
   {
     "Id": 273,
@@ -3273,7 +3273,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Pierce",
-    "Name": "273"
+    "Name": "Energy Compression"
   },
   {
     "Id": 274,
@@ -3285,7 +3285,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Removes 3 Press Turn icons on enemy's next turn",
-    "Name": "274"
+    "Name": "Execute Code"
   },
   {
     "Id": 275,
@@ -3297,7 +3297,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Removes 3 Press Turn icons on enemy's next turn",
-    "Name": "275"
+    "Name": "Crack Code"
   },
   {
     "Id": 276,
@@ -3609,7 +3609,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Inflicts Brand",
-    "Name": "301"
+    "Name": "Singularity Brand"
   },
   {
     "Id": 302,
@@ -3645,7 +3645,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Nulls all support effects",
-    "Name": "Thousand Heads"
+    "Name": "Reboot Code"
   },
   {
     "Id": 305,
@@ -3657,7 +3657,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "",
-    "Name": "305"
+    "Name": "Singularity Wave"
   },
   {
     "Id": 306,
@@ -3681,7 +3681,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Inflicts Bind/Panic/Charm",
-    "Name": "307"
+    "Name": "Calamity Code"
   },
   {
     "Id": 308,
@@ -3717,19 +3717,19 @@
     "AttacksHigh": 10,
     "MP": 1,
     "Effect": "",
-    "Name": "310"
+    "Name": "Convergence"
   },
   {
     "Id": 311,
     "Class": 2,
-    "Element": 1,
+    "Element": 10,
     "Power": 9,
     "Target": 7,
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Drains enemy MP",
-    "Name": "311"
+    "Name": "Black Hole"
   },
   {
     "Id": 312,
@@ -3753,7 +3753,7 @@
     "AttacksHigh": 0,
     "MP": 30,
     "Effect": "Weakens random resist. Pierce",
-    "Name": "313"
+    "Name": "Lightspeed Slash"
   },
   {
     "Id": 314,
@@ -3765,7 +3765,7 @@
     "AttacksHigh": 0,
     "MP": 25,
     "Effect": "Hit/Evade down",
-    "Name": "314"
+    "Name": "Crescent Slice"
   },
   {
     "Id": 315,
@@ -3776,8 +3776,8 @@
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 80,
-    "Effect": "Weakens random resist. Pierce",
-    "Name": "315"
+    "Effect": "Increases Attack/Defense/Hit/Evade rate",
+    "Name": "Morale Boost"
   },
   {
     "Id": 316,
@@ -3789,7 +3789,7 @@
     "AttacksHigh": 0,
     "MP": 30,
     "Effect": "Weakens random resist. Pierce",
-    "Name": "316"
+    "Name": "Gideon Bullet"
   },
   {
     "Id": 317,
@@ -3837,7 +3837,7 @@
     "AttacksHigh": 0,
     "MP": 25,
     "Effect": "Removes Smirk",
-    "Name": "320"
+    "Name": "Sonic Shot"
   },
   {
     "Id": 321,
@@ -3873,7 +3873,7 @@
     "AttacksHigh": 0,
     "MP": 100,
     "Effect": "Decreases Attack/Defense/Hit/Evade rate",
-    "Name": "323"
+    "Name": "Warrior's Spirit"
   },
   {
     "Id": 324,
@@ -3885,7 +3885,7 @@
     "AttacksHigh": 0,
     "MP": 50,
     "Effect": "Smirking: 2x damage",
-    "Name": "324"
+    "Name": "Freikugel"
   },
   {
     "Id": 325,
@@ -3897,7 +3897,7 @@
     "AttacksHigh": 0,
     "MP": 43,
     "Effect": "",
-    "Name": "325"
+    "Name": "Magma Axis"
   },
   {
     "Id": 326,
@@ -3909,7 +3909,7 @@
     "AttacksHigh": 0,
     "MP": 66,
     "Effect": "Defense down",
-    "Name": "326"
+    "Name": "Gaea Rage"
   },
   {
     "Id": 327,
@@ -3921,7 +3921,7 @@
     "AttacksHigh": 0,
     "MP": 45,
     "Effect": "Pierce. High critical rate",
-    "Name": "327"
+    "Name": "Deadly Fury"
   },
   {
     "Id": 328,
@@ -4269,7 +4269,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "",
-    "Name": "356"
+    "Name": "Wave Function"
   },
   {
     "Id": 357,
@@ -4281,7 +4281,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Fully increases all stats and induces Smirk",
-    "Name": "357"
+    "Name": "Pair Production"
   },
   {
     "Id": 358,
@@ -4293,7 +4293,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "Fully decreases all stats",
-    "Name": "358"
+    "Name": "Particle Annihilation"
   },
   {
     "Id": 359,
@@ -4461,7 +4461,7 @@
     "AttacksHigh": 0,
     "MP": 1,
     "Effect": "",
-    "Name": "Megido Stone"
+    "Name": "Megidola Stone"
   },
   {
     "Id": 373,
@@ -5487,24 +5487,24 @@
     "Id": 458,
     "Class": 7,
     "Element": 1,
-    "Power": 1,
+    "Power": 8,
     "Target": 1,
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 0,
-    "Effect": "Might make Phys attack at start of battle. Pierce, instant kill",
+    "Effect": "Might make Phys attack at start of battle",
     "Name": "Temporal Blade"
   },
   {
     "Id": 459,
     "Class": 7,
     "Element": 1,
-    "Power": 1,
+    "Power": 8,
     "Target": 1,
     "AttacksLow": 1,
     "AttacksHigh": 0,
     "MP": 0,
-    "Effect": "Might make Phys attack during enemy turn. Pierce, instant kill",
+    "Effect": "Pierce. Might make Phys attack during enemy turn",
     "Name": "Sneak Attack"
   },
   {
@@ -5988,7 +5988,7 @@
     "Name": "Awakened Power (+Phys Pierce +Sneak)"
   },
   {
-    "Id": 500,
+    "Id": -2,
     "Class": 7,
     "Element": 1,
     "Power": 1,

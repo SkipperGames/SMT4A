@@ -20,9 +20,8 @@ namespace SMT4A
         public Form1()
         {
             InitializeComponent();
-            
-            SkillCollection.InitializeFromJson();
-            DemonCollection.InitializeFromCSV();
+
+            SkillCollection.InitializeFromCSV();
 
             lbx_skills.DataSource = SkillCollection.Skills;
 
@@ -60,9 +59,9 @@ namespace SMT4A
                 "ANY_CLASS",
                 "NO_CLASS",
                 "ATTACK",
-                "SUPPORT",
+                "HEALING",
                 "UTILITY",
-                "STATUS",
+                "SUPPORT",
                 "AILMENT",
                 "PASSIVE"
             };
@@ -187,8 +186,8 @@ namespace SMT4A
             if (!string.IsNullOrEmpty(tbx_nameFilter.Text))
             {
                 lbx_skills.DataSource =
-                    SkillCollection.Skills.Where(s => s.Name.Contains(
-                        tbx_nameFilter.Text)).ToArray();
+                    SkillCollection.Skills.Where(s => s.Name.ToLower().Contains(
+                        tbx_nameFilter.Text.ToLower())).ToArray();
                 return;
             }
 

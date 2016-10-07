@@ -1,0 +1,501 @@
+Agi*1*0*WEAK*FIRE*ATTACK*ENEMY**3
+Agilao*1*0*MEDIUM*FIRE*ATTACK*ENEMY**8
+Agidyne*1*0*HEAVY*FIRE*ATTACK*ENEMY**16
+Maragi*1*0*WEAK*FIRE*ATTACK*ALL_ENEMIES**10
+Maragion*1*0*MEDIUM*FIRE*ATTACK*ALL_ENEMIES**20
+Maragidyne*1*0*HEAVY*FIRE*ATTACK*ALL_ENEMIES**38
+Fire Breath*1*4*WEAK*FIRE*ATTACK*MULTI**17
+Trisagion*1*0*SEVERE*FIRE*ATTACK*ENEMY*Smirking: Pierce*32
+Ragnarok*1*4*MEDIUM*FIRE*ATTACK*MULTI**48
+Bufu*1*0*WEAK*ICE*ATTACK*ENEMY**3
+Bufula*1*0*MEDIUM*ICE*ATTACK*ENEMY**8
+Bufudyne*1*0*HEAVY*ICE*ATTACK*ENEMY**16
+Mabufu*1*0*WEAK*ICE*ATTACK*ALL_ENEMIES**10
+Mabufula*1*0*MEDIUM*ICE*ATTACK*ALL_ENEMIES**20
+Mabufudyne*1*0*HEAVY*ICE*ATTACK*ALL_ENEMIES**38
+Ice Breath*1*4*WEAK*ICE*ATTACK*MULTI**17
+Glacial Blast*1*4*MEDIUM*ICE*ATTACK*MULTI**48
+Cold World*1*0*HEAVY*ICE*ATTACK*ALL_ENEMIES*Can instant kill*56
+Zio*1*0*WEAK*ELEC*ATTACK*ENEMY**3
+Zionga*1*0*MEDIUM*ELEC*ATTACK*ENEMY**8
+Ziodyne*1*0*HEAVY*ELEC*ATTACK*ENEMY**16
+Mazio*1*0*WEAK*ELEC*ATTACK*ALL_ENEMIES**10
+Mazionga*1*0*MEDIUM*ELEC*ATTACK*ALL_ENEMIES**20
+Maziodyne*1*0*HEAVY*ELEC*ATTACK*ALL_ENEMIES**38
+Shock*1*4*WEAK*ELEC*ATTACK*MULTI**17
+Thunder Reign*1*0*SEVERE*ELEC*ATTACK*ALL_ENEMIES**56
+Singularity Hellfire*1*0*HEAVY*FIRE*ATTACK*ALL_ENEMIES*Pierce*1
+Zan*1*0*WEAK*FORCE*ATTACK*ENEMY**3
+Zanma*1*0*MEDIUM*FORCE*ATTACK*ENEMY**8
+Zandyne*1*0*HEAVY*FORCE*ATTACK*ENEMY**16
+Mazan*1*0*WEAK*FORCE*ATTACK*ALL_ENEMIES**10
+Mazanma*1*0*MEDIUM*FORCE*ATTACK*ALL_ENEMIES**20
+Mazandyne*1*0*HEAVY*FORCE*ATTACK*ALL_ENEMIES**38
+Wind Breath*1*4*WEAK*FORCE*ATTACK*MULTI**17
+Deadly Wind*1*0*SEVERE*FORCE*ATTACK*ENEMY*Smirking: Pierce*32
+Floral Gust*1*4*MEDIUM*FORCE*ATTACK*MULTI**48
+Megido*1*0*WEAK*ALMIGHTY*ATTACK*ALL_ENEMIES**19
+Megidola*1*0*MEDIUM*ALMIGHTY*ATTACK*ALL_ENEMIES**35
+Megidolaon*1*0*HEAVY*ALMIGHTY*ATTACK*ALL_ENEMIES**56
+Great Logos*1*0*SEVERE*ALMIGHTY*ATTACK*ALL_ENEMIES**80
+Antichthon*1*0*SEVERE*ALMIGHTY*ATTACK*ALL_ENEMIES*Smirking: Stats down*88
+Babylon Goblet*1*0*MEDIUM*ALMIGHTY*ATTACK*ALL_ENEMIES*Inflicts Panic*56
+Holy Wrath*1*0*VARIES*ALMIGHTY*ATTACK*ALL_ENEMIES*Strong vs. Chaos demons*40
+Judgement*1*0*VARIES*ALMIGHTY*ATTACK*ALL_ENEMIES*Strong vs. Neutral demons*40
+Sea of Chaos*1*0*VARIES*ALMIGHTY*ATTACK*ALL_ENEMIES*Strong vs. Law demons*40
+Life Drain*1*0*UNKNOWN_POWER*ALMIGHTY*ATTACK*ENEMY*Drains enemy HP*3
+Spirit Drain*1*0*UNKNOWN_POWER*ALMIGHTY*ATTACK*ENEMY*Drains enemy MP*1
+Energy Drain*1*0*UNKNOWN_POWER*ALMIGHTY*ATTACK*ENEMY*Drains enemy HP/MP*5
+Mudo*1*0*WEAK*DARK*ATTACK*ENEMY*Smirking: Instant kill*4
+Mudoon*1*0*HEAVY*DARK*ATTACK*ENEMY*Smirking: Instant kill*10
+Mamudo*1*0*WEAK*DARK*ATTACK*ALL_ENEMIES*Smirking: Instant kill*12
+Mamudoon*1*0*HEAVY*DARK*ATTACK*ALL_ENEMIES*Smirking: Instant kill*22
+Die for Me!*1*0*SEVERE*DARK*ATTACK*ENEMY*Smirking: Instant kill*56
+Hama*1*0*WEAK*LIGHT*ATTACK*ENEMY*Smirking: Instant kill*4
+Hamaon*1*0*HEAVY*LIGHT*ATTACK*ENEMY*Smirking: Instant kill*10
+Mahama*1*0*WEAK*LIGHT*ATTACK*ALL_ENEMIES*Smirking: Instant kill*12
+Mahamaon*1*0*HEAVY*LIGHT*ATTACK*ALL_ENEMIES*Smirking: Instant kill*22
+Judgement Light*1*0*SEVERE*LIGHT*ATTACK*ALL_ENEMIES*Smirking: Instant kill*44
+Dormina*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ENEMY*Inflicts Sleep*2
+Lullaby*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Sleep*16
+Poisma*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ENEMY*Inflicts Poison*2
+Poison Breath*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Poison*11
+Shibaboo*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ENEMY*Inflicts Bind*3
+Bind Voice*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Bind*16
+Pulinpa*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ENEMY*Inflicts Panic*3
+Panic Voice*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Panic*16
+Cough*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ENEMY*Inflicts Sick*4
+Pandemic Bomb*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Sick*15
+Ancient Curse*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts a random ailment*40
+Shivering Taboo*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts several ailments*40
+Strange Ray*1*0*NO_DAMAGE*ALMIGHTY*UTILITY*ENEMY*Decreases MP*5
+Enigmatic Ray*1*0*NO_DAMAGE*ALMIGHTY*UTILITY*ALL_ENEMIES*Decreases MP*10
+Macca Beam*1*0*NO_DAMAGE*ALMIGHTY*UTILITY*ENEMY*Decreases Macca*5
+Wastrel Beam*1*0*NO_DAMAGE*ALMIGHTY*UTILITY*ENEMY*Decreases more Macca*10
+Crushing Wave*1*0*VARIES*ALMIGHTY*UTILITY*ENEMY*Reduces HP to 1*10
+Breath*1*5*MEDIUM*ICE*ATTACK*MULTI**24
+Death's Door*1*0*WEAK*ALMIGHTY*ATTACK*ALL_ENEMIES*Sick enemies reduced to 1 HP*15
+Makakaja*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Increases Magic*10
+Marin Karin*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ENEMY*Inflicts Charm*3
+Sexy Dance*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Charm*16
+Dia*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALLY*Heals HP*6
+Diarama*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALLY*Greatly heals HP*12
+Diarahan*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALLY*Fully heals HP*15
+Media*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALL_ALLIES*Heals HP*20
+Mediarama*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALL_ALLIES*Greatly heals HP*38
+Mediarahan*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALL_ALLIES*Fully heals HP*45
+Salvation*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALL_ALLIES*Fully heals HP. Smirking: Removes ailments*50
+Patra*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALLY*Removes Sleep/Panic/Bind/Charm/Mute/Daze*1
+Me Patra*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALL_ALLIES*Removes Sleep/Panic/Bind/Charm/Mute/Daze*8
+Posumudi*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALLY*Removes Poison/Sick*1
+Royal Curse*2*4*HEAVY*ALMIGHTY*ATTACK*MULTI*Inflicts Brand*1
+Amrita*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALLY*Removes all ailments*10
+Recarm*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALLY*Revives from KO with half HP*10
+Samarecarm*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALLY*Revives from KO with full HP*20
+Recarmdra*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALL_ALLIES*Revives and fully heals at cost of caster's life*6
+Hell Thrust*2*4*HEAVY*PHYS*ATTACK*MULTI*Smirking: Defense down*22
+Thunder Gods*1*0*SEVERE*ELEC*ATTACK*ENEMY*Smirking: Pierce*32
+Ice Age*1*0*SEVERE*ICE*ATTACK*ENEMY*Smirking: Pierce*32
+Makajam*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ENEMY*Inflicts Mute*2
+Makajamaon*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Mute*11
+Tarukaja*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Increases Attack*10
+Sukukaja*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Increases Hit/Evade rate*10
+Rakukaja*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Increases Defense*10
+Luster Candy*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Increases Attack/Defense/Hit/Evade rate*40
+Dekaja*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Removes status buffs*15
+Tarunda*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Decreases Attack*10
+Sukunda*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Decreases Hit/Evade rate*10
+Rakunda*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Decreases Defense*10
+Debilitate*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Decreases Attack/Defense/Hit/Evade rate*50
+Dekunda*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Removes status debuffs*15
+Silent Prayer*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*EVERYONE*Return all stats to normal*10
+War Cry*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Decreases Attack/Defense*30
+Fog Breath*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Decreases Attack/Hit/Evade rate*30
+Acid Breath*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Decreases Defense/Hit/Evade rate*30
+Taunt*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Increase Attack/decreases Defense*10
+Critical Eye*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF*Next Phys/Gun attack will be a critical hit*6
+Grave Judgement*1*0*VARIES*ALMIGHTY*ATTACK*ALL_ENEMIES*Attack power changes based on number of status ailments*1
+Tetrakarn*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Repels Phys/Gun attacks until your next turn*25
+Makarakarn*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Repels Magic attacks until your next turn*25
+Tetraja*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Nulls one Light or Dark attack*5
+Charge*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF*Next Phys/Gun attack deals 2.5x damage*4
+Concentrate*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF*Next Magic attack deals 2.5x damage*6
+Blood Ritual*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF*Applies all status buffs. Reduces HP to 1*10
+Sabbatma*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ALLY*Summons an ally demon*20
+Invitation*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ALLY*Summons an ally demon and revives from KO*65
+Judgment Strike*1*0*HEAVY*PHYS*ATTACK*ALL_ENEMIES*Stats down. Smirking: Pierce*1
+Bad Company*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ALL_ALLIES*Summons your highest level demons from stock*5
+Dia*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALLY*Heals HP*1
+Diarama*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALLY*Greatly heals HP*1
+Media*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALL_ALLIES*Heals HP*1
+Mediarama*1*0*NO_DAMAGE*NO_ELEMENT*HEALING*ALL_ALLIES*Greatly heals HP*1
+Smile Charge*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF*Induces Smirk if not suffering from ailments*25
+Magaon*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ENEMY*Removes Smirk*5
+Heavenly Punishment*1*0*HEAVY*ALMIGHTY*ATTACK*ALL_ENEMIES*Inflicts Panic. Smirking: Pierce*1
+Irrational Glimmer*1*0*VARIES*ALMIGHTY*ATTACK*ALL_ENEMIES*Inflicts 66% of target's HP as Almighty damage*1
+Evil-crushing Flash*1*0*SEVERE*LIGHT*ATTACK*ENEMY*Smirking: Instant kill*1
+Trafuri*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ALL_ALLIES*Guaranteed escape when possible*1
+Doping*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Increases max HP during battle*50
+Revelation*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF*Induces Smirk. Fully increases Attack and Magic*1
+Estoma*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*NO_TARGET*Avoid battles with low-level demons while skill is in effect*25
+Call Ally*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ALL_ALLIES*Calls an ally*1
+Glare*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ALL_ALLIES*No effect*1
+Do Nothing*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ALL_ALLIES*No effect*1
+No Reaction*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ALL_ALLIES*No effect*1
+Forfeit*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ENEMY*Fully decreases Attack and Magic. Inflicts Mute*1
+Nightmare*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ENEMY*Fully decreases Defense. Inflicts Sleep*1
+Bind*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ENEMY*Fully decreases Hit/Evade rate. Inflicts Brand*1
+Eternal Rest*1*0*NO_DAMAGE*NO_ELEMENT*ATTACK*EVERYONE*Instant kills sleeping targets*25
+Frenzied Chomp*1*0*WEAK*PHYS*ATTACK*ENEMY*Inflicts Poison/Bind/Charm*4
+Eat Whole*1*0*WEAK*PHYS*ATTACK*ALL_ENEMIES*Drains enemy HP*12
+Lunge*1*0*WEAK*PHYS*ATTACK*ENEMY*High critical/low hit rate*4
+Oni-Kagura*1*0*MEDIUM*PHYS*ATTACK*ENEMY*High critical/low hit rate*7
+Mortal Jihad*1*0*HEAVY*PHYS*ATTACK*ENEMY*High critical/low hit rate*12
+Critical Wave*1*0*WEAK*PHYS*ATTACK*ALL_ENEMIES*High critical/low hit rate*10
+Megaton Press*1*0*MEDIUM*PHYS*ATTACK*ALL_ENEMIES*High critical/low hit rate*16
+Titanomachia*1*0*HEAVY*PHYS*ATTACK*ALL_ENEMIES*High critical/low hit rate*27
+Gram Slice*1*0*WEAK*PHYS*ATTACK*ENEMY**3
+Fatal Sword*1*0*MEDIUM*PHYS*ATTACK*ENEMY**6
+Berserker God*1*0*HEAVY*PHYS*ATTACK*ENEMY**11
+Heat Wave*1*0*WEAK*PHYS*ATTACK*ALL_ENEMIES**11
+Javelin Rain*1*0*MEDIUM*PHYS*ATTACK*ALL_ENEMIES**25
+Hades Blast*1*0*HEAVY*PHYS*ATTACK*ALL_ENEMIES**42
+Bouncing Claw*1*3*WEAK*PHYS*ATTACK*ENEMY**4
+Damascus Claw*1*3*MEDIUM*PHYS*ATTACK*ENEMY**7
+Nihil Claw*1*3*HEAVY*PHYS*ATTACK*ENEMY**7
+Scratch Dance*1*3*WEAK*PHYS*ATTACK*MULTI**7
+Axel Claw*1*3*MEDIUM*PHYS*ATTACK*MULTI**12
+Madness Nails*1*3*HEAVY*PHYS*ATTACK*MULTI**20
+Fang Breaker*1*0*WEAK*PHYS*ATTACK*ENEMY*Attack down*10
+Dream Fist*1*0*WEAK*PHYS*ATTACK*ENEMY*Inflicts Sleep*7
+Purple Smoke*1*3*MEDIUM*PHYS*ATTACK*MULTI*Inflicts Panic*18
+Carol Hit*1*0*WEAK*PHYS*ATTACK*ENEMY*Inflicts Lost*11
+Mist Rush*2*4*MEDIUM*PHYS*ATTACK*MULTI*Inflicts Daze*22
+Tetanus Cut*1*0*MEDIUM*PHYS*ATTACK*ENEMY*Inflicts Sick*9
+Dark Sword*2*0*MEDIUM*PHYS*ATTACK*ENEMY*Inflicts Mute*12
+Blight*1*0*WEAK*PHYS*ATTACK*ALL_ENEMIES*Inflicts Poison*14
+Singularity Hail*1*0*HEAVY*ICE*ATTACK*ALL_ENEMIES*Pierce*1
+Binding Claw*1*0*MEDIUM*PHYS*ATTACK*ALL_ENEMIES*Inflicts Bind*9
+Poison Claw*1*0*MEDIUM*PHYS*ATTACK*ENEMY*Inflicts Poison*7
+Iron Judgment*1*0*MEDIUM*PHYS*ATTACK*ENEMY**6
+Needle Shot*1*0*WEAK*GUN*ATTACK*ENEMY**2
+Tathlum Shot*1*0*MEDIUM*GUN*ATTACK*ENEMY**5
+Grand Tack*1*0*HEAVY*GUN*ATTACK*ENEMY**9
+Riot Gun*1*0*SEVERE*GUN*ATTACK*ENEMY*Smirking: Pierce*24
+Rapid Needle*1*0*WEAK*GUN*ATTACK*ALL_ENEMIES**9
+Blast Arrow*1*0*MEDIUM*GUN*ATTACK*ALL_ENEMIES**15
+Heaven's Bow*1*0*HEAVY*GUN*ATTACK*ALL_ENEMIES**27
+Dream Needle*1*0*WEAK*GUN*ATTACK*ENEMY*Inflicts Sleep*7
+Toxic Sting*1*0*WEAK*GUN*ATTACK*ENEMY*Inflicts Poison*7
+Stun Needle*1*0*WEAK*GUN*ATTACK*ENEMY*Inflicts Bind*9
+Madness Needle*1*0*WEAK*GUN*ATTACK*ENEMY*Inflicts Panic*9
+Stun Needles*1*3*MEDIUM*GUN*ATTACK*MULTI*Inflicts Bind*18
+Myriad Arrows*2*4*MEDIUM*GUN*ATTACK*MULTI**22
+Desperate Hit*1*5*WEAK*ALMIGHTY*ATTACK*MULTI**32
+Sleep Shot*1*0*WEAK*GUN*ATTACK*ENEMY*Inflicts Sleep*7
+Rapid Bind*1*3*MEDIUM*GUN*ATTACK*MULTI*Inflicts Bind*12
+Head Crush*1*0*WEAK*PHYS*ATTACK*ENEMY*Inflicts Daze*4
+Power Punch*1*0*MEDIUM*PHYS*ATTACK*ENEMY*Smirking: Daze*7
+Earthquake*1*0*MEDIUM*PHYS*ATTACK*ALL_ENEMIES*Inflicts Daze*19
+Assist Attack 2*2*0*MEDIUM*ALMIGHTY*ATTACK*MULTI**1
+Assist Attack 4*4*0*MEDIUM*ALMIGHTY*ATTACK*MULTI**1
+Assist Attack 6*6*0*MEDIUM*ALMIGHTY*ATTACK*MULTI**1
+Assist Attack 8*8*0*MEDIUM*ALMIGHTY*ATTACK*MULTI**1
+Assist Attack 10*10*0*MEDIUM*ALMIGHTY*ATTACK*MULTI**1
+Assist Attack 12*12*0*MEDIUM*ALMIGHTY*ATTACK*MULTI**1
+Assist Attack 14*14*0*MEDIUM*ALMIGHTY*ATTACK*MULTI**1
+Assist Attack 0*1*0*NO_DAMAGE*NO_ELEMENT*NO_CLASS*NO_TARGET**1
+Will of Flame*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Fire attacks pierce until end of your turn*15
+Will of Frost*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Ice attacks pierce until end of your turn*15
+Will of Thunder*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Elec attacks pierce until end of your turn*15
+Will of Wind*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Force attacks pierce until end of your turn*15
+Coercion*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ALL_ENEMIES*Remove 1 Press Turn Icon on enemy's next turn*1
+Imposing Stance*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*SELF*Remove 1 Press Turn Icon on enemy's next turn*25
+Spear of Michael*1*0*MEDIUM*PHYS*ATTACK*ENEMY**8
+Gungnir*1*0*SEVERE*PHYS*ATTACK*ENEMY*Pierce*22
+Normal Attack 1*1*0*UNKNOWN_POWER*NO_ELEMENT*ATTACK*ENEMY*Asahi performs a basic attack*1
+Normal Attack 2*1*0*UNKNOWN_POWER*NO_ELEMENT*ATTACK*ENEMY*Asahi performs a basic attack*1
+Normal Attack 3*1*0*UNKNOWN_POWER*NO_ELEMENT*ATTACK*ENEMY*Asahi performs a basic attack*1
+Normal Attack 4*1*0*UNKNOWN_POWER*NO_ELEMENT*ATTACK*ENEMY*Asahi performs a basic attack*1
+Normal Attack 5*1*0*UNKNOWN_POWER*NO_ELEMENT*ATTACK*ENEMY*Asahi performs a basic attack*1
+Mouth of God*1*0*INSTAKILL*PHYS*ATTACK*ENEMY*Instant kill attack*1
+Michael's Strike*1*0*MEDIUM*PHYS*ATTACK*ALL_ENEMIES**19
+Michael's Syphon*1*0*MEDIUM*PHYS*ATTACK*ENEMY*Drains enemy HP*13
+Michael's Twin Strike*2*0*WEAK*PHYS*ATTACK*MULTI**16
+Michael's Pierce*1*0*MEDIUM*PHYS*ATTACK*ENEMY*Removes status buffs*22
+Cheer*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALLY*Induces Smirk if not suffering from ailments*50
+Gungnir Strike*1*0*HEAVY*PHYS*ATTACK*ALL_ENEMIES*Pierce*30
+Gungnir Syphon*1*0*HEAVY*PHYS*ATTACK*ENEMY*Drains enemy HP. Pierce.*20
+Gungnir Twin Strike*2*0*MEDIUM*PHYS*ATTACK*MULTI*Pierce*26
+Gungnir Pierce*1*0*HEAVY*PHYS*ATTACK*ENEMY*Pierce. Removes status buffs*34
+Gungnir Sever*6*0*MEDIUM*PHYS*ATTACK*ENEMY*Low hit rate. Pierce*37
+Enduring Cheer*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Grants targets Endure until end of turn. Chance: Medium*30
+Warding Shout*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Prevents status ailments until the next turn*30
+Pierce Armor*1*0*MEDIUM*PHYS*ATTACK*ENEMY*Pierce. Defense down*16
+Assassin's Nata*1*0*MEDIUM*PHYS*ATTACK*ENEMY*Ailments increase power*19
+Enlightenment*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF*Drains weakness until your next turn. Smirking: Stats up*8
+5.67 Billion Hands*1*0*WEAK*ALMIGHTY*ATTACK*ALL_ENEMIES*Smirking: More power*50
+Venomous Raga*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Poison/Sick/Bind/Attack down*65
+Dream Raga*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Sleep/Panic/Charm/Defense down*65
+Temporal Blade*1*0*INSTAKILL*PHYS*ATTACK*ENEMY*Might make Phys attack at start of battle*1
+Sneak Attack*1*0*INSTAKILL*PHYS*ATTACK*ENEMY*Pierce. Might make Phys attack during enemy turn*1
+Infernal Hail*1*0*MEDIUM*ICE*ATTACK*ALL_ENEMIES*Hit/Evade down*30
+Needlestorm*1*0*MEDIUM*FORCE*ATTACK*ALL_ENEMIES*Inflicts Daze*30
+Photo Flash*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Daze/Hit/Evade down*20
+Seducing Shot*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Charm/Attack down*30
+Mother's Discipline*3*0*MEDIUM*GUN*ATTACK*ALL_ENEMIES*Removes Smirk*40
+Hellish Brand*1*0*HEAVY*FIRE*ATTACK*ENEMY*Removes status buffs*20
+Grand Tack A*1*0*HEAVY*GUN*ATTACK*ENEMY**11
+Grand Tack B*1*0*HEAVY*GUN*ATTACK*ENEMY**11
+King Bufula*1*0*MEDIUM*ICE*ATTACK*ALL_ENEMIES*Smirking: Defense down*24
+Vengeful Curse*1*0*NO_DAMAGE*NO_ELEMENT*NO_CLASS*NO_TARGET**1
+Snake's Fangs*2*3*HEAVY*GUN*ATTACK*MULTI**1
+Adaptive Tactics*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF*Changes your weakness when exploited*40
+Alluring Banter*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ENEMY*Fully decreases Defense. Inflicts Charm*45
+Dazzle Ray*1*0*SEVERE*LIGHT*ATTACK*ENEMY*Smirking: Instant kill*36
+Growling Hate*1*0*VARIES*ALMIGHTY*ATTACK*ALL_ENEMIES*Light resistance affects power*100
+Fear Darkness*1*0*SEVERE*DARK*ATTACK*ENEMY*Smirking: Instant kill*36
+Zenki's Axe*2*0*SEVERE*PHYS*ATTACK*MULTI*Pierce*30
+Goki's Water Wall*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF*Fully increases Defense/Hit/Evade rate*50
+Peacock Incantation*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*SELF*"When hit next, inflict the same damage. Smirking: Continuous"*1
+Peacock Incantation*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ALL_ENEMIES*"When hit next, inflict the same damage. Smirking: Continuous"*1
+Dark Photon*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF**1
+Blank Bullet*2*0*MEDIUM*GUN*ATTACK*ALL_ENEMIES*Inflicts Panic*22
+Black Body Radiation*1*0*VARIES*ALMIGHTY*ATTACK*ALL_ENEMIES*Inflicts 50% of target's HP as Almighty damage*1
+Evil Gleam*1*0*SEVERE*ALMIGHTY*ATTACK*ALL_ENEMIES*Inflicts Panic*110
+Kingly One*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ENEMY*Randomly returns a target back to the stock*1
+Morning Star*1*0*VARIES*NO_ELEMENT*ATTACK*ALL_ENEMIES*Halves HP of all enemies*1
+Chariot*1*0*MEDIUM*ALMIGHTY*ATTACK*ALL_ENEMIES*Hit/Evade down*60
+Shalt Not Resist*2*0*MEGA*ALMIGHTY*ATTACK*MULTI*Defense down*1
+Hexagram*1*0*INSTAKILL*NO_ELEMENT*ATTACK*ENEMY*Never misses.*1
+Singularity Lightning*1*0*HEAVY*ELEC*ATTACK*ALL_ENEMIES*Pierce*1
+Singularity Vortex*1*0*HEAVY*FORCE*ATTACK*ALL_ENEMIES*Pierce*1
+Energy Compression*1*0*HEAVY*PHYS*ATTACK*ENEMY*Pierce*1
+Execute Code*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ALL_ENEMIES*Removes 3 Press Turn icons on enemy's next turn*1
+Crack Code*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*SELF*Removes 3 Press Turn icons on enemy's next turn*1
+Combat Tara*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Increases Attack/Defense/Hit/Evade rate*60
+Moxagita*1*0*VARIES*NO_ELEMENT*ATTACK*ALL_ENEMIES*Attack power changes based on number of status ailments*1
+Ideals of Maruology*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Sleep*1
+Maruology Anthem*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Panic*1
+"Watch Us, Maruo!"*1*3*SEVERE*PHYS*ATTACK*MULTI*Inflicts Panic*1
+Gaze Upon Maruo!*1*0*HEAVY*PHYS*ATTACK*ALL_ENEMIES*Inflicts Daze*1
+Maru-Maru Dance*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Charm*1
+"Good Night, Baby"*1*0*HEAVY*PHYS*ATTACK*ENEMY*Inflicts Sleep*1
+Being Myself*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Bind*1
+As I Wish*1*0*HEAVY*PHYS*ATTACK*ALL_ENEMIES*High critical/low hit rate*1
+Thousand Heads*1*0*SEVERE*PHYS*ATTACK*ENEMY*High critical rate*1
+Serpent's Hunger*1*0*HEAVY*PHYS*ATTACK*ENEMY*Inflicts Poison/Bind/Charm*1
+Seismic Yawm*1*0*HEAVY*PHYS*ATTACK*ALL_ENEMIES*High critical rate*1
+Wave of Endless Power*1*0*MEDIUM*ALMIGHTY*ATTACK*ALL_ENEMIES**1
+Venomous Flare*1*0*WEAK*FIRE*ATTACK*ALL_ENEMIES*Inflicts poison*1
+Illogical Rejection*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF*Nulls Dekaja for 1 turn*1
+Miracle*1*0*VARIES*ALMIGHTY*ATTACK*ALL_ENEMIES*Reduces HP to 1*1
+Vengeful Curse*1*0*UNKNOWN_POWER*ALMIGHTY*ATTACK*ENEMY*Drains enemy MP*1
+Dark Grudge*1*0*SEVERE*DARK*ATTACK*ENEMY*Smirking: Instant kill*30
+Divine Harmony*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Nulls all support effects*1
+Planned Chaos*1*0*MEDIUM*NO_ELEMENT*ATTACK*ENEMY*Inflicts Bind/Panic/Charm*1
+Mouth of God*1*0*INSTAKILL*NO_ELEMENT*ATTACK*ENEMY**1
+Makabuild*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF*Greatly increases Magic*1
+Lost Hit*1*0*HEAVY*PHYS*ATTACK*ENEMY*Inflicts Lost*1
+Denial*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ENEMY*Returns a random target to the stock*1
+Singularity Brand*1*0*SEVERE*PHYS*ATTACK*ENEMY*Inflicts Brand*1
+Lightning of God*1*0*HEAVY*ELEC*ATTACK*ALL_ENEMIES*Pierce*50
+Tetrabreak*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Removes the Tetrakarn effect*15
+Reboot Code*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Nulls all support effects*1
+Singularity Wave*1*0*SEVERE*ALMIGHTY*ATTACK*ENEMY**1
+Tornado of God*1*0*HEAVY*FORCE*ATTACK*ALL_ENEMIES*Pierce*50
+Calamity Code*1*0*MEDIUM*ALMIGHTY*ATTACK*ENEMY*Inflicts Bind/Panic/Charm*1
+Hailstorm of God*1*0*HEAVY*ICE*ATTACK*ALL_ENEMIES*Pierce*50
+Makarabreak*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Removes the Makarakarn effect*15
+Convergence*6*10*HEAVY*PHYS*ATTACK*MULTI**1
+Black Hole*1*0*UNKNOWN_POWER*ALMIGHTY*ATTACK*ALL_ENEMIES*Drains enemy MP*1
+Inferno of God*1*0*HEAVY*FIRE*ATTACK*ALL_ENEMIES*Pierce*50
+Lightspeed Slash*1*0*MEDIUM*PHYS*ATTACK*ENEMY*Weakens random resist. Pierce*30
+Crescent Slice*2*0*MEDIUM*PHYS*ATTACK*ENEMY*Hit/Evade down*25
+Morale Boost*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Increases Attack/Defense/Hit/Evade rate*80
+Gideon Bullet*1*0*MEDIUM*GUN*ATTACK*ENEMY*Weakens random resist. Pierce*30
+Pressure*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ALL_ENEMIES*Removes 2 Press Turn icons on enemy's next turn*1
+Pressuring Stance*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*SELF*Removes 2 Press Turn icons on enemy's next turn*1
+Gungnir*1*0*SEVERE*PHYS*ATTACK*ENEMY*Pierce*1
+Sonic Shot*2*0*MEDIUM*GUN*ATTACK*ENEMY*Removes Smirk*25
+Guardian's Eye*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ALL_ALLIES*Adds 3 Turn Press icons*255
+Snake's Fangs*2*3*HEAVY*GUN*ATTACK*MULTI*Inflicts Bind*24
+Warrior's Spirit*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Decreases Attack/Defense/Hit/Evade rate*100
+Freikugel*1*0*SEVERE*ALMIGHTY*ATTACK*ENEMY*Smirking: 2x damage*50
+Magma Axis*1*0*SEVERE*FIRE*ATTACK*ENEMY**43
+Gaea Rage*1*0*SEVERE*ALMIGHTY*ATTACK*ALL_ENEMIES*Defense down*66
+Deadly Fury*1*0*HEAVY*PHYS*ATTACK*ALL_ENEMIES*Pierce. High critical rate*45
+Dark Nandaka*4*0*HEAVY*DARK*ATTACK*MULTI*Pierce*1
+Move Slowly*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*SELF**1
+Silence*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*SELF**1
+Scorn*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*SELF**1
+Light Nandaka*4*0*HEAVY*LIGHT*ATTACK*MULTI*Pierce*1
+Raging Hellfire*1*0*SEVERE*FIRE*ATTACK*ENEMY*Gain Ice weakness*45
+Raging Blizzard*1*0*SEVERE*ICE*ATTACK*ENEMY*Gain Fire weakness*45
+Raging Lightning*1*0*SEVERE*ELEC*ATTACK*ENEMY*Gain Force weakness*45
+Raging Tempest*1*0*SEVERE*FORCE*ATTACK*ENEMY*Gain Elec weakness*45
+Fire of Sinai*1*5*SEVERE*ALMIGHTY*ATTACK*MULTI**55
+Godslayer's Sword*1*0*VARIES*ALMIGHTY*ATTACK*ENEMY*Highly effective vs YHVH. Weakens random resist*35
+Expert Spearplay*1*0*WEAK*PHYS*ATTACK*ENEMY**10
+Spearman's Strike*1*0*WEAK*PHYS*ATTACK*ALL_ENEMIES**25
+Spearman's Syphon*1*0*WEAK*PHYS*ATTACK*ENEMY*Drains enemy HP*17
+Spearman's Twin Strike*2*0*WEAK*PHYS*ATTACK*MULTI**20
+Spearman's Pierce*1*0*WEAK*PHYS*ATTACK*ENEMY*Removes buffs*28
+Magic Compression*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF*Pierce*20
+Soul Drain*1*0*UNKNOWN_POWER*ALMIGHTY*ATTACK*ENEMY*Drains enemy HP/MP. Smirking: More power*7
+Blink of Death*1*0*HEAVY*DARK*ATTACK*ENEMY*Defense down. Smirking: Instant kill*30
+Fire of Lethargy*1*0*HEAVY*FIRE*ATTACK*ENEMY*Defense/Hit/Evade rate down*45
+Light Devourer*1*0*HEAVY*DARK*ATTACK*ALL_ENEMIES*Drains enemy HP*33
+True Agidyne*1*0*SEVERE*FIRE*ATTACK*ENEMY**32
+True Bufudyne*1*0*SEVERE*ICE*ATTACK*ENEMY**32
+True Ziodyne*1*0*SEVERE*ELEC*ATTACK*ENEMY**32
+True Zandyne*1*0*SEVERE*FORCE*ATTACK*ENEMY**32
+Magic Torrent*4*6*HEAVY*ALMIGHTY*ATTACK*MULTI**50
+Vengeful Thunder*1*0*HEAVY*ELEC*ATTACK*ENEMY**25
+Crush*1*0*SEVERE*PHYS*ATTACK*ENEMY**1
+Wave Function*1*0*SEVERE*ALMIGHTY*ATTACK*ALL_ENEMIES**1
+Pair Production*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF*Fully increases all stats and induces Smirk*1
+Particle Annihilation*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Fully decreases all stats*1
+Barrage*1*0*WEAK*GUN*ATTACK*ALL_ENEMIES**10
+Rending Claws*3*4*HEAVY*PHYS*ATTACK*ENEMY**15
+Severe Judgement*1*0*WEAK*ALMIGHTY*ATTACK*ALL_ENEMIES*Smirking: More power*50
+Megiddo Ark*1*0*SEVERE*ALMIGHTY*ATTACK*ENEMY**60
+Akasha Arts*1*0*SEVERE*PHYS*ATTACK*ENEMY*Smirking: Pierce*1
+Messiah Blast*1*0*SEVERE*ALMIGHTY*ATTACK*ALL_ENEMIES*Smirk only*30
+Messiah Blast*1*0*SEVERE*ALMIGHTY*ATTACK*ALL_ENEMIES*Smirk only*30
+Agilao Stone*1*0*MEDIUM*FIRE*ATTACK*ENEMY**1
+Bufula Stone*1*0*MEDIUM*ICE*ATTACK*ENEMY**1
+Zionga Stone*1*0*MEDIUM*ELEC*ATTACK*ENEMY**1
+Zanma Stone*1*0*MEDIUM*FORCE*ATTACK*ENEMY**1
+Hamaon Stone*1*0*HEAVY*LIGHT*ATTACK*ENEMY*Smirking: Instant kill*1
+Mudoon Stone*1*0*HEAVY*DARK*ATTACK*ENEMY*Smirking: Instant kill*1
+Megidola Stone*1*0*MEDIUM*ALMIGHTY*ATTACK*ALL_ENEMIES**1
+Attack Mirror*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Repels Phys/Gun attacks for 1 turn*1
+Magic Mirror*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Repel all non-status Magic attacks for 1 turn*1
+Dekaja Stone*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Removes status buffs*1
+Dekunda Stone*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ALLIES*Removes status debuffs*1
+Loyalty Slash*1*0*HEAVY*PHYS*ATTACK*ENEMY*Smirking: Instant kill*20
+Dance of Mara*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Charm*20
+Shine More*2*4*HEAVY*ALMIGHTY*ATTACK*MULTI*Inflicts Daze*1
+Struggle*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*SELF**1
+Divine Wave*1*0*SEVERE*PHYS*ATTACK*ENEMY**1
+Authority*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*ALL_ENEMIES*Remove 3 Press Turn icons on enemy's next turn*1
+Authoritative Stance*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*SELF*Remove 3 Press Turn icons on enemy's next turn*1
+Holy Stigmata*1*0*SEVERE*PHYS*ATTACK*ENEMY**1
+Rampage*6*10*HEAVY*PHYS*ATTACK*MULTI**1
+Black Hole*1*0*UNKNOWN_POWER*ALMIGHTY*ATTACK*ALL_ENEMIES*Drains enemy MP*1
+Supernova*1*0*SEVERE*ALMIGHTY*ATTACK*ALL_ENEMIES**1
+Infinite Power*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF*Fully increases all stats and induces Smirk*1
+Unending Curse*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*ALL_ENEMIES*Fully decreases all stats. Inflicts Mute*1
+Diploid Force*1*0*NO_DAMAGE*NO_ELEMENT*UTILITY*SELF*Adds 2 Press Turn icons*1
+Haunting Rhapsody*1*0*NO_DAMAGE*NO_ELEMENT*AILMENT*ALL_ENEMIES*Inflicts Panic/Stats down*100
+Andalusia*4*12*HEAVY*PHYS*ATTACK*MULTI**20
+God's Bow*1*0*HEAVY*LIGHT*ATTACK*ENEMY*Instant kill*40
+Blade of Terror*1*5*MEDIUM*PHYS*ATTACK*MULTI*Pierce*35
+Ruinous Brand*1*0*SEVERE*PHYS*ATTACK*ENEMY**20
+Soul Divide*1*0*HEAVY*ALMIGHTY*ATTACK*ALL_ENEMIES*Inflicts Mute/Hit/Evade rate down*40
+Calibrate*1*0*NO_DAMAGE*NO_ELEMENT*SUPPORT*SELF*Greatly increases Hit/Evade rate*30
+Pestilence*1*0*WEAK*PHYS*ATTACK*ALL_ALLIES*Ailments increase power*50
+Evil Melody*1*0*WEAK*ALMIGHTY*ATTACK*ENEMY*Smirking: Instant kill*45
+Death Lust*1*0*WEAK*ALMIGHTY*ATTACK*ALL_ENEMIES*Inflicts Charm*70
+Resist Phys*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Increases resistance to Phys attacks*0
+Null Phys*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Nulls Phys attacks*0
+Repel Phys*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Repels Phys attacks*0
+Drain Phys*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Drains Phys attacks*0
+Resist Gun*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Increases resistance to Gun attacks*0
+Null Gun*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Nulls Gun attacks*0
+Repel Gun*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Repels Gun attacks*0
+Drain Gun*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Drains Gun attacks*0
+Resist Fire*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Increases resistance to Fire attacks*0
+Null Fire*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Nulls Fire attacks*0
+Repel Fire*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Repels Fire attacks*0
+Drain Fire*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Drains Fire attacks*0
+Resist Ice*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Increases resistance to Ice attacks*0
+Null Ice*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Nulls Ice attacks*0
+Repel Ice*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Repels Ice attacks*0
+Drain Ice*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Drains Ice attacks*0
+Resist Elec*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Increases resistance to Elec attacks*0
+Null Elec*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Nulls Elec attacks*0
+Repel Elec*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Repels Elec attacks*0
+Drain Elec*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Drains Elec attacks*0
+Resist Force*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Increases resistance to Force attacks*0
+Null Force*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Nulls Force attacks*0
+Repel Force*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Repels Force attacks*0
+Drain Force*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Drains Force attacks*0
+Resist Dark*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Increases resistance to Dark attacks*0
+Null Dark*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Nulls Dark attacks*0
+Resist Light*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Increases resistance to Light attacks*0
+Null Light*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Nulls Light attacks*0
+Null Mind*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Nulls Sleep/Panic/Charm/Mute*0
+Null Nerve*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Nulls Poison/Bind/Sick/Daze*0
+Phys Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Strengthens Phys attacks*0
+High Phys Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly strengthens Phys attacks*0
+Gun Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Strengthens Gun attacks*0
+High Gun Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly strengthens Gun attacks*0
+Fire Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Strengthens Fire attacks*0
+High Fire Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly strengthens Fire attacks*0
+Ice Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Strengthens Ice attacks*0
+High Ice Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly strengthens Ice attacks*0
+Elec Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Strengthens Elec attacks*0
+High Elec Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly strengthens Elec attacks*0
+Force Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Strengthens Force attacks*0
+High Force Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly strengthens Force attacks*0
+Heal Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Strengthens healing magic*0
+High Heal Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly strengthens healing magic*0
+Endure*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Revive from KO once per battle with 1 HP*0
+Enduring Soul*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Revive from KO once per battle with full HP*0
+Counter*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Chance of countering Phys or Gun attack*0
+Retaliate*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*High chance of countering Phys or Gun attack*0
+Ally Counter*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Chance of countering Phys or Gun attack to ally*0
+Ally Retaliate*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*High chance of countering Phys or Gun attack to ally*0
+Life Aid*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Recover full HP after battle*0
+Mana Aid*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Recover full MP after battle*0
+Victory Cry*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Recover full HP/MP after battle*0
+Spring of Life*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Recover some HP while walking. Inactive when in stock*0
+Chakra Walk*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Recover some MP while walking. Inactive when in stock*0
+Lost Catcher*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Prevents demons from becoming Lost. Returns them to party 100% of the time*0
+Hiding*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Less likely to be targeted by enemies*0
+Temporal Blade*1*0*INSTAKILL*NO_ELEMENT*PASSIVE*NO_TARGET*Might make Phys attack at start of battle*0
+Sneak Attack*1*0*INSTAKILL*NO_ELEMENT*PASSIVE*NO_TARGET*Pierce. Might make Phys attack during enemy turn*0
+Self-Righteous Vow*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Raises stats every time own weak point is hit*0
+Life Bonus*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Slightly increases maximum HP*0
+Life Gain*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Increases maximum HP*0
+Life Surge*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly increases maximum HP*0
+Mana Bonus*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Slightly increases maximum MP*0
+Mana Gain*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Increases maximum MP*0
+Mana Surge*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly increases maximum MP*0
+Dark Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Strengthens Dark attacks*0
+High Dark Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly strengthens Dark attacks*0
+Light Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Strengthens Light attacks*0
+High Light Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly strengthens Light attacks*0
+Healing Knowhow*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Enables the use of healing/support items*0
+High Poly Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly strengthens all attacks*0
+Repel Dark*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Repels Dark attacks*0
+Drain Dark*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Drains Dark attacks*0
+Attack Knowhow*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Enables use of attack items*0
+Repel Light*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Repels Light attacks*0
+Light Life Aid*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Repels Light attacks*0
+Light Mana Aid*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Recover a little HP after a battle*0
+Light Pierce*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Light attacks pierce the enemy's Light Drain/Repel/Null/Resist*0
+Dark Pierce*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Dark attacks pierce the enemy's Dark Drain/Repel/Null/Resist*0
+Drain Light*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Drains Light attacks*0
+Hellish Mask*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Decreases chances of suffering ailments*0
+Hard Worker*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Obtain more EXP after battles*0
+Workaholic*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Obtain much more EXP after battles*0
+Beastly Reaction*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Increases Hit/Evade rate*0
+Draconic Reaction*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly increases Hit/Evade rate*0
+Bloody Glee*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Increases critical hit rate*0
+Phys Pierce*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Phys attacks pierce the enemy's Phys Drain/Repel/Null/Resist*0
+Gun Pierce*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Gun attacks pierce the enemy's Gun Drain/Repel/Null/Resist*0
+Fire Pierce*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Fire attacks pierce the enemy's Fire Drain/Repel/Null/Resist*0
+Ice Pierce*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Ice attacks pierce the enemy's Ice Drain/Repel/Null/Resist*0
+Elec Pierce*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Elec attacks pierce the enemy's Elec Drain/Repel/Null/Resist*0
+Force Pierce*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Force attacks pierce the enemy's Force Drain/Repel/Null/Resist*0
+Awakened Power (+Pierce)*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Strengthens and adds pierce to all attacks*0
+Awakened Power (+Healing)*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly strengthens healing magic*0
+Awakened Power (+Gun +Pierce Gun)*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Strengthens and adds pierce to all Gun attacks*0
+Awakened Power (+Magic)*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly strengthens Magic attacks*0
+Awakened Power (+Phys)*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Greatly strengthens Phys attacks*0
+Awakened Power (+Phys Pierce +Sneak)*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Phys attacks gain pierce. Sneak Attack activation rate increased*0
+Almighty Pleroma*1*0*NO_DAMAGE*NO_ELEMENT*PASSIVE*NO_TARGET*Strengthens Almighty attacks*0
+********

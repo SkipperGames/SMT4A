@@ -7,9 +7,9 @@ namespace SMT4A
         ANY_CLASS,
         NO_CLASS,
         ATTACK,
-        SUPPORT,
+        HEALING,
         UTILITY,
-        STATUS,
+        SUPPORT,
         AILMENT,
         PASSIVE,
     }

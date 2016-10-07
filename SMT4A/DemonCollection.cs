@@ -95,6 +95,7 @@ namespace SMT4A
                                 " = [" + Demons[i].Race + "] " +
                                 Demons[i].Name);
                         }
+                        sw.Close();
                     }
                 }
                 catch (System.IO.IOException ex)
