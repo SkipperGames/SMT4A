@@ -144,6 +144,12 @@
     "HasSprite": true
   },
   {
+    "Id": 44,
+    "Race": "Megami",
+    "Name": "Cleopatra",
+    "HasSprite": true
+  },
+  {
     "Id": 47,
     "Race": "Avian",
     "Name": "Garuda",
@@ -1959,6 +1965,12 @@
     "Id": 496,
     "Race": "Tyrant",
     "Name": "Azazel",
+    "HasSprite": true
+  },
+  {
+    "Id": 497,
+    "Race": "Tyrant",
+    "Name": "Mephisto",
     "HasSprite": true
   },
   {
@@ -4311,6 +4323,72 @@
     "Id": 1071,
     "Race": "Tree",
     "Name": "Danu",
+    "HasSprite": true
+  },
+  {
+    "Id": 1101,
+    "Race": "Horde",
+    "Name": "Egyptian Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 1105,
+    "Race": "Horde",
+    "Name": "A. Law Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 1106,
+    "Race": "Horde",
+    "Name": "A. Chaos Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 1107,
+    "Race": "Fiend",
+    "Name": "En no Ozuno",
+    "HasSprite": true
+  },
+  {
+    "Id": 1108,
+    "Race": "Megami",
+    "Name": "Cleopatra",
+    "HasSprite": true
+  },
+  {
+    "Id": 1109,
+    "Race": "Tyrant",
+    "Name": "Mephisto",
+    "HasSprite": true
+  },
+  {
+    "Id": 1110,
+    "Race": "Meta",
+    "Name": "Stephen (stage 1)",
+    "HasSprite": true
+  },
+  {
+    "Id": 1111,
+    "Race": "Meta",
+    "Name": "Stephen (stage 2)",
+    "HasSprite": true
+  },
+  {
+    "Id": 1112,
+    "Race": "Horde",
+    "Name": "A. Neutral Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": 1179,
+    "Race": "Horde",
+    "Name": "Demonic Horde",
+    "HasSprite": true
+  },
+  {
+    "Id": -2,
+    "Race": "Horde",
+    "Name": "Demonic Horde",
     "HasSprite": true
   }
 ]

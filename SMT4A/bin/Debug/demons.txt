@@ -22,6 +22,7 @@
 0029 = [Megami] Hathor
 002A = [Megami] Brigid
 002B = [Megami] Izanami
+002C = [Megami] Cleopatra
 002F = [Avian] Garuda
 0030 = [Avian] Yatagarasu
 0031 = [Avian] Feng Huang
@@ -325,6 +326,7 @@
 01EE = [Tyrant] Mithras
 01EF = [Tyrant] Morax
 01F0 = [Tyrant] Azazel
+01F1 = [Tyrant] Mephisto
 01F2 = [Tyrant] Lucifuge
 01F5 = [Drake] Fafnir
 01F6 = [Drake] Ym
@@ -717,3 +719,14 @@
 042B = [Tree] Vishnu-Flynn 2
 042C = [Tree] Nanashi
 042F = [Tree] Danu
+044D = [Horde] Egyptian Horde
+0451 = [Horde] A. Law Horde
+0452 = [Horde] A. Chaos Horde
+0453 = [Fiend] En no Ozuno
+0454 = [Megami] Cleopatra
+0455 = [Tyrant] Mephisto
+0456 = [Meta] Stephen (stage 1)
+0457 = [Meta] Stephen (stage 2)
+0458 = [Horde] A. Neutral Horde
+049B = [Horde] Demonic Horde
+FFFE = [Horde] Demonic Horde
